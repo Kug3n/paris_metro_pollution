@@ -1,0 +1,843 @@
+<html>
+
+<head>
+
+  <title>Map</title>
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=B612+Mono:400,400i,700,700i&display=swap" rel="stylesheet">
+<!-- font-family: 'B612 Mono', monospace; -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+    crossorigin=""/>
+    <link rel="stylesheet" href="css/custom.css">
+     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+    crossorigin=""></script>
+
+  <!-- <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script> -->
+  <!-- <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script> -->
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="js/leaflet.ajax.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
+  <script src="js/leaflet.pattern-src.js"></script>
+ <!--ajax pour appeler les differents calques -->
+
+  <script type="text/javascript">
+
+  function switchInfoPerso1() {
+    divInfo1 = document.getElementById('divacacher1');
+    divInfo2 = document.getElementById('divacacher2');
+    if (divInfo1.style.display == 'none')
+      divInfo1.style.display = 'block';
+    else divInfo1.style.display = 'none';
+    if (divInfo2.style.display == 'block')
+      divInfo2.style.display = 'none'; }
+
+  function switchInfoPerso2() {
+    divInfo2 = document.getElementById('divacacher2');
+    divInfo1 = document.getElementById('divacacher1');
+    if (divInfo2.style.display == 'none')
+      divInfo2.style.display = 'block';
+    else divInfo2.style.display = 'none';
+    if (divInfo1.style.display == 'block')
+      divInfo1.style.display = 'none'; }
+
+  </script>
+
+
+</head>
+
+<body>
+
+  <audio id="railNetworkSound">
+    <source src="assets/0396.mp3" type="audio/mpeg">
+      <source src="assets/0396.ogg" type="audio/ogg">
+        Unable to play audio.
+  </audio>
+
+  <!-- <div id="title">PARIS : <br> CONVERGENCE POLLUTION//DEPLACEMENT</div> -->
+  <div id="title">PARIS : <br> CONFLUENCE <br>OF TRANSIT & POLLUTION</div>
+
+  <!-- <div id="button">3</div> -->
+
+  <!-- <div id="toggleCaption" class="volet animation">
+    LÉGENDE
+     <div id="divacacher1" style="display: none;">Test Romain</div>
+     <div id="divacacher2" style="display: none;">Test Romain 2</div>
+  </div> -->
+
+  <!-- <div id="bt1" class="bt1">P</div>
+
+
+  <div id="bt2" class="bt1">Rail</div>
+
+  <div id="bt3" class="bt1">V</div>
+
+  <div id="bt4" class="bt1">TC</div> -->
+
+  <div class="flag" id="fr"><img alt="FR" id="img_fr" src="assets/fr.svg" /></div>
+  <div class="flag" id="uk"><img alt="UK" id="img_uk" src="assets/uk.svg" /></div>
+
+            <div class="whole_container">
+
+                                              <div class="button_side" id="about_button">About</div>
+
+
+              <div class="opening_panel" id="about" style="display:none">
+                <div id="description_panel"><div id='1'>This map brings out the possible correlation between pollution and the daily transit of thousands towards Paris. In 2015, the city has recorded an average annual concentration of 35 μg/m³ of PM10 and 14 μg/m³ of PM2.5. Nevertheless these should not exceed 20 μg/m3 and 10 μg/m3 respectively according to the World Health Organisation.  <br><br>Quantitative data have been sourced from the following: <br></div>
+                                              <a target="_blank" href="https://www.data.gouv.fr/fr/datasets/indices-qualite-de-lair-citeair-journaliers-par-polluant-sur-lile-de-france-les-departements-les-communes-franciliennes-et-les-arrondissements-parisiens/#_">data.gouv.fr and Airparif</a><br>
+                                              <a target="_blank" href="https://www.insee.fr/fr/statistiques/4171469?sommaire=4171473">Insee</a><br>
+                                              <a target="_blank" href="https://data.iledefrance.fr/explore/dataset/gares-et-stations-du-reseau-ferre-dile-de-france-par-ligne/information/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJpZF9yZWZfemRsIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzY2YzJhNSJ9XSwieEF4aXMiOiJtb2RlIiwibWF4cG9pbnRzIjo1MCwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoiZ2FyZXMtZXQtc3RhdGlvbnMtZHUtcmVzZWF1LWZlcnJlLWRpbGUtZGUtZnJhbmNlLXBhci1saWduZSIsIm9wdGlvbnMiOnt9fX1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D">Ile-de-France Mobilités</a><br>
+                                              <a target="_blank" href="https://data.sncf.com/explore/dataset/frequentation-gares/information/?sort=nom_gare">SNCF</a><br>
+                                              <a target="_blank" href="https://data.ratp.fr/explore/dataset/trafic-annuel-entrant-par-station-du-reseau-ferre-2016/information/">RATP</a><br><br>
+                                              <div id='2'>The graphical elements show various geographical distributions of data on daily home-workplace transit, air quality and the complex rail network of the Ile de France region in 2016. More information about the graphical items is available on the ‘Map Legend’ tab, where the different layers of data can be turned on and off.<br><br>
+                                              This is a project of</div>
+                                              <a target="_blank" href="https://kugen.fr/">Kugen Ramasawmy</a>
+                                              <div id='4'>and <br>Laurine Dreue<br>under the close guidance of</div>
+                                              <a target="_blank" href="http://www.davidbihanic.com/">David Bihanic</a><br>
+                                              <div id='5'>and with the precious help of</div>
+                                              <a target="_blank" href='http://www.gendreau.pro/en/welcome'>Romain Gendreau</a><br>
+                                              <div id='6'>and <br>Kujali Ramasawmy.</div>
+</div>
+
+              </div>
+
+
+                                              <div class="button_side" id="key_button">Map Legend</div>
+
+
+                <div class="opening_panel" id="key_panel">
+
+                  <div class="one_key" id="key_1">
+                    <div class="icon" id="ico1"><img id="ico1_img" alt="BUS" src="assets/ico1.svg" /></div>
+                    <div class="key_text" id="key_text1">
+                      <div class="key_title" id="key_title1">Motor Vehicles Users</div>
+                      <div class="key_description" id="key_description1">0 to 23k users = <br>line opacity 0% to 100%</div>
+                    </div>
+                  </div>
+
+                  <div class="one_key" id="key_2">
+                    <div class="icon" id="ico2"><img id="ico2_img" alt="BUS" src="assets/ico2.svg" /></div>
+                    <div class="key_text" id="key_text2">
+                      <div class="key_title" id="key_title2">PM10 Particle Index</div>
+                      <div class="key_description" id="key_description2">0 to 35 = colour opacity 0% to 60%</div>
+                    </div>
+                  </div>
+
+                  <div class="one_key" id="key_3">
+                    <div class="icon" id="ico3"><img id="ico3_img" alt="BUS" src="assets/ico3.svg" /></div>
+                    <div class="key_text" id="key_text3">
+                      <div class="key_title" id="key_title3">Train/Metro Station</div>
+                      <div class="key_description" id="key_description3"> O to 40mil. Passengers = 5 to 25px <br> yellow line = rail track</div>
+                    </div>
+                  </div>
+
+                  <div class="one_key" id="key_4">
+                    <div class="icon" id="ico4"><img id="ico4_img" alt="BUS" src="assets/ico4.svg" /></div>
+                    <div class="key_text" id="key_text4">
+                      <div class="key_title" id="key_title4">Public Transport Users</div>
+                      <div class="key_description" id="key_description4">0 to 18000 users = <br> 0 to 4px stripe line</div>
+                    </div>
+                  </div>
+
+
+
+                <!-- <div class="button_general">
+
+                    <div id="button_bus" class="button_key">ON</div>
+
+                    <div class="image_public_transport">
+                      <img id="icon_public_transport" alt="BUS" onerror="this.src='assets/directions_bus_24px.png';" src="assets/directions_bus_24px.svg" />
+                    </div>
+
+                    <div class="text">BUS</div>
+
+                </div> -->
+
+
+              </div>
+</div>
+
+<!--
+<button type="button" name="public_transport" id="button_pollution" class="button_key">
+  <img alt="BUS" onerror="this.src='assets/directions_bus_24px.png';" src="assets/directions_bus_24px.svg" />
+
+https://api.jquery.com/show/
+
+
+  BUS</button>
+<button type="button" name="public_transport" id="button_rail" class="button_key">Rail</button>
+<button type="button" name="public_transport" id="button_car" class="button_key">Car and motorbike</button>
+<button type="button" name="public_transport" id="button_public_transport" class="button_key">Public transport</button> -->
+
+
+  <div id="map"></div>
+
+
+    <!-- Do not make any direct call to a geojson file as it will not work.
+    Copy-paste the geojson file inside a .js file.
+    add "var yourName = then your geoJSON file structure".
+    DO NOT forget the semicolon at the end of the .js file.
+    Afterwards, include your .js file before the section "load the map" -->
+
+
+  <!--
+ Start adding all your custom JS files
+  -->
+
+  <script type="text/javascript" src="js/qualite_air.js"></script>
+  <script type="text/javascript" src="js/traces-du-reseau-ferre-idf.js"></script>
+  <script type="text/javascript" src="js/export_deplacement.js"></script>
+
+  <!--
+  Do not add your custom JS files beyond this line
+  -->
+
+  <script type="text/javascript">
+
+  // charger le fond de carte -- début
+  // var map = L.map('map').setView([42.376773,-71.111670], 13);
+ var map = L.map('map',{
+   zoomControl:false
+ }).setView([48.856608,2.344132], 9.1);
+ // https://api.mapbox.com/styles/v1/dreue/ck35yszof32cb1cp5ygskcbnn.html?fresh=true&title=copy&access_token=pk.eyJ1IjoiZHJldWUiLCJhIjoiY2sydzJtNnB3MDE5bzNkcHFuMXUwbThtbSJ9.BvERGlgyLejzdugqNO3W7w#11.3/48.853965/2.373735/0
+  L.tileLayer( 'https://api.mapbox.com/styles/v1/dreue/ck35yszof32cb1cp5ygskcbnn/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZHJldWUiLCJhIjoiY2sydzJtNnB3MDE5bzNkcHFuMXUwbThtbSJ9.BvERGlgyLejzdugqNO3W7w', {
+      tileSize: 512,
+      zoomOffset: -1,
+      attribution: '© <a href="https://apps.mapbox.com/feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  } ).addTo(map);
+
+
+var zoom = L.control.zoom(
+  {zoomInText:"+",
+zoomOutText:"-",
+position:'bottomleft'}
+).addTo(map);
+
+  // charger le fond de carte -- fin
+
+/* ------------------------------------------------------------- */
+
+function setType(d) {
+    return d >= 4 ? '#35f9e5' :
+      d >= 3 ? 'blue' :
+      d >= 2 ? 'red' :
+      d >= 1 ? 'green' :
+      '#000000';
+  }
+
+
+  /* -----------------START------------set colour pallette-------------------------------- */
+
+  var setPollutionColour = '#0012ff'
+  var setPublicTransportColour = '#00ba29'
+  var setCarColour = '#ff4949'
+  var setTrackColour = '#FFEF19'
+
+
+/* -----------------START------------change opacity of pollution-------------------------------- */
+
+function setPm10FillOpacity(pm10Measured){
+  var fillOpacity,
+      pm10 = pm10Measured;
+  if      ( pm10 > 35.0 ) fillOpacity = "0.600";
+  else if ( pm10 > 34.3 ) fillOpacity = "0.582";
+  else if ( pm10 > 33.6 ) fillOpacity = "0.564";
+  else if ( pm10 > 32.9 ) fillOpacity = "0.546";
+  else if ( pm10 > 32.2 ) fillOpacity = "0.528";
+  else if ( pm10 > 31.5 ) fillOpacity = "0.510";
+  else if ( pm10 > 30.8 ) fillOpacity = "0.492";
+  else if ( pm10 > 30.1 ) fillOpacity = "0.474";
+  else if ( pm10 > 29.4 ) fillOpacity = "0.456";
+  else if ( pm10 > 28.7 ) fillOpacity = "0.438";
+  else if ( pm10 > 28.0 ) fillOpacity = "0.420";
+  else if ( pm10 > 27.3 ) fillOpacity = "0.402";
+  else if ( pm10 > 26.6 ) fillOpacity = "0.384";
+  else if ( pm10 > 25.9 ) fillOpacity = "0.366";
+  else if ( pm10 > 25.2 ) fillOpacity = "0.348";
+  else if ( pm10 > 24.5 ) fillOpacity = "0.330";
+  else if ( pm10 > 23.8 ) fillOpacity = "0.312";
+  else if ( pm10 > 23.1 ) fillOpacity = "0.294";
+  else if ( pm10 > 22.4 ) fillOpacity = "0.276";
+  else if ( pm10 > 21.7 ) fillOpacity = "0.258";
+  else if ( pm10 > 21.0 ) fillOpacity = "0.240";
+  else if ( pm10 > 20.3 ) fillOpacity = "0.222";
+  else if ( pm10 > 19.6 ) fillOpacity = "0.204";
+  else if ( pm10 > 18.9 ) fillOpacity = "0.186";
+  else if ( pm10 > 18.2 ) fillOpacity = "0.168";
+  else if ( pm10 > 17.5 ) fillOpacity = "0.150";
+  else if ( pm10 > 16.8 ) fillOpacity = "0.132";
+  else if ( pm10 > 16.1 ) fillOpacity = "0.114";
+  else if ( pm10 > 15.4 ) fillOpacity = "0.096";
+  else if ( pm10 > 14.7 ) fillOpacity = "0.078";
+  else if ( pm10 > 14.0 ) fillOpacity = "0.060";
+  else if ( pm10 > 13.3 ) fillOpacity = "0.042";
+  else if ( pm10 > 12.6 ) fillOpacity = "0.024";
+  else if ( pm10 > 11.9 ) fillOpacity = "0.006";
+  else if ( pm10 > 11.2 ) fillOpacity = "0.000";
+  else                    fillOpacity = "0.000";
+  return fillOpacity;
+}
+
+function styleQualiteAir(feature) {
+    return {
+        fillColor: setPollutionColour ,
+        weight: 0.5,
+        opacity: 1,
+        color: 'rgba(#000000, 0)',
+        // dashArray: '3',
+        fillOpacity: setPm10FillOpacity(feature.properties.pm10)
+    };
+}
+
+var pollution = L.geoJson(qualiteAir, {style: styleQualiteAir}).bindPopup(function (layer) {
+    return "Commune: "+ layer.feature.properties.name + "<br> PM10 index :" +layer.feature.properties.pm10 + "<br> O³ index :" +layer.feature.properties.o3+ "<br> NO² index :" +layer.feature.properties.no2;
+}).addTo(map);
+
+/* ----------------END-----------change opacity of pollution-------------------------------- */
+
+
+
+
+
+
+
+/* ----------------START-----------Deplacement Voiture-------------------------------- */
+
+
+// function setDeplacementColor(deplacementMeasured){
+//   var fillColor,
+//             car = deplacementMeasured
+//   if      ( car > 0.99 ) fillColor = "rgba(255, 107, 0, 1.000)";
+//   else if ( car > 0.95 ) fillColor = "rgba(255, 107, 0, 0.960)";
+//   else if ( car > 0.90 ) fillColor = "rgba(255, 107, 0, 0.910)";
+//   else if ( car > 0.85 ) fillColor = "rgba(255, 107, 0, 0.865)";
+//   else if ( car > 0.80 ) fillColor = "rgba(255, 107, 0, 0.820)";
+//   else if ( car > 0.75 ) fillColor = "rgba(255, 107, 0, 0.775)";
+//   else if ( car > 0.70 ) fillColor = "rgba(255, 107, 0, 0.730)";
+//   else if ( car > 0.65 ) fillColor = "rgba(255, 107, 0, 0.685)";
+//   else if ( car > 0.60 ) fillColor = "rgba(255, 107, 0, 0.640)";
+//   else if ( car > 0.57 ) fillColor = "rgba(255, 107, 0, 0.595)";
+//   else if ( car > 0.55 ) fillColor = "rgba(255, 107, 0, 0.550)";
+//   else if ( car > 0.50 ) fillColor = "rgba(255, 107, 0, 0.505)";
+//   else if ( car > 0.45 ) fillColor = "rgba(255, 107, 0, 0.460)";
+//   else if ( car > 0.40 ) fillColor = "rgba(255, 107, 0, 0.415)";
+//   else if ( car > 0.37 ) fillColor = "rgba(255, 107, 0, 0.370)";
+//   else if ( car > 0.35 ) fillColor = "rgba(255, 107, 0, 0.325)";
+//   else if ( car > 0.30 ) fillColor = "rgba(255, 107, 0, 0.280)";
+//   else if ( car > 0.25 ) fillColor = "rgba(255, 107, 0, 0.235)";
+//   else if ( car > 0.20 ) fillColor = "rgba(255, 107, 0, 0.190)";
+//   else if ( car > 0.15 ) fillColor = "rgba(255, 107, 0, 0.145)";
+//   else if ( car > 0.10 ) fillColor = "rgba(255, 107, 0, 0.100)";
+//   else if ( car > 0.05 ) fillColor = "rgba(255, 107, 0, 0.055)";
+//   else                   fillColor = "rgba(255, 107, 0, 0.100)";
+//   return fillColor;
+// }
+
+function setDeplacementOpacity(deplacementMeasured){
+var opacity,
+          car = deplacementMeasured
+if      ( car > 22000 ) opacity = "1.000";
+else if ( car > 21000 ) opacity = "0.960";
+else if ( car > 20000 ) opacity = "0.910";
+else if ( car > 19000 ) opacity = "0.865";
+else if ( car > 18000 ) opacity = "0.820";
+else if ( car > 17000 ) opacity = "0.775";
+else if ( car > 16000 ) opacity = "0.730";
+else if ( car > 15000 ) opacity = "0.685";
+else if ( car > 14000 ) opacity = "0.640";
+else if ( car > 13000 ) opacity = "0.595";
+else if ( car > 12000 ) opacity = "0.550";
+else if ( car > 11000 ) opacity = "0.505";
+else if ( car > 10000 ) opacity = "0.460";
+else if ( car > 09000 ) opacity = "0.415";
+else if ( car > 08000 ) opacity = "0.370";
+else if ( car > 07000 ) opacity = "0.325";
+else if ( car > 06000 ) opacity = "0.280";
+else if ( car > 05000 ) opacity = "0.235";
+else if ( car > 04000 ) opacity = "0.190";
+else if ( car > 03000 ) opacity = "0.145";
+else if ( car > 02000 ) opacity = "0.100";
+else if ( car > 01000 ) opacity = "0.055";
+else                   opacity = "0.020";
+return opacity;
+}
+
+
+function styleDeplacementCar(feature) {
+    return {
+        weight: 4,
+        // opacity: 1,
+        // color: setDeplacementColor(feature.properties.ratio_voiture),
+        opacity: setDeplacementOpacity(feature.properties.transport_2_ou_4_roues),
+        color: setCarColour,
+        fillColor: "rgba(0, 0, 0, 0)"
+        // dashArray: '3',
+        // fillOpacity: 0.7
+    };
+}
+
+var transportCarLayer = L.geoJson(deplacement, {style: styleDeplacementCar}).bindPopup(function (layer) {
+    return "Commune: "+ layer.feature.properties.name + "public transport users: "+ layer.feature.properties.transport_en_commun + "public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
+}).addTo(map);
+
+/* ----------------END-----------Deplacement Voiture-------------------------------- */
+
+
+
+
+
+
+
+/* ----------------START-----------Tracé réseau Ferré-------------------------------- */
+
+
+function styleReseauFerre(feature) {return {color:setTrackColour, weight:2, opacity:1};}
+var railNetworkLayer = L.geoJson(traceReseauFerre, {style: styleReseauFerre}).addTo(map);
+
+/* ----------------END-----------Tracé réseau Ferré-------------------------------- */
+
+
+
+
+
+
+
+
+/* ----------------START-----------Deplacement Transport en Commun-------------------------------- */
+
+
+// function setDeplacementPublicTransportColor(deplacementMeasured){
+//   var fillColor,
+//       pm10 = deplacementMeasured;
+//   // if ( pm10 > 34 ) fillColor = "#000000";
+//   // else if ( pm10 > 33 ) fillColor = "#000000";
+//   // else if ( pm10 > 32 ) fillColor = "#800026";
+//   // else if ( pm10 > 31 ) fillColor = "#800026";
+//   // else if ( pm10 > 30 ) fillColor = "#800026";
+//   // else if ( pm10 > 29 ) fillColor = "#800026";
+//   // else if ( pm10 > 28 ) fillColor = "#800026";
+//   // else if ( pm10 > 27 ) fillColor = "#800026";
+//   // else if ( pm10 > 26 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 25 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 24 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 23 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 22 ) fillColor = "#e31a1c";
+//   if ( pm10 > 0.99 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.95 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.9 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.85 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.8 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.75 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.7 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.65 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.6 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.575 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.55 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.5 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.45 ) fillColor = "#fed976";
+//   else if ( pm10 > 0.4) fillColor = "#fed976";
+//   else if ( pm10 > 0.375 ) fillColor = "#fed976";
+//   else if ( pm10 > 0.35 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.3 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.25 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.2 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.15 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.1 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.05 ) fillColor = "#ffffcc";
+//   else fillColor = "#0e0e0e";
+//   return fillColor;
+// }
+//
+// function styleDeplacementPublicTransport(feature) {
+//     return {
+//         weight: 8,
+//         opacity: 1,
+//         color: setDeplacementPublicTransportColor(feature.properties.ratio_public_transport),
+//         // dashArray: '3',
+//         // fillOpacity: 0.7
+//     };
+// }
+//
+//
+// var transportPublicTransportLayer = L.geoJson(deplacement, {style: styleDeplacementPublicTransport}).addTo(map);
+
+/* ----------------END-----------Deplacement Transport en Commun-------------------------------- */
+
+
+// function setDeplacementPublicTransportColor(deplacementMeasured){
+//   var fillColor,
+//       pm10 = deplacementMeasured;
+//   // if ( pm10 > 34 ) fillColor = "#000000";
+//   // else if ( pm10 > 33 ) fillColor = "#000000";
+//   // else if ( pm10 > 32 ) fillColor = "#800026";
+//   // else if ( pm10 > 31 ) fillColor = "#800026";
+//   // else if ( pm10 > 30 ) fillColor = "#800026";
+//   // else if ( pm10 > 29 ) fillColor = "#800026";
+//   // else if ( pm10 > 28 ) fillColor = "#800026";
+//   // else if ( pm10 > 27 ) fillColor = "#800026";
+//   // else if ( pm10 > 26 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 25 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 24 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 23 ) fillColor = "#bd0026";
+//   // else if ( pm10 > 22 ) fillColor = "#e31a1c";
+//   if ( pm10 > 0.99 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.95 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.9 ) fillColor = "#e31a1c";
+//   else if ( pm10 > 0.85 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.8 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.75 ) fillColor = "#fc4e2a";
+//   else if ( pm10 > 0.7 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.65 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.6 ) fillColor = "#fd8d3c";
+//   else if ( pm10 > 0.575 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.55 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.5 ) fillColor = "#feb24c";
+//   else if ( pm10 > 0.45 ) fillColor = "#fed976";
+//   else if ( pm10 > 0.4) fillColor = "#fed976";
+//   else if ( pm10 > 0.375 ) fillColor = "#fed976";
+//   else if ( pm10 > 0.35 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.3 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.25 ) fillColor = "#ffeda0";
+//   else if ( pm10 > 0.2 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.15 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.1 ) fillColor = "#ffffcc";
+//   else if ( pm10 > 0.05 ) fillColor = "#ffffcc";
+//   else fillColor = "#0e0e0e";
+//   return fillColor;
+// }
+//
+//
+// var stripes2 = new L.StripePattern(
+//   {color:"blue",
+//   weight:3,
+//   angle: -52,
+//   opacity:1.0
+// });
+//     stripes2.addTo(map);
+//
+// var transportPublicTransportLayer = L.geoJson(deplacement, {
+//         style: {
+//             fillPattern: stripes2,
+//             //color: "red"
+//              fillOpacity: 1.0,
+//             opacity:0
+//         }
+//     }).addTo(map);
+
+    function setDeplacementPublicTransportPattern(deplacementMeasured){
+      var deplacementCount = deplacementMeasured;
+      if      ( deplacementCount > 17000 ) fillPatternProperty =  4.0;
+      else if ( deplacementCount > 16150 ) fillPatternProperty =  3.8;
+      else if ( deplacementCount > 15300 ) fillPatternProperty =  3.6;
+      else if ( deplacementCount > 14450 ) fillPatternProperty =  3.4;
+      else if ( deplacementCount > 13600 ) fillPatternProperty =  3.2;
+      else if ( deplacementCount > 12750 ) fillPatternProperty =  3.0;
+      else if ( deplacementCount > 11900 ) fillPatternProperty =  2.8;
+      else if ( deplacementCount > 11050 ) fillPatternProperty =  2.6;
+      else if ( deplacementCount > 10200 ) fillPatternProperty =  2.4;
+      else if ( deplacementCount > 09350 ) fillPatternProperty =  2.2;
+      else if ( deplacementCount > 08500 ) fillPatternProperty =  2.0;
+      else if ( deplacementCount > 07650 ) fillPatternProperty =  1.8;
+      else if ( deplacementCount > 06800 ) fillPatternProperty =  1.6;
+      else if ( deplacementCount > 05950 ) fillPatternProperty =  1.4;
+      else if ( deplacementCount > 05100 ) fillPatternProperty =  1.2;
+      else if ( deplacementCount > 04250 ) fillPatternProperty =  1.0;
+      else if ( deplacementCount > 03400 ) fillPatternProperty =  0.8;
+      else if ( deplacementCount > 02550 ) fillPatternProperty =  0.6;
+      else if ( deplacementCount > 01700 ) fillPatternProperty =  0.4;
+      else if ( deplacementCount > 00850 ) fillPatternProperty =  0.2;
+      else fillPatternProperty = 0.1;
+      return fillPatternProperty;
+    }
+
+
+    function stripes2(feature) {
+      return new L.StripePattern(
+        {color:setPublicTransportColour,
+        weight:setDeplacementPublicTransportPattern(feature.properties.transport_en_commun),
+        angle: -45,
+        opacity:0.75,
+      }).addTo(map);
+    }
+
+
+function stylePublicTransport(feature) {
+  return {
+      fillPattern: stripes2(feature),
+       fillOpacity: 1.0,
+      opacity:0
+  };
+}
+
+
+    var transportPublicTransportLayer = L.geoJson(deplacement, {
+            style:stylePublicTransport,
+        }).bindPopup(function (layer) {
+            return "Commune: "+ layer.feature.properties.name + "public transport users: "+ layer.feature.properties.transport_en_commun + "public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
+        }).addTo(map);
+
+
+/* ----------------START-------------integration point metro PULSATION -------------------------------- */
+
+
+var cssIcon01 = L.divIcon({ className: 'css-icon01', html: '<div class="gps_ring01"></div>'});
+var cssIcon02 = L.divIcon({ className: 'css-icon02', html: '<div class="gps_ring02"></div>'});
+var cssIcon03 = L.divIcon({ className: 'css-icon03', html: '<div class="gps_ring03"></div>'});
+var cssIcon04 = L.divIcon({ className: 'css-icon04', html: '<div class="gps_ring04"></div>'});
+var cssIcon05 = L.divIcon({ className: 'css-icon05', html: '<div class="gps_ring05"></div>'});
+var cssIcon06 = L.divIcon({ className: 'css-icon06', html: '<div class="gps_ring06"></div>'});
+var cssIcon07 = L.divIcon({ className: 'css-icon07', html: '<div class="gps_ring07"></div>'});
+var cssIcon08 = L.divIcon({ className: 'css-icon08', html: '<div class="gps_ring08"></div>'});
+var cssIcon09 = L.divIcon({ className: 'css-icon09', html: '<div class="gps_ring09"></div>'});
+var cssIcon10 = L.divIcon({ className: 'css-icon10', html: '<div class="gps_ring10"></div>'});
+var cssIcon11 = L.divIcon({ className: 'css-icon11', html: '<div class="gps_ring11"></div>'});
+var cssIcon12 = L.divIcon({ className: 'css-icon12', html: '<div class="gps_ring12"></div>'});
+var cssIcon13 = L.divIcon({ className: 'css-icon13', html: '<div class="gps_ring13"></div>'});
+var cssIcon14 = L.divIcon({ className: 'css-icon14', html: '<div class="gps_ring14"></div>'});
+var cssIcon15 = L.divIcon({ className: 'css-icon15', html: '<div class="gps_ring15"></div>'});
+var cssIcon16 = L.divIcon({ className: 'css-icon16', html: '<div class="gps_ring16"></div>'});
+var cssIcon17 = L.divIcon({ className: 'css-icon17', html: '<div class="gps_ring17"></div>'});
+var cssIcon18 = L.divIcon({ className: 'css-icon18', html: '<div class="gps_ring18"></div>'});
+var cssIcon19 = L.divIcon({ className: 'css-icon19', html: '<div class="gps_ring19"></div>'});
+var cssIcon20 = L.divIcon({ className: 'css-icon20', html: '<div class="gps_ring20"></div>'});
+var cssIcon21 = L.divIcon({ className: 'css-icon21', html: '<div class="gps_ring21"></div>'});
+
+
+var stationsLayer = new L.GeoJSON.AJAX(["data/export_metro.geojson","data/export_gares_sncf.geojson"], {
+  pointToLayer: function (feature, latlng) {
+    if      (feature.properties.passengers > "40000000"){ var marker = L.marker(latlng,{icon: cssIcon01}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "38000000"){ var marker = L.marker(latlng,{icon: cssIcon02}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "36000000"){ var marker = L.marker(latlng,{icon: cssIcon03}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "34000000"){ var marker = L.marker(latlng,{icon: cssIcon04}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "32000000"){ var marker = L.marker(latlng,{icon: cssIcon05}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "30000000"){ var marker = L.marker(latlng,{icon: cssIcon06}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "28000000"){ var marker = L.marker(latlng,{icon: cssIcon07}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "26000000"){ var marker = L.marker(latlng,{icon: cssIcon08}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "24000000"){ var marker = L.marker(latlng,{icon: cssIcon09}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "22000000"){ var marker = L.marker(latlng,{icon: cssIcon10}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "20000000"){ var marker = L.marker(latlng,{icon: cssIcon11}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "18000000"){ var marker = L.marker(latlng,{icon: cssIcon12}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "16000000"){ var marker = L.marker(latlng,{icon: cssIcon13}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "14000000"){ var marker = L.marker(latlng,{icon: cssIcon14}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "12000000"){ var marker = L.marker(latlng,{icon: cssIcon15}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "10000000"){ var marker = L.marker(latlng,{icon: cssIcon16}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "08000000"){ var marker = L.marker(latlng,{icon: cssIcon17}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "06000000"){ var marker = L.marker(latlng,{icon: cssIcon18}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "04000000"){ var marker = L.marker(latlng,{icon: cssIcon19}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "02000000"){ var marker = L.marker(latlng,{icon: cssIcon20}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else if (feature.properties.passengers > "00000000"){ var marker = L.marker(latlng,{icon: cssIcon21}).bindTooltip(feature.properties.name +"<br> Passagers :"+feature.properties.passengers);}
+    else { var marker = L.marker(latlng,{icon: cssIcon01}).bindTooltip(feature.properties.name +"<br> pax.:"+feature.properties.passengers);};
+    return marker;
+  }
+}).addTo(map);
+
+function stationOnClick(name,passengers) {
+  console.log("You clicked "+ name +". It has "+passengers);
+}
+
+
+
+/* -------------END----------------integration point metro PULSATION -------------------------------- */
+
+
+
+
+/* -------------Start ----------------Buttons -------------------------------- */
+
+$("#key_1").click(function(event) {
+    event.preventDefault();
+    if(map.hasLayer(transportCarLayer)) {
+        // Add data
+        map.removeLayer(transportCarLayer);
+        // Style change on button
+        $(this).removeClass('one_key');
+        $(this).addClass('one_key_off');
+    } else {
+        // Remove data
+        map.addLayer(transportCarLayer);
+        // Style change on button
+        $(this).removeClass('one_key_off');
+        $(this).addClass('one_key');
+   }
+});
+
+//Pollution
+$("#key_2").click(function(event) {
+    event.preventDefault();
+    if(map.hasLayer(pollution)) {
+        // Add data
+        map.removeLayer(pollution);
+        // Style change on button
+        $(this).removeClass('one_key');
+        $(this).addClass('one_key_off');
+    } else {
+        // Remove data
+        map.addLayer(pollution);
+        // Style change on button
+        $(this).removeClass('one_key_off');
+        $(this).addClass('one_key');
+   }
+});
+
+//Transportation networks
+$("#key_3").click(function(event) {
+    event.preventDefault();
+    if(map.hasLayer(stationsLayer)) {
+        // Add data
+        map.removeLayer(stationsLayer);
+        map.removeLayer(railNetworkLayer);
+
+        // Style change on button
+        $(this).removeClass('one_key');
+        $(this).addClass('one_key_off');
+    } else {
+        // Remove data
+        map.addLayer(stationsLayer);
+        map.addLayer(railNetworkLayer);
+        // Style change on button
+        $(this).removeClass('one_key_off');
+        $(this).addClass('one_key');
+        // $("#railNetworkSound")[0].play();
+   }
+});
+
+
+
+
+$("#key_4").click(function(event) {
+    event.preventDefault();
+    if(map.hasLayer(transportPublicTransportLayer)) {
+        // Add data
+        map.removeLayer(transportPublicTransportLayer);
+        // Style change on button
+        // $("#button_bus").text("OFF");
+        $(this).removeClass('one_key');
+        $(this).addClass('one_key_off');
+    } else {
+        // Remove data
+        map.addLayer(transportPublicTransportLayer);
+        // Style change on button
+        // $("#button_bus").text("ON");
+        $(this).removeClass('one_key_off');
+        $(this).addClass('one_key');
+   }
+});
+
+
+
+$("#fr").click(function() {
+  $("#title").html( "PARIS : <br> CONVERGENCE <br> POLLUTION & DEPLACEMENT");
+  $("#about_button").html( "Info");
+  $("#key_button").html( "Légende");
+  $("#key_title1").html( "Déplacement motorisé");
+  $("#key_title2").html( "Index particules PM10");
+  $("#key_title3").html( "Station train/métro");
+  $("#key_title4").html( "Déplacement en commun");
+
+  $('#key_description1').html( "0 to 23k usagers = <br>opacité de la ligne 0% to 100%");
+  $('#key_description2').html( "0 to 35 = opacité 0% to 60%");
+  $('#key_description3').html( "O to 40mil. usagers = 5 to 25px ");
+  $('#key_description4').html( "0 to 18000 usagers = <br>ligne de hachure 0 to 4px ");
+
+  $("#1").html( "Cette cartographie fait ressortir la corrélation possible entre la pollution et le déplacement quotidien de milliers de personnes vers la capitale française. En 2015, la capitale a affiché une concentration annuelle moyenne de PM10 de 35 μg/m³ et de PM2,5 de 14 μg/m³. L’Organisation Mondiale de la Santé juge qu’elles ne devraient pas dépasser, respectivement, 20 μg/m3 et 10 μg/m3. <br> <br>Les jeux de données ont été recueillis sur les bases suivantes : <br>");
+  $("#2").html( "Les éléments graphiques mettent en exergue les distributions géographiques de données en 2016 sur les déplacements quotidiens domicile-travail, la qualité de l’air et le réseau ferré en Ile-de-France. De plus amples informations sont disponibles dans l’onglet « Légende », où les calques de données peuvent être affichés ou cachés. <br> <br>Ceci est un projet de ");
+  $("#4").html( "et Laurine Dreue sous l’égide de ");
+  $("#5").html( " et avec la précieuse aide de ");
+  $("#6").html( " et Kujali Ramasawmy. ");
+
+
+})
+
+$("#uk").click(function() {
+  $("#title").html( "PARIS : <br> CONFLUENCE <br>OF TRANSIT & POLLUTION");
+  $("#about_button").html( "About");
+   $("#key_button").html( "Map Legend");
+   $("#key_title1").html( "Motor Vehicles Users");
+   $("#key_title2").html( "PM10 Particle Index");
+   $("#key_title3").html( "Train/Metro Station");
+   $('#key_title4').html( "Public Transport Users");
+
+   $('#key_description1').html( "0 to 23k users = <br>line opacity 0% to 100%");
+   $('#key_description2').html( "0 to 35 = colour opacity 0% to 60%");
+   $('#key_description3').html( "O to 40mil. Passengers = 5 to 25px ");
+   $('#key_description4').html( "0 to 18000 users = <br> 0 to 4px stripe line");
+
+   $("#1").html( 'This map brings out the possible correlation between pollution and the daily transit of thousands towards Paris. In 2015, the city has recorded an average annual concentration of 35 μg/m³ of PM10 and 14 μg/m³ of PM2.5. Nevertheless these should not exceed 20 μg/m3 and 10 μg/m3 respectively according to the World Health Organisation.  <br><br>Quantitative data have been sourced from the following: <br></div>');
+   $("#2").html( "The graphical elements show various geographical distributions of data on daily home-workplace transit, air quality and the complex rail network of the Ile de France region in 2016. More information about the graphical items is available on the 'Map Legend' tab, where the different layers of data can be turned on and off.<br><br>This is a project of");
+   $("#4").html( "and Laurine Dreue under the close guidance of");
+   $("#5").html( "and with the precious help of");
+   $("#6").html( "and Kujali Ramasawmy.");
+
+
+
+})
+
+
+
+/* -------------END ----------------Buttons -------------------------------- */
+
+
+
+
+
+
+
+
+/* ------------------------------------------------------------- */
+
+  $("#button").click(function() {
+  $('.animation').toggleClass('volet_ouvert');
+
+});
+
+
+$("#toggleCaption").click(function() {
+$('.animation').toggleClass('volet_ouvert');
+
+});
+
+$("#key_button").click(function() {
+  if ($('#key_panel').is(":visible")) {
+    $('#key_panel').hide(1000);
+  } else {
+    $('#key_panel').show(1000);
+    $('#about').hide(1000);
+
+  }
+})
+
+$("#legend_button").click(function() {
+  if ($('#key_panel').is(":visible")) {
+    $('#key_panel').hide(1000);
+  } else {
+    $('#key_panel').show(1000);
+    $('#about').hide(1000);
+
+  }
+})
+
+$("#about_button").click(function() {
+  if ($('#about').is(":visible")) {
+    $('#about').hide(1000);
+  } else {
+    $('#about').show(1000);
+    $('#key_panel').hide(1000);
+
+  }
+})
+
+/* ------------------------------------------------------------- */
+
+
+
+</script>
+
+</body>
+
+</html>

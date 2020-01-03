@@ -1,0 +1,23 @@
+  { 
+    "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "id": 1,
+        "geometry": {"type": "Point", "coordinates": [2.35, 48.853]},
+        "properties": { 
+          "name": "Paris",
+          "survey": "23"
+        }
+      },
+      { "type": "Feature",
+        "id": 2,
+        "geometry": {"type": "Point", "coordinates": [1.433333, 43.6]},
+        "properties": { 
+          "name": "Toulouse",
+          "survey": "12"
+        }
+      }
+    ]
+  }
+
+  

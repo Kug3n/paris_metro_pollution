@@ -1,0 +1,1847 @@
+[
+  {
+    "rang": 232,
+    "station": "ABBESSES",
+    "trafic": 2276012
+  },
+  {
+    "rang": 77,
+    "station": "ALESIA",
+    "trafic": 5207485
+  },
+  {
+    "rang": 137,
+    "station": "ALEXANDRE DUMAS",
+    "trafic": 3685441
+  },
+  {
+    "rang": 120,
+    "station": "ALMA-MARCEAU",
+    "trafic": 4070093
+  },
+  {
+    "rang": 133,
+    "station": "ANATOLE FRANCE",
+    "trafic": 3794787
+  },
+  {
+    "rang": 13,
+    "station": "ANTONY",
+    "trafic": 6407808
+  },
+  {
+    "rang": 61,
+    "station": "ANVERS",
+    "trafic": 5890665
+  },
+  {
+    "rang": 33,
+    "station": "ARCUEIL-CACHAN",
+    "trafic": 3343757
+  },
+  {
+    "rang": 179,
+    "station": "ARGENTINE",
+    "trafic": 2975436
+  },
+  {
+    "rang": 127,
+    "station": "ARTS ET METIERS",
+    "trafic": 3899198
+  },
+  {
+    "rang": 295,
+    "station": "ASSEMBLEE NATIONALE",
+    "trafic": 739282
+  },
+  {
+    "rang": 15,
+    "station": "AUBER",
+    "trafic": 5755055
+  },
+  {
+    "rang": 33,
+    "station": "AUBERVILLIERS-PANTIN-QUATRE CHEMINS",
+    "trafic": 7381123
+  },
+  {
+    "rang": 278,
+    "station": "AVENUE EMILE ZOLA",
+    "trafic": 1466777
+  },
+  {
+    "rang": 257,
+    "station": "AVRON",
+    "trafic": 1925980
+  },
+  {
+    "rang": 43,
+    "station": "BAGNEUX",
+    "trafic": 2198203
+  },
+  {
+    "rang": 86,
+    "station": "BALARD",
+    "trafic": 4994071
+  },
+  {
+    "rang": 17,
+    "station": "BARBES-ROCHECHOUART",
+    "trafic": 10856026
+  },
+  {
+    "rang": 93,
+    "station": "BASILIQUE DE SAINT-DENIS",
+    "trafic": 4857996
+  },
+  {
+    "rang": 11,
+    "station": "BASTILLE",
+    "trafic": 13225099
+  },
+  {
+    "rang": 238,
+    "station": "BEL AIR",
+    "trafic": 2223888
+  },
+  {
+    "rang": 14,
+    "station": "BELLEVILLE",
+    "trafic": 11402348
+  },
+  {
+    "rang": 172,
+    "station": "BERAULT",
+    "trafic": 3094974
+  },
+  {
+    "rang": 70,
+    "station": "BERCY",
+    "trafic": 5544847
+  },
+  {
+    "rang": 7,
+    "station": "BIBLIOTHEQUE",
+    "trafic": 17491541
+  },
+  {
+    "rang": 170,
+    "station": "BILLANCOURT",
+    "trafic": 3105469
+  },
+  {
+    "rang": 30,
+    "station": "BIR-HAKEIM",
+    "trafic": 7932555
+  },
+  {
+    "rang": 130,
+    "station": "BLANCHE",
+    "trafic": 3829404
+  },
+  {
+    "rang": 31,
+    "station": "BOBIGNY-PABLO PICASSO",
+    "trafic": 7737626
+  },
+  {
+    "rang": 207,
+    "station": "BOBIGNY-PANTIN-RAYMOND QUENEAU",
+    "trafic": 2579124
+  },
+  {
+    "rang": 250,
+    "station": "BOISSIERE",
+    "trafic": 2070907
+  },
+  {
+    "rang": 39,
+    "station": "BOISSY-SAINT-LEGER",
+    "trafic": 2482050
+  },
+  {
+    "rang": 299,
+    "station": "BOLIVAR",
+    "trafic": 564032
+  },
+  {
+    "rang": 95,
+    "station": "BONNE NOUVELLE",
+    "trafic": 4786149
+  },
+  {
+    "rang": 292,
+    "station": "BOTZARIS",
+    "trafic": 958552
+  },
+  {
+    "rang": 165,
+    "station": "BOUCICAUT",
+    "trafic": 3172612
+  },
+  {
+    "rang": 135,
+    "station": "BOULOGNE-JEAN JAURES",
+    "trafic": 3767032
+  },
+  {
+    "rang": 163,
+    "station": "BOULOGNE-PONT DE SAINT-CLOUD",
+    "trafic": 3202618
+  },
+  {
+    "rang": 22,
+    "station": "BOURG-LA-REINE",
+    "trafic": 4462976
+  },
+  {
+    "rang": 154,
+    "station": "BOURSE",
+    "trafic": 3410557
+  },
+  {
+    "rang": 243,
+    "station": "BREGUET-SABIN",
+    "trafic": 2139259
+  },
+  {
+    "rang": 155,
+    "station": "BROCHANT",
+    "trafic": 3383369
+  },
+  {
+    "rang": 45,
+    "station": "BRY-SUR-MARNE",
+    "trafic": 2151853
+  },
+  {
+    "rang": 60,
+    "station": "BURES-SUR-YVETTE",
+    "trafic": 714901
+  },
+  {
+    "rang": 35,
+    "station": "BUSSY-SAINT-GEORGES",
+    "trafic": 2987714
+  },
+  {
+    "rang": 300,
+    "station": "BUTTES-CHAUMONT",
+    "trafic": 521634
+  },
+  {
+    "rang": 254,
+    "station": "BUZENVAL",
+    "trafic": 1963737
+  },
+  {
+    "rang": 161,
+    "station": "CADET",
+    "trafic": 3289639
+  },
+  {
+    "rang": 167,
+    "station": "CAMBRONNE",
+    "trafic": 3140382
+  },
+  {
+    "rang": 285,
+    "station": "CAMPO-FORMIO",
+    "trafic": 1281234
+  },
+  {
+    "rang": 271,
+    "station": "CARDINAL LEMOINE",
+    "trafic": 1642759
+  },
+  {
+    "rang": 201,
+    "station": "CARREFOUR PLEYEL",
+    "trafic": 2669794
+  },
+  {
+    "rang": 149,
+    "station": "CENSIER-DAUBENTON",
+    "trafic": 3519746
+  },
+  {
+    "rang": 31,
+    "station": "CHAMPIGNY",
+    "trafic": 3461601
+  },
+  {
+    "rang": 110,
+    "station": "CHAMPS-ELYSEES-CLEMENCEAU",
+    "trafic": 4300906
+  },
+  {
+    "rang": 297,
+    "station": "CHARDON-LAGACHE",
+    "trafic": 642202
+  },
+  {
+    "rang": 178,
+    "station": "CHARENTON-ECOLES",
+    "trafic": 2979524
+  },
+  {
+    "rang": 26,
+    "station": "CHARLES DE GAULLE-ETOILE",
+    "trafic": 8381433
+  },
+  {
+    "rang": 8,
+    "station": "CHARLES DE GAULLE-ETOILE-RER",
+    "trafic": 8404924
+  },
+  {
+    "rang": 90,
+    "station": "CHARLES MICHELS",
+    "trafic": 4923871
+  },
+  {
+    "rang": 121,
+    "station": "CHARONNE",
+    "trafic": 4020524
+  },
+  {
+    "rang": 122,
+    "station": "CHATEAU D'EAU",
+    "trafic": 4010100
+  },
+  {
+    "rang": 69,
+    "station": "CHATEAU DE VINCENNES",
+    "trafic": 5581700
+  },
+  {
+    "rang": 202,
+    "station": "CHATEAU ROUGE",
+    "trafic": 2664077
+  },
+  {
+    "rang": 270,
+    "station": "CHATEAU-LANDON",
+    "trafic": 1679432
+  },
+  {
+    "rang": 10,
+    "station": "CHATELET",
+    "trafic": 13466536
+  },
+  {
+    "rang": 4,
+    "station": "CHATELET-LES HALLES-RER",
+    "trafic": 26356131
+  },
+  {
+    "rang": 36,
+    "station": "CHATILLON-MONTROUGE",
+    "trafic": 7274236
+  },
+  {
+    "rang": 42,
+    "station": "CHATOU-CROISSY",
+    "trafic": 2209283
+  },
+  {
+    "rang": 43,
+    "station": "CHAUSSEE D'ANTIN-LA FAYETTE",
+    "trafic": 6945565
+  },
+  {
+    "rang": 280,
+    "station": "CHEMIN VERT",
+    "trafic": 1445627
+  },
+  {
+    "rang": 146,
+    "station": "CHEVALERET",
+    "trafic": 3550425
+  },
+  {
+    "rang": 245,
+    "station": "CITE",
+    "trafic": 2109969
+  },
+  {
+    "rang": 11,
+    "station": "CITE UNIVERSITAIRE",
+    "trafic": 6911244
+  },
+  {
+    "rang": 235,
+    "station": "CLUNY LA SORBONNE",
+    "trafic": 2255703
+  },
+  {
+    "rang": 96,
+    "station": "COLONEL FABIEN",
+    "trafic": 4706560
+  },
+  {
+    "rang": 183,
+    "station": "COMMERCE",
+    "trafic": 2885201
+  },
+  {
+    "rang": 65,
+    "station": "CONCORDE",
+    "trafic": 5847907
+  },
+  {
+    "rang": 71,
+    "station": "CONVENTION",
+    "trafic": 5533112
+  },
+  {
+    "rang": 190,
+    "station": "CORENTIN CARIOU",
+    "trafic": 2833439
+  },
+  {
+    "rang": 152,
+    "station": "CORENTIN CELTON",
+    "trafic": 3486870
+  },
+  {
+    "rang": 213,
+    "station": "CORVISART",
+    "trafic": 2495811
+  },
+  {
+    "rang": 64,
+    "station": "COUR SAINT-EMILION",
+    "trafic": 5859214
+  },
+  {
+    "rang": 64,
+    "station": "COURCELLE-SUR-YVETTE",
+    "trafic": 610753
+  },
+  {
+    "rang": 203,
+    "station": "COURCELLES",
+    "trafic": 2663534
+  },
+  {
+    "rang": 181,
+    "station": "COURONNES",
+    "trafic": 2965420
+  },
+  {
+    "rang": 221,
+    "station": "CRETEIL-L'ECHAT",
+    "trafic": 2388835
+  },
+  {
+    "rang": 198,
+    "station": "CRETEIL-POINTE DU LAC",
+    "trafic": 2729376
+  },
+  {
+    "rang": 82,
+    "station": "CRETEIL-PREFECTURE",
+    "trafic": 5080418
+  },
+  {
+    "rang": 143,
+    "station": "CRETEIL-UNIVERSITE",
+    "trafic": 3598231
+  },
+  {
+    "rang": 50,
+    "station": "CRIMEE",
+    "trafic": 6175537
+  },
+  {
+    "rang": 76,
+    "station": "CROIX DE CHAVAUX",
+    "trafic": 5215902
+  },
+  {
+    "rang": 298,
+    "station": "DANUBE",
+    "trafic": 618124
+  },
+  {
+    "rang": 73,
+    "station": "DAUMESNIL",
+    "trafic": 5316753
+  },
+  {
+    "rang": 97,
+    "station": "DENFERT-ROCHEREAU",
+    "trafic": 4701323
+  },
+  {
+    "rang": 19,
+    "station": "DENFERT-ROCHEREAU-RER",
+    "trafic": 5000661
+  },
+  {
+    "rang": 199,
+    "station": "DUGOMMIER",
+    "trafic": 2694704
+  },
+  {
+    "rang": 126,
+    "station": "DUPLEIX",
+    "trafic": 3905952
+  },
+  {
+    "rang": 151,
+    "station": "DUROC",
+    "trafic": 3509866
+  },
+  {
+    "rang": 106,
+    "station": "ECOLE MILITAIRE",
+    "trafic": 4315153
+  },
+  {
+    "rang": 156,
+    "station": "ECOLE VETERINAIRE DE MAISONS-ALFORT",
+    "trafic": 3367371
+  },
+  {
+    "rang": 241,
+    "station": "EDGAR QUINET",
+    "trafic": 2178463
+  },
+  {
+    "rang": 303,
+    "station": "EGLISE D'AUTEUIL",
+    "trafic": 172812
+  },
+  {
+    "rang": 134,
+    "station": "EGLISE DE PANTIN",
+    "trafic": 3769284
+  },
+  {
+    "rang": 18,
+    "station": "ESPLANADE DE LA DEFENSE",
+    "trafic": 10317385
+  },
+  {
+    "rang": 169,
+    "station": "ETIENNE MARCEL",
+    "trafic": 3131944
+  },
+  {
+    "rang": 277,
+    "station": "EUROPE",
+    "trafic": 1501598
+  },
+  {
+    "rang": 251,
+    "station": "EXELMANS",
+    "trafic": 2044451
+  },
+  {
+    "rang": 168,
+    "station": "FAIDHERBE-CHALIGNY",
+    "trafic": 3134776
+  },
+  {
+    "rang": 293,
+    "station": "FALGUIERE",
+    "trafic": 884202
+  },
+  {
+    "rang": 261,
+    "station": "FELIX FAURE",
+    "trafic": 1814488
+  },
+  {
+    "rang": 267,
+    "station": "FILLES DU CALVAIRE",
+    "trafic": 1710231
+  },
+  {
+    "rang": 61,
+    "station": "FONTAINE-MICHALON",
+    "trafic": 708085
+  },
+  {
+    "rang": 53,
+    "station": "FONTENAY-AUX-ROSES",
+    "trafic": 1115170
+  },
+  {
+    "rang": 38,
+    "station": "FONTENAY-SOUS-BOIS",
+    "trafic": 2554932
+  },
+  {
+    "rang": 125,
+    "station": "FORT D'AUBERVILLIERS",
+    "trafic": 3928197
+  },
+  {
+    "rang": 16,
+    "station": "FRANKLIN D. ROOSEVELT",
+    "trafic": 10899310
+  },
+  {
+    "rang": 200,
+    "station": "FRONT POPULAIRE",
+    "trafic": 2672036
+  },
+  {
+    "rang": 189,
+    "station": "FUNICULAIRE",
+    "trafic": 2850830
+  },
+  {
+    "rang": 75,
+    "station": "GABRIEL PERI",
+    "trafic": 5245603
+  },
+  {
+    "rang": 177,
+    "station": "GAITE",
+    "trafic": 3009210
+  },
+  {
+    "rang": 62,
+    "station": "GALLIENI",
+    "trafic": 5884810
+  },
+  {
+    "rang": 38,
+    "station": "GAMBETTA",
+    "trafic": 7095196
+  },
+  {
+    "rang": 21,
+    "station": "GARE D'AUSTERLITZ",
+    "trafic": 9438016
+  },
+  {
+    "rang": 5,
+    "station": "GARE DE L'EST",
+    "trafic": 20373189
+  },
+  {
+    "rang": 3,
+    "station": "GARE DE LYON",
+    "trafic": 36352115
+  },
+  {
+    "rang": 2,
+    "station": "GARE DE LYON-RER",
+    "trafic": 37192652
+  },
+  {
+    "rang": 1,
+    "station": "GARE DU NORD",
+    "trafic": 50872319
+  },
+  {
+    "rang": 1,
+    "station": "GARE DU NORD-RER",
+    "trafic": 47738502
+  },
+  {
+    "rang": 159,
+    "station": "GARIBALDI",
+    "trafic": 3346731
+  },
+  {
+    "rang": 44,
+    "station": "GENTILLY",
+    "trafic": 2165738
+  },
+  {
+    "rang": 60,
+    "station": "GEORGE V",
+    "trafic": 5891713
+  },
+  {
+    "rang": 59,
+    "station": "GIF-SUR-YVETTE",
+    "trafic": 766786
+  },
+  {
+    "rang": 88,
+    "station": "GLACIERE",
+    "trafic": 4966081
+  },
+  {
+    "rang": 153,
+    "station": "GONCOURT",
+    "trafic": 3415341
+  },
+  {
+    "rang": 44,
+    "station": "GRANDS BOULEVARDS",
+    "trafic": 6889717
+  },
+  {
+    "rang": 101,
+    "station": "GUY MOQUET",
+    "trafic": 4587665
+  },
+  {
+    "rang": 34,
+    "station": "HAVRE-CAUMARTIN",
+    "trafic": 7356084
+  },
+  {
+    "rang": 81,
+    "station": "HOCHE",
+    "trafic": 5085421
+  },
+  {
+    "rang": 12,
+    "station": "HOTEL DE VILLE",
+    "trafic": 11764439
+  },
+  {
+    "rang": 216,
+    "station": "IENA",
+    "trafic": 2430271
+  },
+  {
+    "rang": 49,
+    "station": "INVALIDES",
+    "trafic": 6290697
+  },
+  {
+    "rang": 209,
+    "station": "JACQUES BONSERGENT",
+    "trafic": 2569940
+  },
+  {
+    "rang": 252,
+    "station": "JASMIN",
+    "trafic": 2037263
+  },
+  {
+    "rang": 53,
+    "station": "JAURES",
+    "trafic": 6133119
+  },
+  {
+    "rang": 197,
+    "station": "JAVEL-ANDRE CITROEN",
+    "trafic": 2745396
+  },
+  {
+    "rang": 27,
+    "station": "JOINVILLE-LE-PONT",
+    "trafic": 3823443
+  },
+  {
+    "rang": 158,
+    "station": "JOURDAIN",
+    "trafic": 3356879
+  },
+  {
+    "rang": 105,
+    "station": "JULES JOFFRIN",
+    "trafic": 4344027
+  },
+  {
+    "rang": 111,
+    "station": "JUSSIEU",
+    "trafic": 4282997
+  },
+  {
+    "rang": 287,
+    "station": "KLEBER",
+    "trafic": 1249446
+  },
+  {
+    "rang": 48,
+    "station": "LA CHAPELLE",
+    "trafic": 6630341
+  },
+  {
+    "rang": 57,
+    "station": "LA COURNEUVE-8 MAI 1945",
+    "trafic": 6013067
+  },
+  {
+    "rang": 34,
+    "station": "LA CROIX DE BERNY",
+    "trafic": 3158806
+  },
+  {
+    "rang": 9,
+    "station": "LA DEFENSE",
+    "trafic": 15031139
+  },
+  {
+    "rang": 3,
+    "station": "LA DEFENSE-RER",
+    "trafic": 31115228
+  },
+  {
+    "rang": 192,
+    "station": "LA FOURCHE",
+    "trafic": 2817908
+  },
+  {
+    "rang": 66,
+    "station": "LA HACQUINIERE",
+    "trafic": 451954
+  },
+  {
+    "rang": 28,
+    "station": "LA MOTTE-PICQUET-GRENELLE",
+    "trafic": 8000496
+  },
+  {
+    "rang": 124,
+    "station": "LA MUETTE",
+    "trafic": 3977748
+  },
+  {
+    "rang": 244,
+    "station": "LA TOUR-MAUBOURG",
+    "trafic": 2110789
+  },
+  {
+    "rang": 49,
+    "station": "LA VARENNE-CHENNEVIERES",
+    "trafic": 1860491
+  },
+  {
+    "rang": 182,
+    "station": "LAMARCK-CAULAINCOURT",
+    "trafic": 2946177
+  },
+  {
+    "rang": 30,
+    "station": "LAPLACE",
+    "trafic": 3552088
+  },
+  {
+    "rang": 107,
+    "station": "LAUMIERE",
+    "trafic": 4311908
+  },
+  {
+    "rang": 56,
+    "station": "LE GUICHET",
+    "trafic": 923888
+  },
+  {
+    "rang": 108,
+    "station": "LE KREMLIN-BICETRE",
+    "trafic": 4307422
+  },
+  {
+    "rang": 46,
+    "station": "LE PARC DE SAINT-MAUR",
+    "trafic": 2125885
+  },
+  {
+    "rang": 229,
+    "station": "LE PELETIER",
+    "trafic": 2304258
+  },
+  {
+    "rang": 52,
+    "station": "LE VESINET-CENTRE",
+    "trafic": 1248923
+  },
+  {
+    "rang": 47,
+    "station": "LE VESINET-LE PECQ",
+    "trafic": 2122393
+  },
+  {
+    "rang": 128,
+    "station": "LEDRU-ROLLIN",
+    "trafic": 3895615
+  },
+  {
+    "rang": 226,
+    "station": "LES AGNETTES",
+    "trafic": 2323166
+  },
+  {
+    "rang": 50,
+    "station": "LES BACONNETS",
+    "trafic": 1806210
+  },
+  {
+    "rang": 119,
+    "station": "LES COURTILLES",
+    "trafic": 4103831
+  },
+  {
+    "rang": 148,
+    "station": "LES GOBELINS",
+    "trafic": 3520605
+  },
+  {
+    "rang": 8,
+    "station": "LES HALLES",
+    "trafic": 16128080
+  },
+  {
+    "rang": 67,
+    "station": "LES SABLONS",
+    "trafic": 5740806
+  },
+  {
+    "rang": 208,
+    "station": "LIBERTE",
+    "trafic": 2574219
+  },
+  {
+    "rang": 268,
+    "station": "LIEGE",
+    "trafic": 1690807
+  },
+  {
+    "rang": 51,
+    "station": "LOGNES",
+    "trafic": 1600341
+  },
+  {
+    "rang": 218,
+    "station": "LOUIS BLANC",
+    "trafic": 2419456
+  },
+  {
+    "rang": 144,
+    "station": "LOUISE MICHEL",
+    "trafic": 3577070
+  },
+  {
+    "rang": 217,
+    "station": "LOURMEL",
+    "trafic": 2423494
+  },
+  {
+    "rang": 223,
+    "station": "LOUVRE",
+    "trafic": 2366043
+  },
+  {
+    "rang": 58,
+    "station": "LOZERE",
+    "trafic": 816797
+  },
+  {
+    "rang": 16,
+    "station": "LUXEMBOURG",
+    "trafic": 5499946
+  },
+  {
+    "rang": 265,
+    "station": "MABILLON",
+    "trafic": 1738843
+  },
+  {
+    "rang": 42,
+    "station": "MADELEINE",
+    "trafic": 6992609
+  },
+  {
+    "rang": 112,
+    "station": "MAIRIE D'ISSY",
+    "trafic": 4279661
+  },
+  {
+    "rang": 171,
+    "station": "MAIRIE D'IVRY",
+    "trafic": 3102623
+  },
+  {
+    "rang": 39,
+    "station": "MAIRIE DE CLICHY",
+    "trafic": 7089241
+  },
+  {
+    "rang": 35,
+    "station": "MAIRIE DE MONTREUIL",
+    "trafic": 7335865
+  },
+  {
+    "rang": 51,
+    "station": "MAIRIE DE MONTROUGE",
+    "trafic": 6164559
+  },
+  {
+    "rang": 117,
+    "station": "MAIRIE DE SAINT-OUEN",
+    "trafic": 4143606
+  },
+  {
+    "rang": 98,
+    "station": "MAIRIE DES LILAS",
+    "trafic": 4656048
+  },
+  {
+    "rang": 248,
+    "station": "MAISON BLANCHE",
+    "trafic": 2085927
+  },
+  {
+    "rang": 239,
+    "station": "MAISONS-ALFORT-LES JUILLIOTTES",
+    "trafic": 2196535
+  },
+  {
+    "rang": 260,
+    "station": "MAISONS-ALFORT-STADE",
+    "trafic": 1831297
+  },
+  {
+    "rang": 138,
+    "station": "MALAKOFF-PLATEAU DE VANVES",
+    "trafic": 3667554
+  },
+  {
+    "rang": 259,
+    "station": "MALAKOFF-RUE ETIENNE DOLET",
+    "trafic": 1871202
+  },
+  {
+    "rang": 205,
+    "station": "MALESHERBES",
+    "trafic": 2626600
+  },
+  {
+    "rang": 195,
+    "station": "MARAICHERS",
+    "trafic": 2769540
+  },
+  {
+    "rang": 29,
+    "station": "MARCADET-POISSONNIERS",
+    "trafic": 7963672
+  },
+  {
+    "rang": 63,
+    "station": "MARCEL SEMBAT",
+    "trafic": 5879264
+  },
+  {
+    "rang": 18,
+    "station": "MARNE-LA-VALLEE-CHESSY",
+    "trafic": 5157016
+  },
+  {
+    "rang": 141,
+    "station": "MARX DORMOY",
+    "trafic": 3645866
+  },
+  {
+    "rang": 7,
+    "station": "MASSY-PALAISEAU",
+    "trafic": 8989578
+  },
+  {
+    "rang": 63,
+    "station": "MASSY-VERRIERES",
+    "trafic": 611015
+  },
+  {
+    "rang": 234,
+    "station": "MAUBERT-MUTUALITE",
+    "trafic": 2260212
+  },
+  {
+    "rang": 104,
+    "station": "MENILMONTANT",
+    "trafic": 4348973
+  },
+  {
+    "rang": 253,
+    "station": "MICHEL BIZOT",
+    "trafic": 2006980
+  },
+  {
+    "rang": 246,
+    "station": "MICHEL-ANGE-AUTEUIL",
+    "trafic": 2096180
+  },
+  {
+    "rang": 247,
+    "station": "MICHEL-ANGE-MOLITOR",
+    "trafic": 2093279
+  },
+  {
+    "rang": 282,
+    "station": "MIRABEAU",
+    "trafic": 1366605
+  },
+  {
+    "rang": 59,
+    "station": "MIROMESNIL",
+    "trafic": 5895561
+  },
+  {
+    "rang": 272,
+    "station": "MONCEAU",
+    "trafic": 1608558
+  },
+  {
+    "rang": 264,
+    "station": "MONTGALLET",
+    "trafic": 1755560
+  },
+  {
+    "rang": 4,
+    "station": "MONTPARNASSE-BIENVENUE",
+    "trafic": 30359225
+  },
+  {
+    "rang": 284,
+    "station": "MOUTON-DUVERNET",
+    "trafic": 1300317
+  },
+  {
+    "rang": 5,
+    "station": "NANTERRE-PREFECTURE",
+    "trafic": 22934672
+  },
+  {
+    "rang": 21,
+    "station": "NANTERRE-UNIVERSITE",
+    "trafic": 4501642
+  },
+  {
+    "rang": 28,
+    "station": "NANTERRE-VILLE",
+    "trafic": 3609052
+  },
+  {
+    "rang": 24,
+    "station": "NATION",
+    "trafic": 8792715
+  },
+  {
+    "rang": 24,
+    "station": "NATION-RER",
+    "trafic": 4171797
+  },
+  {
+    "rang": 204,
+    "station": "NATIONALE",
+    "trafic": 2641580
+  },
+  {
+    "rang": 17,
+    "station": "NEUILLY-PLAISANCE",
+    "trafic": 5390454
+  },
+  {
+    "rang": 36,
+    "station": "NOGENT-SUR-MARNE",
+    "trafic": 2704755
+  },
+  {
+    "rang": 37,
+    "station": "NOISIEL",
+    "trafic": 2681812
+  },
+  {
+    "rang": 20,
+    "station": "NOISY-CHAMPS",
+    "trafic": 4868790
+  },
+  {
+    "rang": 9,
+    "station": "NOISY-LE-GRAND-MONT D'EST",
+    "trafic": 7862183
+  },
+  {
+    "rang": 193,
+    "station": "NOTRE-DAME-DE-LORETTE",
+    "trafic": 2794182
+  },
+  {
+    "rang": 249,
+    "station": "NOTRE-DAME-DES-CHAMPS",
+    "trafic": 2074698
+  },
+  {
+    "rang": 114,
+    "station": "OBERKAMPF",
+    "trafic": 4192585
+  },
+  {
+    "rang": 58,
+    "station": "ODEON",
+    "trafic": 5896554
+  },
+  {
+    "rang": 37,
+    "station": "OLYMPIADES",
+    "trafic": 7103304
+  },
+  {
+    "rang": 15,
+    "station": "OPERA",
+    "trafic": 10981914
+  },
+  {
+    "rang": 40,
+    "station": "ORSAY-VILLE",
+    "trafic": 2431429
+  },
+  {
+    "rang": 123,
+    "station": "OURCQ",
+    "trafic": 3985487
+  },
+  {
+    "rang": 20,
+    "station": "PALAIS-ROYAL",
+    "trafic": 9621986
+  },
+  {
+    "rang": 54,
+    "station": "PALAISEAU",
+    "trafic": 1028405
+  },
+  {
+    "rang": 57,
+    "station": "PALAISEAU-VILLEBON",
+    "trafic": 923579
+  },
+  {
+    "rang": 65,
+    "station": "PARC DE SCEAUX",
+    "trafic": 585494
+  },
+  {
+    "rang": 164,
+    "station": "PARMENTIER",
+    "trafic": 3201707
+  },
+  {
+    "rang": 129,
+    "station": "PASSY",
+    "trafic": 3835814
+  },
+  {
+    "rang": 89,
+    "station": "PASTEUR",
+    "trafic": 4944020
+  },
+  {
+    "rang": 302,
+    "station": "PELLEPORT",
+    "trafic": 352513
+  },
+  {
+    "rang": 94,
+    "station": "PERE LACHAISE",
+    "trafic": 4808099
+  },
+  {
+    "rang": 103,
+    "station": "PEREIRE",
+    "trafic": 4547754
+  },
+  {
+    "rang": 166,
+    "station": "PERNETY",
+    "trafic": 3151413
+  },
+  {
+    "rang": 262,
+    "station": "PHILIPPE AUGUSTE",
+    "trafic": 1812544
+  },
+  {
+    "rang": 283,
+    "station": "PICPUS",
+    "trafic": 1313242
+  },
+  {
+    "rang": 275,
+    "station": "PIERRE CURIE",
+    "trafic": 1523465
+  },
+  {
+    "rang": 68,
+    "station": "PIGALLE",
+    "trafic": 5589061
+  },
+  {
+    "rang": 23,
+    "station": "PLACE CLICHY",
+    "trafic": 9024733
+  },
+  {
+    "rang": 13,
+    "station": "PLACE D'ITALIE",
+    "trafic": 11462253
+  },
+  {
+    "rang": 175,
+    "station": "PLACE DES FETES",
+    "trafic": 3078947
+  },
+  {
+    "rang": 180,
+    "station": "PLACE MONGE",
+    "trafic": 2971998
+  },
+  {
+    "rang": 91,
+    "station": "PLAISANCE",
+    "trafic": 4903776
+  },
+  {
+    "rang": 147,
+    "station": "POISSONNIERE",
+    "trafic": 3528982
+  },
+  {
+    "rang": 85,
+    "station": "PONT DE LEVALLOIS-BECON",
+    "trafic": 5025588
+  },
+  {
+    "rang": 46,
+    "station": "PONT DE NEUILLY",
+    "trafic": 6815851
+  },
+  {
+    "rang": 87,
+    "station": "PONT DE SEVRES",
+    "trafic": 4980193
+  },
+  {
+    "rang": 274,
+    "station": "PONT MARIE",
+    "trafic": 1558885
+  },
+  {
+    "rang": 279,
+    "station": "PONT NEUF",
+    "trafic": 1466310
+  },
+  {
+    "rang": 32,
+    "station": "PORT ROYAL",
+    "trafic": 3384237
+  },
+  {
+    "rang": 296,
+    "station": "PORTE D'AUTEUIL",
+    "trafic": 671787
+  },
+  {
+    "rang": 227,
+    "station": "PORTE D'ITALIE",
+    "trafic": 2316136
+  },
+  {
+    "rang": 256,
+    "station": "PORTE D'IVRY",
+    "trafic": 1929011
+  },
+  {
+    "rang": 47,
+    "station": "PORTE D'ORLEANS",
+    "trafic": 6643601
+  },
+  {
+    "rang": 184,
+    "station": "PORTE DAUPHINE",
+    "trafic": 2879755
+  },
+  {
+    "rang": 109,
+    "station": "PORTE DE BAGNOLET",
+    "trafic": 4305206
+  },
+  {
+    "rang": 150,
+    "station": "PORTE DE CHAMPERRET",
+    "trafic": 3512664
+  },
+  {
+    "rang": 242,
+    "station": "PORTE DE CHARENTON",
+    "trafic": 2151353
+  },
+  {
+    "rang": 173,
+    "station": "PORTE DE CHOISY",
+    "trafic": 3094950
+  },
+  {
+    "rang": 116,
+    "station": "PORTE DE CLICHY",
+    "trafic": 4145014
+  },
+  {
+    "rang": 25,
+    "station": "PORTE DE CLIGNANCOURT",
+    "trafic": 8432306
+  },
+  {
+    "rang": 188,
+    "station": "PORTE DE LA CHAPELLE",
+    "trafic": 2853699
+  },
+  {
+    "rang": 139,
+    "station": "PORTE DE LA VILLETTE",
+    "trafic": 3661072
+  },
+  {
+    "rang": 99,
+    "station": "PORTE DE MONTREUIL",
+    "trafic": 4647724
+  },
+  {
+    "rang": 80,
+    "station": "PORTE DE PANTIN",
+    "trafic": 5126473
+  },
+  {
+    "rang": 74,
+    "station": "PORTE DE SAINT-CLOUD",
+    "trafic": 5311324
+  },
+  {
+    "rang": 136,
+    "station": "PORTE DE SAINT-OUEN",
+    "trafic": 3725695
+  },
+  {
+    "rang": 100,
+    "station": "PORTE DE VANVES",
+    "trafic": 4619691
+  },
+  {
+    "rang": 55,
+    "station": "PORTE DE VERSAILLES",
+    "trafic": 6080322
+  },
+  {
+    "rang": 41,
+    "station": "PORTE DE VINCENNES",
+    "trafic": 7058223
+  },
+  {
+    "rang": 131,
+    "station": "PORTE DES LILAS",
+    "trafic": 3803232
+  },
+  {
+    "rang": 196,
+    "station": "PORTE DOREE",
+    "trafic": 2760380
+  },
+  {
+    "rang": 22,
+    "station": "PORTE MAILLOT",
+    "trafic": 9083545
+  },
+  {
+    "rang": 301,
+    "station": "PRE-SAINT-GERVAIS",
+    "trafic": 360890
+  },
+  {
+    "rang": 83,
+    "station": "PYRAMIDES",
+    "trafic": 5070872
+  },
+  {
+    "rang": 160,
+    "station": "PYRENEES",
+    "trafic": 3335906
+  },
+  {
+    "rang": 211,
+    "station": "QUAI DE LA GARE",
+    "trafic": 2544008
+  },
+  {
+    "rang": 288,
+    "station": "QUAI DE LA RAPEE",
+    "trafic": 1239904
+  },
+  {
+    "rang": 255,
+    "station": "QUATRE-SEPTEMBRE",
+    "trafic": 1929562
+  },
+  {
+    "rang": 118,
+    "station": "RAMBUTEAU",
+    "trafic": 4139059
+  },
+  {
+    "rang": 222,
+    "station": "RANELAGH",
+    "trafic": 2380218
+  },
+  {
+    "rang": 263,
+    "station": "RASPAIL",
+    "trafic": 1773665
+  },
+  {
+    "rang": 72,
+    "station": "REAUMUR-SEBASTOPOL",
+    "trafic": 5317006
+  },
+  {
+    "rang": 290,
+    "station": "RENNES",
+    "trafic": 1218261
+  },
+  {
+    "rang": 6,
+    "station": "REPUBLIQUE",
+    "trafic": 18340798
+  },
+  {
+    "rang": 66,
+    "station": "REUILLY-DIDEROT",
+    "trafic": 5765809
+  },
+  {
+    "rang": 258,
+    "station": "RICHARD LENOIR",
+    "trafic": 1906906
+  },
+  {
+    "rang": 79,
+    "station": "RICHELIEU-DROUOT",
+    "trafic": 5157761
+  },
+  {
+    "rang": 220,
+    "station": "RIQUET",
+    "trafic": 2391609
+  },
+  {
+    "rang": 102,
+    "station": "ROBESPIERRE",
+    "trafic": 4551649
+  },
+  {
+    "rang": 48,
+    "station": "ROBINSON",
+    "trafic": 2007606
+  },
+  {
+    "rang": 186,
+    "station": "ROME",
+    "trafic": 2870252
+  },
+  {
+    "rang": 174,
+    "station": "RUE DE LA POMPE",
+    "trafic": 3082105
+  },
+  {
+    "rang": 210,
+    "station": "RUE DES BOULETS",
+    "trafic": 2561884
+  },
+  {
+    "rang": 228,
+    "station": "RUE DU BAC",
+    "trafic": 2314720
+  },
+  {
+    "rang": 14,
+    "station": "RUEIL-MALMAISON",
+    "trafic": 6183873
+  },
+  {
+    "rang": 191,
+    "station": "SAINT-AMBROISE",
+    "trafic": 2820580
+  },
+  {
+    "rang": 185,
+    "station": "SAINT-AUGUSTIN",
+    "trafic": 2872445
+  },
+  {
+    "rang": 115,
+    "station": "SAINT-DENIS-PORTE DE PARIS",
+    "trafic": 4179663
+  },
+  {
+    "rang": 92,
+    "station": "SAINT-DENIS-UNIVERSITE",
+    "trafic": 4875315
+  },
+  {
+    "rang": 294,
+    "station": "SAINT-FARGEAU",
+    "trafic": 742869
+  },
+  {
+    "rang": 266,
+    "station": "SAINT-FRANCOIS-XAVIER",
+    "trafic": 1725103
+  },
+  {
+    "rang": 289,
+    "station": "SAINT-GEORGES",
+    "trafic": 1233216
+  },
+  {
+    "rang": 113,
+    "station": "SAINT-GERMAIN DES PRES",
+    "trafic": 4195883
+  },
+  {
+    "rang": 23,
+    "station": "SAINT-GERMAIN-EN-LAYE",
+    "trafic": 4454977
+  },
+  {
+    "rang": 240,
+    "station": "SAINT-JACQUES",
+    "trafic": 2187883
+  },
+  {
+    "rang": 2,
+    "station": "SAINT-LAZARE",
+    "trafic": 45879586
+  },
+  {
+    "rang": 54,
+    "station": "SAINT-MANDE",
+    "trafic": 6099638
+  },
+  {
+    "rang": 233,
+    "station": "SAINT-MARCEL",
+    "trafic": 2260458
+  },
+  {
+    "rang": 187,
+    "station": "SAINT-MAUR",
+    "trafic": 2863984
+  },
+  {
+    "rang": 29,
+    "station": "SAINT-MAUR-CRETEIL",
+    "trafic": 3564563
+  },
+  {
+    "rang": 32,
+    "station": "SAINT-MICHEL",
+    "trafic": 7562865
+  },
+  {
+    "rang": 10,
+    "station": "SAINT-MICHEL-NOTRE-DAME",
+    "trafic": 7355560
+  },
+  {
+    "rang": 52,
+    "station": "SAINT-PAUL",
+    "trafic": 6158849
+  },
+  {
+    "rang": 194,
+    "station": "SAINT-PHILIPPE-DU-ROULE",
+    "trafic": 2782782
+  },
+  {
+    "rang": 162,
+    "station": "SAINT-PLACIDE",
+    "trafic": 3281669
+  },
+  {
+    "rang": 55,
+    "station": "SAINT-REMY-LES-CHEVREUSE",
+    "trafic": 974338
+  },
+  {
+    "rang": 269,
+    "station": "SAINT-SEBASTIEN-FROISSART",
+    "trafic": 1688254
+  },
+  {
+    "rang": 215,
+    "station": "SAINT-SULPICE",
+    "trafic": 2432844
+  },
+  {
+    "rang": 62,
+    "station": "SCEAUX",
+    "trafic": 706968
+  },
+  {
+    "rang": 273,
+    "station": "SEGUR",
+    "trafic": 1597696
+  },
+  {
+    "rang": 145,
+    "station": "SENTIER",
+    "trafic": 3575805
+  },
+  {
+    "rang": 78,
+    "station": "SEVRES-BABYLONE",
+    "trafic": 5178469
+  },
+  {
+    "rang": 225,
+    "station": "SEVRES-LECOURBE",
+    "trafic": 2341763
+  },
+  {
+    "rang": 176,
+    "station": "SIMPLON",
+    "trafic": 3021317
+  },
+  {
+    "rang": 236,
+    "station": "SOLFERINO",
+    "trafic": 2243672
+  },
+  {
+    "rang": 40,
+    "station": "STALINGRAD",
+    "trafic": 7063687
+  },
+  {
+    "rang": 19,
+    "station": "STRASBOURG-SAINT-DENIS",
+    "trafic": 10145616
+  },
+  {
+    "rang": 41,
+    "station": "SUCY-BONNEUIL",
+    "trafic": 2298313
+  },
+  {
+    "rang": 276,
+    "station": "SULLY-MORLAND",
+    "trafic": 1513782
+  },
+  {
+    "rang": 224,
+    "station": "TELEGRAPHE",
+    "trafic": 2342747
+  },
+  {
+    "rang": 286,
+    "station": "TEMPLE",
+    "trafic": 1270793
+  },
+  {
+    "rang": 142,
+    "station": "TERNES",
+    "trafic": 3616052
+  },
+  {
+    "rang": 157,
+    "station": "TOLBIAC",
+    "trafic": 3363265
+  },
+  {
+    "rang": 25,
+    "station": "TORCY",
+    "trafic": 4141694
+  },
+  {
+    "rang": 237,
+    "station": "TRINITE-D'ESTIENNE D'ORVES",
+    "trafic": 2226802
+  },
+  {
+    "rang": 27,
+    "station": "TROCADERO",
+    "trafic": 8351649
+  },
+  {
+    "rang": 206,
+    "station": "TUILERIES",
+    "trafic": 2622025
+  },
+  {
+    "rang": 26,
+    "station": "VAL D'EUROPE",
+    "trafic": 4094800
+  },
+  {
+    "rang": 6,
+    "station": "VAL DE FONTENAY",
+    "trafic": 12969924
+  },
+  {
+    "rang": 291,
+    "station": "VANEAU",
+    "trafic": 980057
+  },
+  {
+    "rang": 281,
+    "station": "VARENNE",
+    "trafic": 1429509
+  },
+  {
+    "rang": 140,
+    "station": "VAUGIRARD",
+    "trafic": 3648085
+  },
+  {
+    "rang": 231,
+    "station": "VAVIN",
+    "trafic": 2279221
+  },
+  {
+    "rang": 132,
+    "station": "VICTOR HUGO",
+    "trafic": 3802054
+  },
+  {
+    "rang": 212,
+    "station": "VILLEJUIF-LEO LAGRANGE",
+    "trafic": 2529256
+  },
+  {
+    "rang": 45,
+    "station": "VILLEJUIF-LOUIS ARAGON",
+    "trafic": 6865612
+  },
+  {
+    "rang": 230,
+    "station": "VILLEJUIF-PAUL VAILLANT-COUTURIER",
+    "trafic": 2297351
+  },
+  {
+    "rang": 56,
+    "station": "VILLIERS",
+    "trafic": 6063343
+  },
+  {
+    "rang": 12,
+    "station": "VINCENNES",
+    "trafic": 6718268
+  },
+  {
+    "rang": 219,
+    "station": "VOLONTAIRES",
+    "trafic": 2405459
+  },
+  {
+    "rang": 84,
+    "station": "VOLTAIRE",
+    "trafic": 5036297
+  },
+  {
+    "rang": 214,
+    "station": "WAGRAM",
+    "trafic": 2475539
+  }
+]

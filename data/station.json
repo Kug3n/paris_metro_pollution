@@ -1,0 +1,7394 @@
+[
+  {
+    "geo_point_2d": [
+      48.884594208,
+      2.33794977706
+    ],
+    "label": "Abbesses",
+    "nom_long": "ABBESSES"
+  },
+  {
+    "geo_point_2d": [
+      48.7255353058,
+      2.41956502574
+    ],
+    "label": "ABLON",
+    "nom_long": "ABLON"
+  },
+  {
+    "geo_point_2d": [
+      48.9554022445,
+      2.09352190295
+    ],
+    "label": "ACHERES GRAND CORMIER",
+    "nom_long": "ACHERES-GRAND-CORMIER"
+  },
+  {
+    "geo_point_2d": [
+      48.9706650465,
+      2.07773176596
+    ],
+    "label": "ACHERES VILLE",
+    "nom_long": "ACHERES-VILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8724040944,
+      2.40857757742
+    ],
+    "label": "Adrienne Bolland",
+    "nom_long": "ADRIENNE BOLLAND"
+  },
+  {
+    "geo_point_2d": [
+      49.0097564521,
+      2.56123269523
+    ],
+    "label": "AEROPORT CHARLES DE GAULLE 1",
+    "nom_long": "AEROPORT CHARLES DE GAULLE 1"
+  },
+  {
+    "geo_point_2d": [
+      49.0046874618,
+      2.57058948552
+    ],
+    "label": "AEROPORT CHARLES DE GAULLE 2 TGV",
+    "nom_long": "AEROPORT CHARLES DE GAULLE 2-TGV"
+  },
+  {
+    "geo_point_2d": [
+      48.7296473558,
+      2.36001341286
+    ],
+    "label": "Aeroport Orly 1-2-3",
+    "nom_long": "AEROPORT ORLY 1-2-3"
+  },
+  {
+    "geo_point_2d": [
+      48.7287704517,
+      2.36851613817
+    ],
+    "label": "Aeroport Orly 4",
+    "nom_long": "AEROPORT ORLY 4"
+  },
+  {
+    "geo_point_2d": [
+      48.9658555744,
+      2.36357222397
+    ],
+    "label": "Alcide d'Orbigny",
+    "nom_long": "ALCIDE D'ORBIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8281884763,
+      2.32716464961
+    ],
+    "label": "Alesia",
+    "nom_long": "ALESIA"
+  },
+  {
+    "geo_point_2d": [
+      48.8437717867,
+      2.41013203808
+    ],
+    "label": "Alexandra David-Neel",
+    "nom_long": "ALEXANDRA DAVID-NEEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8563773572,
+      2.39456194456
+    ],
+    "label": "Alexandre Dumas",
+    "nom_long": "ALEXANDRE DUMAS"
+  },
+  {
+    "geo_point_2d": [
+      48.8971438185,
+      2.50640824702
+    ],
+    "label": "Allee de la Tour Rendez-Vous",
+    "nom_long": "ALLEE DE LA TOUR RENDEZ-VOUS"
+  },
+  {
+    "geo_point_2d": [
+      48.864766845,
+      2.3009910035
+    ],
+    "label": "Alma-Marceau",
+    "nom_long": "ALMA-MARCEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.892082786,
+      2.28500950275
+    ],
+    "label": "Anatole France",
+    "nom_long": "ANATOLE FRANCE"
+  },
+  {
+    "geo_point_2d": [
+      48.9748208646,
+      2.04908312149
+    ],
+    "label": "ANDRESY",
+    "nom_long": "ANDRESY"
+  },
+  {
+    "geo_point_2d": [
+      48.3112962802,
+      2.00352500269
+    ],
+    "label": "ANGERVILLE",
+    "nom_long": "ANGERVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.7549465255,
+      2.30098685437
+    ],
+    "label": "ANTONY",
+    "nom_long": "ANTONY"
+  },
+  {
+    "geo_point_2d": [
+      48.8828686476,
+      2.34413063372
+    ],
+    "label": "Anvers",
+    "nom_long": "ANVERS"
+  },
+  {
+    "geo_point_2d": [
+      48.798892501,
+      2.32813692305
+    ],
+    "label": "ARCUEIL CACHAN",
+    "nom_long": "ARCUEIL-CACHAN"
+  },
+  {
+    "geo_point_2d": [
+      48.9467969421,
+      2.25789748266
+    ],
+    "label": "ARGENTEUIL",
+    "nom_long": "ARGENTEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8755940499,
+      2.28932258961
+    ],
+    "label": "Argentine",
+    "nom_long": "ARGENTINE"
+  },
+  {
+    "geo_point_2d": [
+      48.5860078908,
+      2.24107007819
+    ],
+    "label": "ARPAJON",
+    "nom_long": "ARPAJON"
+  },
+  {
+    "geo_point_2d": [
+      48.8655864776,
+      2.35673675681
+    ],
+    "label": "Arts et Metiers",
+    "nom_long": "ARTS ET METIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.9056639491,
+      2.28357280996
+    ],
+    "label": "ASNIERES",
+    "nom_long": "ASNIERES"
+  },
+  {
+    "geo_point_2d": [
+      48.8607869626,
+      2.32099819197
+    ],
+    "label": "Assemblee Nationale",
+    "nom_long": "ASSEMBLEE NATIONALE"
+  },
+  {
+    "geo_point_2d": [
+      48.7126289857,
+      2.40363310221
+    ],
+    "label": "ATHIS-MONS",
+    "nom_long": "ATHIS-MONS"
+  },
+  {
+    "geo_point_2d": [
+      48.8721574949,
+      2.32992717061
+    ],
+    "label": "AUBER",
+    "nom_long": "AUBER"
+  },
+  {
+    "geo_point_2d": [
+      48.9721416769,
+      1.84834880828
+    ],
+    "label": "AUBERGENVILLE-ELISABETHVILLE",
+    "nom_long": "AUBERGENVILLE-ELISABETHVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9037599311,
+      2.39228705963
+    ],
+    "label": "Aubervilliers Pantin Quatre Chemins",
+    "nom_long": "AUBERVILLIERS-PANTIN (QUATRE CHEMINS)"
+  },
+  {
+    "geo_point_2d": [
+      48.9067006317,
+      2.46052340367
+    ],
+    "label": "Auguste Delaune",
+    "nom_long": "AUGUSTE DELAUNE"
+  },
+  {
+    "geo_point_2d": [
+      48.763375153,
+      2.36779053573
+    ],
+    "label": "Auguste Perret",
+    "nom_long": "AUGUSTE PERRET"
+  },
+  {
+    "geo_point_2d": [
+      48.9321960051,
+      2.49551314123
+    ],
+    "label": "AULNAY-SOUS-BOIS",
+    "nom_long": "AULNAY-SOUS-BOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.4452537046,
+      1.77958370837
+    ],
+    "label": "AUNEAU",
+    "nom_long": "AUNEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8423600825,
+      2.36558170411
+    ],
+    "label": "GARE D'AUSTERLITZ",
+    "nom_long": "AUSTERLITZ"
+  },
+  {
+    "geo_point_2d": [
+      49.0704623625,
+      2.17530420586
+    ],
+    "label": "AUVERS-SUR-OISE",
+    "nom_long": "AUVERS-SUR-OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8255705553,
+      2.38116650206
+    ],
+    "label": "Avenue de France",
+    "nom_long": "AVENUE DE FRANCE"
+  },
+  {
+    "geo_point_2d": [
+      48.8536480527,
+      2.27948707184
+    ],
+    "label": "AVENUE DU PRESIDENT KENNEDY",
+    "nom_long": "AVENUE DU PRESIDENT KENNEDY"
+  },
+  {
+    "geo_point_2d": [
+      48.8470195819,
+      2.29542047803
+    ],
+    "label": "Avenue Emile Zola",
+    "nom_long": "AVENUE EMILE ZOLA"
+  },
+  {
+    "geo_point_2d": [
+      48.8709741382,
+      2.27557452685
+    ],
+    "label": "AVENUE FOCH",
+    "nom_long": "AVENUE FOCH"
+  },
+  {
+    "geo_point_2d": [
+      48.8644617484,
+      2.27212062164
+    ],
+    "label": "AVENUE HENRI MARTIN",
+    "nom_long": "AVENUE HENRI MARTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8515102782,
+      2.39830234427
+    ],
+    "label": "Avron",
+    "nom_long": "AVRON"
+  },
+  {
+    "geo_point_2d": [
+      48.8978323851,
+      2.33802674023
+    ],
+    "label": "Angelique Compoint - Pte de Montmartre",
+    "nom_long": "Angelique Compoint - Porte de Montmartre"
+  },
+  {
+    "geo_point_2d": [
+      48.9272506106,
+      2.27433613239
+    ],
+    "label": "Asnieres Quatre Routes",
+    "nom_long": "Asnieres Quatre Routes"
+  },
+  {
+    "geo_point_2d": [
+      48.2295499402,
+      2.7039360516
+    ],
+    "label": "BAGNEAUX-SUR-LOING",
+    "nom_long": "BAGNEAUX-SUR-LOING"
+  },
+  {
+    "geo_point_2d": [
+      48.7933362963,
+      2.32220163639
+    ],
+    "label": "BAGNEUX",
+    "nom_long": "BAGNEUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8360967841,
+      2.27823795192
+    ],
+    "label": "Balard",
+    "nom_long": "BALARD"
+  },
+  {
+    "geo_point_2d": [
+      48.5315019892,
+      2.37051850041
+    ],
+    "label": "BALLANCOURT",
+    "nom_long": "BALLANCOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.8837344657,
+      2.34963614827
+    ],
+    "label": "Barbes-Rochechouart",
+    "nom_long": "BARBES-ROCHECHOUART"
+  },
+  {
+    "geo_point_2d": [
+      48.8303885897,
+      2.39344969832
+    ],
+    "label": "Baron Le Roy",
+    "nom_long": "BARON LE ROY"
+  },
+  {
+    "geo_point_2d": [
+      48.9373047355,
+      2.36007214164
+    ],
+    "label": "Basilique de Saint-Denis",
+    "nom_long": "BASILIQUE DE SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8534369623,
+      2.36873657263
+    ],
+    "label": "Bastille",
+    "nom_long": "BASTILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9421254551,
+      2.35672974153
+    ],
+    "label": "Baudelaire",
+    "nom_long": "BAUDELAIRE"
+  },
+  {
+    "geo_point_2d": [
+      49.4262015914,
+      2.08850697394
+    ],
+    "label": "BEAUVAIS",
+    "nom_long": "BEAUVAIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9057626571,
+      2.26996477919
+    ],
+    "label": "BECON LES BRUYERES",
+    "nom_long": "BECON-LES-BRUYERES"
+  },
+  {
+    "geo_point_2d": [
+      48.8413382473,
+      2.4009185368
+    ],
+    "label": "Bel-Air",
+    "nom_long": "BEL-AIR"
+  },
+  {
+    "geo_point_2d": [
+      48.8719936918,
+      2.3770297767
+    ],
+    "label": "Belleville",
+    "nom_long": "BELLEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8189478001,
+      2.22980800647
+    ],
+    "label": "BELLEVUE",
+    "nom_long": "BELLEVUE"
+  },
+  {
+    "geo_point_2d": [
+      49.0984002652,
+      2.36127055658
+    ],
+    "label": "BELLOY SAINT-MARTIN",
+    "nom_long": "BELLOY-SAINT-MARTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8760012915,
+      2.22595909514
+    ],
+    "label": "Belvedere",
+    "nom_long": "BELVEDERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8454707076,
+      2.42920516635
+    ],
+    "label": "Berault",
+    "nom_long": "BERAULT"
+  },
+  {
+    "geo_point_2d": [
+      48.8403020934,
+      2.37912177644
+    ],
+    "label": "Bercy",
+    "nom_long": "BERCY"
+  },
+  {
+    "geo_point_2d": [
+      49.0353113094,
+      2.21024652104
+    ],
+    "label": "BESSANCOURT",
+    "nom_long": "BESSANCOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.8599987313,
+      1.87559559028
+    ],
+    "label": "BEYNES",
+    "nom_long": "BEYNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8302584573,
+      2.37631072139
+    ],
+    "label": "BIBLIOTHEQUE FRANCOIS MITTERRAND",
+    "nom_long": "BIBLIOTHEQUE FRANCOIS MITTERRAND"
+  },
+  {
+    "geo_point_2d": [
+      48.751023276,
+      2.21586085326
+    ],
+    "label": "BIEVRES",
+    "nom_long": "BIEVRES"
+  },
+  {
+    "geo_point_2d": [
+      48.8321105601,
+      2.23863934858
+    ],
+    "label": "Billancourt",
+    "nom_long": "BILLANCOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.8539426062,
+      2.28933453278
+    ],
+    "label": "Bir-Hakeim",
+    "nom_long": "BIR-HAKEIM (GRENELLE)"
+  },
+  {
+    "geo_point_2d": [
+      48.9323054161,
+      2.4756743722
+    ],
+    "label": "BLANC-MESNIL",
+    "nom_long": "BLANC-MESNIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8839585726,
+      2.33192658953
+    ],
+    "label": "Blanche",
+    "nom_long": "BLANCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.9478076496,
+      2.33918092342
+    ],
+    "label": "Blumenthal",
+    "nom_long": "BLUMENTHAL"
+  },
+  {
+    "geo_point_2d": [
+      48.9063747703,
+      2.44918990449
+    ],
+    "label": "Bobigny-P. Picasso",
+    "nom_long": "BOBIGNY-PABLO PICASSO"
+  },
+  {
+    "geo_point_2d": [
+      48.8954546731,
+      2.42532689153
+    ],
+    "label": "Bobigny-Pantin - Raymond Queneau",
+    "nom_long": "BOBIGNY-PANTIN (RAYMOND QUENEAU)"
+  },
+  {
+    "geo_point_2d": [
+      48.3416635464,
+      2.37881544464
+    ],
+    "label": "BOIGNEVILLE",
+    "nom_long": "BOIGNEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9142464743,
+      2.27159875039
+    ],
+    "label": "BOIS COLOMBES",
+    "nom_long": "BOIS-COLOMBES"
+  },
+  {
+    "geo_point_2d": [
+      48.4755230697,
+      2.69203326394
+    ],
+    "label": "BOIS-LE-ROI",
+    "nom_long": "BOIS-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      48.8669831094,
+      2.29005883358
+    ],
+    "label": "Boissiere",
+    "nom_long": "BOISSIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.5297469168,
+      2.57207366546
+    ],
+    "label": "BOISSISE-LE-ROI",
+    "nom_long": "BOISSISE-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      49.0758428848,
+      2.02495293138
+    ],
+    "label": "BOISSY L'AILLERIE",
+    "nom_long": "BOISSY-L'AILLERIE"
+  },
+  {
+    "geo_point_2d": [
+      48.7521857217,
+      2.50455983697
+    ],
+    "label": "BOISSY-SAINT-LEGER",
+    "nom_long": "BOISSY-SAINT-LEGER"
+  },
+  {
+    "geo_point_2d": [
+      48.8808212614,
+      2.37414715384
+    ],
+    "label": "Bolivar",
+    "nom_long": "BOLIVAR"
+  },
+  {
+    "geo_point_2d": [
+      48.894012515,
+      2.47979332996
+    ],
+    "label": "BONDY",
+    "nom_long": "BONDY"
+  },
+  {
+    "geo_point_2d": [
+      48.8701642009,
+      2.35049797186
+    ],
+    "label": "Bonne Nouvelle",
+    "nom_long": "BONNE NOUVELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.1864372096,
+      1.38624502094
+    ],
+    "label": "BONNEVAL",
+    "nom_long": "BONNEVAL"
+  },
+  {
+    "geo_point_2d": [
+      49.0387620448,
+      1.58153210234
+    ],
+    "label": "BONNIERES",
+    "nom_long": "BONNIERES"
+  },
+  {
+    "geo_point_2d": [
+      49.1667750398,
+      2.36230352857
+    ],
+    "label": "BORAN-SUR-OISE",
+    "nom_long": "BORAN-SUR-OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8794817719,
+      2.38911580738
+    ],
+    "label": "Botzaris",
+    "nom_long": "BOTZARIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8410940563,
+      2.2879457665
+    ],
+    "label": "Boucicaut",
+    "nom_long": "BOUCICAUT"
+  },
+  {
+    "geo_point_2d": [
+      49.0451694603,
+      2.32291784623
+    ],
+    "label": "BOUFFEMONT MOISSELLES",
+    "nom_long": "BOUFFEMONT-MOISSELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.8542517026,
+      2.13213244527
+    ],
+    "label": "BOUGIVAL",
+    "nom_long": "BOUGIVAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8565315515,
+      2.27516715469
+    ],
+    "label": "BOULAINVILLIERS",
+    "nom_long": "BOULAINVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8420053473,
+      2.23888732852
+    ],
+    "label": "Boulogne-Jean Jaures",
+    "nom_long": "BOULOGNE-JEAN JAURES"
+  },
+  {
+    "geo_point_2d": [
+      48.8407450152,
+      2.2285369815
+    ],
+    "label": "Boulogne-Pont de Saint-Cloud",
+    "nom_long": "BOULOGNE-PONT DE SAINT CLOUD"
+  },
+  {
+    "geo_point_2d": [
+      48.5328901041,
+      2.29008251383
+    ],
+    "label": "BOURAY",
+    "nom_long": "BOURAY"
+  },
+  {
+    "geo_point_2d": [
+      48.7803137964,
+      2.31230771689
+    ],
+    "label": "BOURG-LA-REINE",
+    "nom_long": "BOURG-LA-REINE"
+  },
+  {
+    "geo_point_2d": [
+      48.3326836438,
+      2.69248019059
+    ],
+    "label": "BOURRON-MARLOTTE-GREZ",
+    "nom_long": "BOURRON-MARLOTTE-GREZ"
+  },
+  {
+    "geo_point_2d": [
+      48.8686959778,
+      2.34072072367
+    ],
+    "label": "Bourse",
+    "nom_long": "BOURSE"
+  },
+  {
+    "geo_point_2d": [
+      48.6810166137,
+      2.53313066339
+    ],
+    "label": "BOUSSY-SAINT-ANTOINE",
+    "nom_long": "BOUSSY-SAINT-ANTOINE"
+  },
+  {
+    "geo_point_2d": [
+      48.4344906129,
+      2.37667281716
+    ],
+    "label": "BOUTIGNY-SUR-ESSONNE",
+    "nom_long": "BOUTIGNY-SUR-ESSONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.856140713,
+      2.3702093411
+    ],
+    "label": "Breguet-Sabin",
+    "nom_long": "BREGUET-SABIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7682217804,
+      2.36804152067
+    ],
+    "label": "Bretagne",
+    "nom_long": "BRETAGNE"
+  },
+  {
+    "geo_point_2d": [
+      48.6067449489,
+      2.30205969158
+    ],
+    "label": "BRETIGNY",
+    "nom_long": "BRETIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.5775084903,
+      2.19206307147
+    ],
+    "label": "BREUILLET BRUYERES-LE-CHÂTEL",
+    "nom_long": "BREUILLET-BRUYERES-LE-CHATEL"
+  },
+  {
+    "geo_point_2d": [
+      48.5645970274,
+      2.17097626776
+    ],
+    "label": "BREUILLET-VILLAGE",
+    "nom_long": "BREUILLET-VILLAGE"
+  },
+  {
+    "geo_point_2d": [
+      48.9432369891,
+      1.54138115647
+    ],
+    "label": "BREVAL",
+    "nom_long": "BREVAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8223099329,
+      2.23132315987
+    ],
+    "label": "Brimborion",
+    "nom_long": "BRIMBORION"
+  },
+  {
+    "geo_point_2d": [
+      48.8905871866,
+      2.32017475579
+    ],
+    "label": "Brochant",
+    "nom_long": "BROCHANT"
+  },
+  {
+    "geo_point_2d": [
+      48.6997324357,
+      2.50607815319
+    ],
+    "label": "BRUNOY",
+    "nom_long": "BRUNOY"
+  },
+  {
+    "geo_point_2d": [
+      49.155189859,
+      2.32575399488
+    ],
+    "label": "BRUYERES-SUR-OISE",
+    "nom_long": "BRUYERES-SUR-OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8449011396,
+      2.5259225452
+    ],
+    "label": "BRY-SUR-MARNE",
+    "nom_long": "BRY-SUR-MARNE"
+  },
+  {
+    "geo_point_2d": [
+      48.9250943511,
+      1.44379093871
+    ],
+    "label": "BUEIL",
+    "nom_long": "BUEIL"
+  },
+  {
+    "geo_point_2d": [
+      48.3713832941,
+      2.38720979718
+    ],
+    "label": "BUNO-GIRONVILLE",
+    "nom_long": "BUNO-GIRONVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.6962527469,
+      2.16437824279
+    ],
+    "label": "BURES-SUR-YVETTE",
+    "nom_long": "BURES-SUR-YVETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8365364329,
+      2.7089817409
+    ],
+    "label": "BUSSY-SAINT-GEORGES",
+    "nom_long": "BUSSY-SAINT-GEORGES"
+  },
+  {
+    "geo_point_2d": [
+      48.8850167892,
+      2.3967512888
+    ],
+    "label": "Butte du Chapeau Rouge",
+    "nom_long": "BUTTE DU CHAPEAU ROUGE"
+  },
+  {
+    "geo_point_2d": [
+      48.973659013,
+      2.36605171568
+    ],
+    "label": "Butte pinson",
+    "nom_long": "BUTTE PINSON"
+  },
+  {
+    "geo_point_2d": [
+      48.878514114,
+      2.38161451329
+    ],
+    "label": "Buttes-Chaumont",
+    "nom_long": "BUTTES-CHAUMONT"
+  },
+  {
+    "geo_point_2d": [
+      48.851812133,
+      2.40102227052
+    ],
+    "label": "Buzenval",
+    "nom_long": "BUZENVAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8758906819,
+      2.34412603046
+    ],
+    "label": "Cadet",
+    "nom_long": "CADET"
+  },
+  {
+    "geo_point_2d": [
+      48.847507082,
+      2.30296829645
+    ],
+    "label": "Cambronne",
+    "nom_long": "CAMBRONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.8354953572,
+      2.35882349044
+    ],
+    "label": "Campo-Formio",
+    "nom_long": "CAMPO-FORMIO"
+  },
+  {
+    "geo_point_2d": [
+      48.8987339907,
+      2.38053703549
+    ],
+    "label": "Canal Saint-Denis",
+    "nom_long": "CANAL SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8466568513,
+      2.35162325638
+    ],
+    "label": "Cardinal Lemoine",
+    "nom_long": "CARDINAL-LEMOINE"
+  },
+  {
+    "geo_point_2d": [
+      48.7385627773,
+      2.36991014668
+    ],
+    "label": "Caroline Aigle",
+    "nom_long": "CAROLINE AIGLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9195730722,
+      2.34330592781
+    ],
+    "label": "Carrefour Pleyel",
+    "nom_long": "CARREFOUR PLEYEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8404866526,
+      2.35173948717
+    ],
+    "label": "Censier-Daubenton",
+    "nom_long": "CENSIER-DAUBENTON"
+  },
+  {
+    "geo_point_2d": [
+      48.8042049383,
+      2.2890572536
+    ],
+    "label": "Centre de Châtillon",
+    "nom_long": "CENTRE DE CHATILLON"
+  },
+  {
+    "geo_point_2d": [
+      49.0478762034,
+      2.01099976
+    ],
+    "label": "CERGY LE HAUT",
+    "nom_long": "CERGY LE HAUT"
+  },
+  {
+    "geo_point_2d": [
+      49.0364639798,
+      2.07953494138
+    ],
+    "label": "CERGY PREFECTURE",
+    "nom_long": "CERGY-PREFECTURE"
+  },
+  {
+    "geo_point_2d": [
+      49.0496470053,
+      2.03429446322
+    ],
+    "label": "CERGY SAINT-CHRISTOPHE",
+    "nom_long": "CERGY-SAINT-CHRISTOPHE"
+  },
+  {
+    "geo_point_2d": [
+      48.9850047013,
+      2.25747415588
+    ],
+    "label": "CERNAY",
+    "nom_long": "CERNAY"
+  },
+  {
+    "geo_point_2d": [
+      48.9495813451,
+      2.34252182604
+    ],
+    "label": "Cesar",
+    "nom_long": "CESAR"
+  },
+  {
+    "geo_point_2d": [
+      48.5649494939,
+      2.59455181602
+    ],
+    "label": "CESSON",
+    "nom_long": "CESSON"
+  },
+  {
+    "geo_point_2d": [
+      47.9861923599,
+      3.33759167772
+    ],
+    "label": "CEZY",
+    "nom_long": "CEZY"
+  },
+  {
+    "geo_point_2d": [
+      48.5142458762,
+      2.21551781058
+    ],
+    "label": "CHAMARANDE",
+    "nom_long": "CHAMARANDE"
+  },
+  {
+    "geo_point_2d": [
+      48.979447983,
+      2.29247713155
+    ],
+    "label": "CHAMP DE COURSES D'ENGHIEN",
+    "nom_long": "CHAMP DE COURSES D'ENGHIEN"
+  },
+  {
+    "geo_point_2d": [
+      48.8572934157,
+      2.2903915548
+    ],
+    "label": "CHAMP DE MARS TOUR EIFFEL",
+    "nom_long": "CHAMP DE MARS-TOUR EIFFEL"
+  },
+  {
+    "geo_point_2d": [
+      49.1360005646,
+      2.24267777678
+    ],
+    "label": "CHAMPAGNE-SUR-OISE",
+    "nom_long": "CHAMPAGNE-SUR-OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.4068056294,
+      2.79923355753
+    ],
+    "label": "CHAMPAGNE-SUR-SEINE",
+    "nom_long": "CHAMPAGNE-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.5455953469,
+      3.28731284848
+    ],
+    "label": "CHAMPBENOIST-POIGNY",
+    "nom_long": "CHAMPBENOIST-POIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8069850725,
+      2.51030723575
+    ],
+    "label": "CHAMPIGNY",
+    "nom_long": "CHAMPIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.3240522735,
+      3.13113953462
+    ],
+    "label": "CHAMPIGNY-SUR-YONNE",
+    "nom_long": "CHAMPIGNY-SUR-YONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.8677997345,
+      2.31388193768
+    ],
+    "label": "Champs-Elysees-Clemenceau",
+    "nom_long": "CHAMPS-ELYSEES-CLEMENCEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.9591640631,
+      3.02611129565
+    ],
+    "label": "CHANGIS SAINT-JEAN",
+    "nom_long": "CHANGIS-SAINT-JEAN"
+  },
+  {
+    "geo_point_2d": [
+      48.9703669331,
+      2.02751877569
+    ],
+    "label": "CHANTELOUP-LES-VIGNES",
+    "nom_long": "CHANTELOUP-LES-VIGNES"
+  },
+  {
+    "geo_point_2d": [
+      49.1873335365,
+      2.45952008111
+    ],
+    "label": "CHANTILLY GOUVIEUX",
+    "nom_long": "CHANTILLY-GOUVIEUX"
+  },
+  {
+    "geo_point_2d": [
+      49.0693141355,
+      2.14169693415
+    ],
+    "label": "CHAPONVAL",
+    "nom_long": "CHAPONVAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8452047027,
+      2.26644154037
+    ],
+    "label": "Chardon-Lagache",
+    "nom_long": "CHARDON-LAGACHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8215957673,
+      2.41373751615
+    ],
+    "label": "Charenton-Ecoles",
+    "nom_long": "CHARENTON-ECOLES"
+  },
+  {
+    "geo_point_2d": [
+      48.9076645839,
+      2.23830930229
+    ],
+    "label": "Charlebourg",
+    "nom_long": "CHARLEBOURG"
+  },
+  {
+    "geo_point_2d": [
+      48.8742384766,
+      2.29449059147
+    ],
+    "label": "CHARLES DE GAULLE ETOILE",
+    "nom_long": "CHARLES DE GAULLE ETOILE"
+  },
+  {
+    "geo_point_2d": [
+      48.8465346367,
+      2.28599922206
+    ],
+    "label": "Charles Michels",
+    "nom_long": "CHARLES MICHELS"
+  },
+  {
+    "geo_point_2d": [
+      48.8545804991,
+      2.38556348082
+    ],
+    "label": "Charonne",
+    "nom_long": "CHARONNE"
+  },
+  {
+    "geo_point_2d": [
+      49.1626705808,
+      1.93692863442
+    ],
+    "label": "CHARS",
+    "nom_long": "CHARS"
+  },
+  {
+    "geo_point_2d": [
+      48.448384567,
+      1.48087093272
+    ],
+    "label": "CHARTRES",
+    "nom_long": "CHARTRES"
+  },
+  {
+    "geo_point_2d": [
+      48.4870763952,
+      2.69503731381
+    ],
+    "label": "CHARTRETTES",
+    "nom_long": "CHARTRETTES"
+  },
+  {
+    "geo_point_2d": [
+      48.8724249127,
+      2.35604490769
+    ],
+    "label": "Château d'Eau",
+    "nom_long": "CHATEAU D'EAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8444563946,
+      2.44043997806
+    ],
+    "label": "Château de Vincennes",
+    "nom_long": "CHATEAU DE VINCENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8873749079,
+      2.34969408224
+    ],
+    "label": "Château Rouge",
+    "nom_long": "CHATEAU ROUGE"
+  },
+  {
+    "geo_point_2d": [
+      48.8785656258,
+      2.36216007056
+    ],
+    "label": "Château-Landon",
+    "nom_long": "CHATEAU-LANDON"
+  },
+  {
+    "geo_point_2d": [
+      49.0379489417,
+      3.40959736125
+    ],
+    "label": "CHATEAU THIERRY",
+    "nom_long": "CHATEAU-THIERRY"
+  },
+  {
+    "geo_point_2d": [
+      48.0734070101,
+      1.3384347632
+    ],
+    "label": "CHATEAUDUN",
+    "nom_long": "CHATEAUDUN"
+  },
+  {
+    "geo_point_2d": [
+      48.8580618623,
+      2.34762515572
+    ],
+    "label": "Châtelet",
+    "nom_long": "CHATELET"
+  },
+  {
+    "geo_point_2d": [
+      48.8618222719,
+      2.34701268861
+    ],
+    "label": "CHÂTELET-LES HALLES",
+    "nom_long": "CHATELET-LES HALLES"
+  },
+  {
+    "geo_point_2d": [
+      48.8107464877,
+      2.30167855683
+    ],
+    "label": "Châtillon-Montrouge",
+    "nom_long": "CHATILLON-MONTROUGE"
+  },
+  {
+    "geo_point_2d": [
+      48.8852112182,
+      2.15590347462
+    ],
+    "label": "CHATOU CROISSY",
+    "nom_long": "CHATOU-CROISSY"
+  },
+  {
+    "geo_point_2d": [
+      49.2613222981,
+      1.87258946785
+    ],
+    "label": "CHAUMONT-EN-VEXIN",
+    "nom_long": "CHAUMONT-EN-VEXIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8729681408,
+      2.33325709179
+    ],
+    "label": "Chaussee d'Antin-La Fayette",
+    "nom_long": "CHAUSSEE D'ANTIN (LA FAYETTE)"
+  },
+  {
+    "geo_point_2d": [
+      48.8125717163,
+      2.18825985865
+    ],
+    "label": "CHAVILLE RIVE DROITE",
+    "nom_long": "CHAVILLE RIVE DROITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8046833553,
+      2.18863027649
+    ],
+    "label": "CHAVILLE RIVE GAUCHE",
+    "nom_long": "CHAVILLE RIVE GAUCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.7997288262,
+      2.18368410848
+    ],
+    "label": "CHAVILLE-VELIZY",
+    "nom_long": "CHAVILLE-VELIZY"
+  },
+  {
+    "geo_point_2d": [
+      48.8741440839,
+      2.58333115532
+    ],
+    "label": "CHELLES GOURNAY",
+    "nom_long": "CHELLES-GOURNAY"
+  },
+  {
+    "geo_point_2d": [
+      48.7479419019,
+      2.31271100944
+    ],
+    "label": "CHEMIN D'ANTONY",
+    "nom_long": "CHEMIN D'ANTONY"
+  },
+  {
+    "geo_point_2d": [
+      48.9346085677,
+      2.32149519817
+    ],
+    "label": "Chemin des Reniers",
+    "nom_long": "CHEMIN DES RENIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8574200375,
+      2.3681082907
+    ],
+    "label": "Chemin Vert",
+    "nom_long": "CHEMIN VERT"
+  },
+  {
+    "geo_point_2d": [
+      48.8699501349,
+      2.78222672345
+    ],
+    "label": "CHESSY - MARNE-LA-VALLEE",
+    "nom_long": "CHESSY - MARNE-LA-VALLEE"
+  },
+  {
+    "geo_point_2d": [
+      48.8349477223,
+      2.36812632906
+    ],
+    "label": "Chevaleret",
+    "nom_long": "CHEVALERET"
+  },
+  {
+    "geo_point_2d": [
+      48.9919382203,
+      3.36492712887
+    ],
+    "label": "CHEZY-SUR-MARNE",
+    "nom_long": "CHEZY-SUR-MARNE"
+  },
+  {
+    "geo_point_2d": [
+      48.7006808046,
+      2.30784118461
+    ],
+    "label": "CHILLY MAZARIN",
+    "nom_long": "CHILLY-MAZARIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7637868069,
+      2.41138672633
+    ],
+    "label": "CHOISY-LE-ROI",
+    "nom_long": "CHOISY-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      48.97749309,
+      2.37224292371
+    ],
+    "label": "Cholettes",
+    "nom_long": "CHOLETTES"
+  },
+  {
+    "geo_point_2d": [
+      48.9363891471,
+      2.3636407022
+    ],
+    "label": "Cimetiere de Saint-Denis",
+    "nom_long": "CIMETIERE DE SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8549363802,
+      2.34732131841
+    ],
+    "label": "Cite",
+    "nom_long": "CITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8202676123,
+      2.33897517958
+    ],
+    "label": "CITE UNIVERSITAIRE",
+    "nom_long": "CITE UNIVERSITAIRE"
+  },
+  {
+    "geo_point_2d": [
+      48.8142394455,
+      2.27448967354
+    ],
+    "label": "CLAMART",
+    "nom_long": "CLAMART"
+  },
+  {
+    "geo_point_2d": [
+      48.8976374479,
+      2.29741994815
+    ],
+    "label": "CLICHY-LEVALLOIS",
+    "nom_long": "CLICHY-LEVALLOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8510502823,
+      2.34427334542
+    ],
+    "label": "Cluny La Sorbonne",
+    "nom_long": "CLUNY-LA-SORBONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.7340881621,
+      2.37125037622
+    ],
+    "label": "Coeur d'Orly",
+    "nom_long": "COEUR D'ORLY"
+  },
+  {
+    "geo_point_2d": [
+      48.7434839859,
+      1.92103660004
+    ],
+    "label": "COIGNIERES",
+    "nom_long": "COIGNIERES"
+  },
+  {
+    "geo_point_2d": [
+      48.8984911016,
+      2.36365138218
+    ],
+    "label": "Colette Besson",
+    "nom_long": "COLETTE BESSON"
+  },
+  {
+    "geo_point_2d": [
+      48.9239186266,
+      2.25934570305
+    ],
+    "label": "COLOMBES",
+    "nom_long": "COLOMBES"
+  },
+  {
+    "geo_point_2d": [
+      48.8776101874,
+      2.37081139531
+    ],
+    "label": "Colonel Fabien",
+    "nom_long": "COLONEL FABIEN"
+  },
+  {
+    "geo_point_2d": [
+      48.6679019575,
+      2.54754804856
+    ],
+    "label": "COMBS-LA-VILLE-QUINCY",
+    "nom_long": "COMBS-LA-VILLE-QUINCY"
+  },
+  {
+    "geo_point_2d": [
+      48.8447947646,
+      2.29395196364
+    ],
+    "label": "Commerce",
+    "nom_long": "COMMERCE"
+  },
+  {
+    "geo_point_2d": [
+      48.9913914029,
+      2.66505986931
+    ],
+    "label": "COMPANS",
+    "nom_long": "COMPANS"
+  },
+  {
+    "geo_point_2d": [
+      48.8662858046,
+      2.32294341224
+    ],
+    "label": "Concorde",
+    "nom_long": "CONCORDE"
+  },
+  {
+    "geo_point_2d": [
+      48.9918983724,
+      2.07362062047
+    ],
+    "label": "CONFLANS FIN D'OISE",
+    "nom_long": "CONFLANS-FIN-D'OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.9966300907,
+      2.09777398846
+    ],
+    "label": "CONFLANS SAINTE-HONORINE",
+    "nom_long": "CONFLANS-SAINTE-HONORINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8373074919,
+      2.29663033782
+    ],
+    "label": "Convention",
+    "nom_long": "CONVENTION"
+  },
+  {
+    "geo_point_2d": [
+      48.6134279136,
+      2.4729336491
+    ],
+    "label": "CORBEIL ESSONNES",
+    "nom_long": "CORBEIL-ESSONNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8948364675,
+      2.38252234343
+    ],
+    "label": "Corentin Cariou",
+    "nom_long": "CORENTIN CARIOU"
+  },
+  {
+    "geo_point_2d": [
+      48.8270854489,
+      2.27941168205
+    ],
+    "label": "Corentin Celton",
+    "nom_long": "CORENTIN-CELTON"
+  },
+  {
+    "geo_point_2d": [
+      48.9684962675,
+      2.19344286781
+    ],
+    "label": "CORMEILLES EN PARISIS",
+    "nom_long": "CORMEILLES-EN-PARISIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8297905137,
+      2.35041487065
+    ],
+    "label": "Corvisart",
+    "nom_long": "CORVISART"
+  },
+  {
+    "geo_point_2d": [
+      48.9317348255,
+      2.3782254904
+    ],
+    "label": "Cosmonautes",
+    "nom_long": "COSMONAUTES"
+  },
+  {
+    "geo_point_2d": [
+      48.8826810449,
+      2.85431592783
+    ],
+    "label": "COUILLY-SAINT-GERMAIN-QUINCY",
+    "nom_long": "COUILLY-SAINT-GERMAIN-QUINCY"
+  },
+  {
+    "geo_point_2d": [
+      48.8085020653,
+      3.08034301057
+    ],
+    "label": "COULOMMIERS",
+    "nom_long": "COULOMMIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8333385593,
+      2.38663240207
+    ],
+    "label": "Cour Saint-Emilion",
+    "nom_long": "COUR SAINT-EMILION"
+  },
+  {
+    "geo_point_2d": [
+      48.8981188748,
+      2.24794284424
+    ],
+    "label": "COURBEVOIE",
+    "nom_long": "COURBEVOIE"
+  },
+  {
+    "geo_point_2d": [
+      48.7012177194,
+      2.09797586115
+    ],
+    "label": "COURCELLE-SUR-YVETTE",
+    "nom_long": "COURCELLE-SUR-YVETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8792141342,
+      2.30352872537
+    ],
+    "label": "Courcelles",
+    "nom_long": "COURCELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.8690911629,
+      2.38054258599
+    ],
+    "label": "Couronnes",
+    "nom_long": "COURONNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8595573169,
+      2.90573696319
+    ],
+    "label": "CRECY-EN-BRIE-LA-CHAPELLE",
+    "nom_long": "CRECY-EN-BRIE-LA-CHAPELLE"
+  },
+  {
+    "geo_point_2d": [
+      49.2639441445,
+      2.46891411535
+    ],
+    "label": "CREIL",
+    "nom_long": "CREIL"
+  },
+  {
+    "geo_point_2d": [
+      49.2310180602,
+      2.88736670498
+    ],
+    "label": "CREPY-EN-VALOIS",
+    "nom_long": "CREPY-EN-VALOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.7712660381,
+      2.43530633971
+    ],
+    "label": "Creteil Pompadour",
+    "nom_long": "CRETEIL POMPADOUR"
+  },
+  {
+    "geo_point_2d": [
+      48.7967407666,
+      2.44943317569
+    ],
+    "label": "Creteil-L'Echat",
+    "nom_long": "CRETEIL-L'ECHAT (HOPITAL MONDOR)"
+  },
+  {
+    "geo_point_2d": [
+      48.7687151253,
+      2.46456499321
+    ],
+    "label": "Creteil-Pointe du Lac",
+    "nom_long": "CRETEIL-POINTE DU LAC"
+  },
+  {
+    "geo_point_2d": [
+      48.779905317,
+      2.45936839626
+    ],
+    "label": "Creteil-Prefecture",
+    "nom_long": "CRETEIL-PREFECTURE (HOTEL DE VILLE)"
+  },
+  {
+    "geo_point_2d": [
+      48.7899783103,
+      2.45045317792
+    ],
+    "label": "Creteil-Universite",
+    "nom_long": "CRETEIL-UNIVERSITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8907889695,
+      2.3773157556
+    ],
+    "label": "Crimee",
+    "nom_long": "CRIMEE"
+  },
+  {
+    "geo_point_2d": [
+      48.8579655921,
+      2.43555571977
+    ],
+    "label": "Croix de Chavaux",
+    "nom_long": "CROIX DE CHAVAUX (JACQUES DUCLOS)"
+  },
+  {
+    "geo_point_2d": [
+      49.0918829981,
+      3.06269040562
+    ],
+    "label": "CROUY-SUR-OURCQ",
+    "nom_long": "CROUY-SUR-OURCQ"
+  },
+  {
+    "geo_point_2d": [
+      49.0325740905,
+      2.69945308782
+    ],
+    "label": "DAMMARTIN JUILLY SAINT-MARD",
+    "nom_long": "DAMMARTIN-JUILLY-SAINT-MARD"
+  },
+  {
+    "geo_point_2d": [
+      48.9227111893,
+      2.40662275371
+    ],
+    "label": "Danton",
+    "nom_long": "DANTON"
+  },
+  {
+    "geo_point_2d": [
+      48.8819319996,
+      2.39344545239
+    ],
+    "label": "Danube",
+    "nom_long": "DANUBE"
+  },
+  {
+    "geo_point_2d": [
+      48.8395671983,
+      2.39595292659
+    ],
+    "label": "Daumesnil",
+    "nom_long": "DAUMESNIL"
+  },
+  {
+    "geo_point_2d": [
+      48.9455555392,
+      2.34731292517
+    ],
+    "label": "Delaunay-Belleville",
+    "nom_long": "DELAUNAY-BELLEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8938802825,
+      2.39773885065
+    ],
+    "label": "Delphine Seyrig",
+    "nom_long": "DELPHINE SEYRIG"
+  },
+  {
+    "geo_point_2d": [
+      48.8342929805,
+      2.33285230996
+    ],
+    "label": "DENFERT-ROCHEREAU",
+    "nom_long": "DENFERT-ROCHEREAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8343581655,
+      2.2840072433
+    ],
+    "label": "Desnouettes",
+    "nom_long": "DESNOUETTES"
+  },
+  {
+    "geo_point_2d": [
+      48.9760542531,
+      2.33852407065
+    ],
+    "label": "DEUIL MONTMAGNY",
+    "nom_long": "DEUIL-MONTMAGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.7836246222,
+      2.21443350205
+    ],
+    "label": "Dewoitine",
+    "nom_long": "DEWOITINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8259205461,
+      2.31338008738
+    ],
+    "label": "Didot",
+    "nom_long": "DIDOT"
+  },
+  {
+    "geo_point_2d": [
+      48.7944688845,
+      2.27265034466
+    ],
+    "label": "Division Leclerc",
+    "nom_long": "DIVISION LECLERC"
+  },
+  {
+    "geo_point_2d": [
+      48.7789363931,
+      2.3674058645
+    ],
+    "label": "Domaine Cherioux",
+    "nom_long": "DOMAINE CHERIOUX"
+  },
+  {
+    "geo_point_2d": [
+      49.0329720468,
+      2.33682968984
+    ],
+    "label": "DOMONT",
+    "nom_long": "DOMONT"
+  },
+  {
+    "geo_point_2d": [
+      48.1472180399,
+      2.7627283872
+    ],
+    "label": "DORDIVES",
+    "nom_long": "DORDIVES"
+  },
+  {
+    "geo_point_2d": [
+      48.533732834,
+      2.00877181523
+    ],
+    "label": "DOURDAN",
+    "nom_long": "DOURDAN"
+  },
+  {
+    "geo_point_2d": [
+      48.5356206226,
+      1.99590199036
+    ],
+    "label": "DOURDAN-LA-FORÊT",
+    "nom_long": "DOURDAN-LA-FORET"
+  },
+  {
+    "geo_point_2d": [
+      48.9327062187,
+      2.4547663855
+    ],
+    "label": "DRANCY",
+    "nom_long": "DRANCY"
+  },
+  {
+    "geo_point_2d": [
+      48.9177837253,
+      2.41769109334
+    ],
+    "label": "Drancy-Avenir",
+    "nom_long": "DRANCY-AVENIR"
+  },
+  {
+    "geo_point_2d": [
+      48.73095467,
+      1.36997423412
+    ],
+    "label": "DREUX",
+    "nom_long": "DREUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8390411437,
+      2.38962001542
+    ],
+    "label": "Dugommier",
+    "nom_long": "DUGOMMIER"
+  },
+  {
+    "geo_point_2d": [
+      48.8504345508,
+      2.29361243444
+    ],
+    "label": "Dupleix",
+    "nom_long": "DUPLEIX"
+  },
+  {
+    "geo_point_2d": [
+      48.8468548549,
+      2.31663467111
+    ],
+    "label": "Duroc",
+    "nom_long": "DUROC"
+  },
+  {
+    "geo_point_2d": [
+      48.8983255584,
+      2.35182955013
+    ],
+    "label": "Diane Arbus - Pte des Poissonniers",
+    "nom_long": "Diane Arbus - Porte des Poissonniers"
+  },
+  {
+    "geo_point_2d": [
+      48.8546821569,
+      2.3060974037
+    ],
+    "label": "Ecole Militaire",
+    "nom_long": "ECOLE MILITAIRE"
+  },
+  {
+    "geo_point_2d": [
+      48.814803007,
+      2.42237614285
+    ],
+    "label": "Ecole Veterinaire de Maisons-Alfort",
+    "nom_long": "ECOLE VETERINAIRE DE MAISONS-ALFORT"
+  },
+  {
+    "geo_point_2d": [
+      49.023206379,
+      2.36222297963
+    ],
+    "label": "ECOUEN EZANVILLE",
+    "nom_long": "ECOUEN-EZANVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8406632293,
+      2.32638461079
+    ],
+    "label": "Edgar Quinet",
+    "nom_long": "EDGAR QUINET"
+  },
+  {
+    "geo_point_2d": [
+      48.8471500557,
+      2.26913587273
+    ],
+    "label": "Eglise d'Auteuil",
+    "nom_long": "EGLISE D'AUTEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.89325759,
+      2.41331313951
+    ],
+    "label": "Eglise de Pantin",
+    "nom_long": "EGLISE DE PANTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.5824855969,
+      2.22243331248
+    ],
+    "label": "EGLY",
+    "nom_long": "EGLY"
+  },
+  {
+    "geo_point_2d": [
+      48.8974328495,
+      2.39504174968
+    ],
+    "label": "Ella Fitzgerald",
+    "nom_long": "ELLA FITZGERALD"
+  },
+  {
+    "geo_point_2d": [
+      48.8057703742,
+      2.61939578581
+    ],
+    "label": "EMERAINVILLE PONTAULT-COMBAULT",
+    "nom_long": "EMERAINVILLE-PONTAULT-COMBAULT"
+  },
+  {
+    "geo_point_2d": [
+      48.9727491189,
+      2.30713703345
+    ],
+    "label": "ENGHIEN-LES-BAINS",
+    "nom_long": "ENGHIEN-LES-BAINS"
+  },
+  {
+    "geo_point_2d": [
+      48.6050762776,
+      1.6816457804
+    ],
+    "label": "EPERNON",
+    "nom_long": "EPERNON"
+  },
+  {
+    "geo_point_2d": [
+      48.9555044771,
+      2.2955916949
+    ],
+    "label": "Epinay-Orgemont",
+    "nom_long": "EPINAY-ORGEMONT"
+  },
+  {
+    "geo_point_2d": [
+      48.6694837261,
+      2.3326229292
+    ],
+    "label": "EPINAY-SUR-ORGE",
+    "nom_long": "EPINAY-SUR-ORGE"
+  },
+  {
+    "geo_point_2d": [
+      48.9533964653,
+      2.30234042015
+    ],
+    "label": "EPINAY-SUR-SEINE",
+    "nom_long": "EPINAY-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9582696001,
+      2.32824501578
+    ],
+    "label": "EPINAY VILLETANEUSE",
+    "nom_long": "EPINAY-VILLETANEUSE"
+  },
+  {
+    "geo_point_2d": [
+      49.0551017596,
+      2.12273590692
+    ],
+    "label": "EPLUCHES",
+    "nom_long": "EPLUCHES"
+  },
+  {
+    "geo_point_2d": [
+      48.9633441128,
+      1.80909450877
+    ],
+    "label": "EPÔNE MEZIERES",
+    "nom_long": "EPONE-MEZIERES"
+  },
+  {
+    "geo_point_2d": [
+      49.0183491636,
+      2.09090606335
+    ],
+    "label": "ERAGNY NEUVILLE",
+    "nom_long": "ERAGNY-NEUVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9806461004,
+      2.27208477275
+    ],
+    "label": "ERMONT EAUBONNE",
+    "nom_long": "ERMONT-EAUBONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.9906512533,
+      2.26318262145
+    ],
+    "label": "ERMONT HALTE",
+    "nom_long": "ERMONT-HALTE"
+  },
+  {
+    "geo_point_2d": [
+      48.903072916,
+      2.81024821936
+    ],
+    "label": "ESBLY",
+    "nom_long": "ESBLY"
+  },
+  {
+    "geo_point_2d": [
+      48.9127049753,
+      2.43542099299
+    ],
+    "label": "Escadrille Normandie-Niemen",
+    "nom_long": "ESCADRILLE NORMANDIE-NIEMEN"
+  },
+  {
+    "geo_point_2d": [
+      48.8886312178,
+      2.24793243532
+    ],
+    "label": "Esplanade de la Defense",
+    "nom_long": "ESPLANADE DE LA DEFENSE"
+  },
+  {
+    "geo_point_2d": [
+      48.6055558264,
+      2.46245649414
+    ],
+    "label": "ESSONNES ROBINSON",
+    "nom_long": "ESSONNES-ROBINSON"
+  },
+  {
+    "geo_point_2d": [
+      48.4369239376,
+      2.15953058757
+    ],
+    "label": "ETAMPES",
+    "nom_long": "ETAMPES"
+  },
+  {
+    "geo_point_2d": [
+      48.8638074387,
+      2.34888065667
+    ],
+    "label": "Etienne Marcel",
+    "nom_long": "ETIENNE-MARCEL"
+  },
+  {
+    "geo_point_2d": [
+      48.1376108053,
+      3.28974196062
+    ],
+    "label": "ETIGNY VERON",
+    "nom_long": "ETIGNY-VERON"
+  },
+  {
+    "geo_point_2d": [
+      48.4936445785,
+      2.19458169917
+    ],
+    "label": "ETRECHY",
+    "nom_long": "ETRECHY"
+  },
+  {
+    "geo_point_2d": [
+      48.8787703685,
+      2.32226521312
+    ],
+    "label": "Europe",
+    "nom_long": "EUROPE"
+  },
+  {
+    "geo_point_2d": [
+      49.0184202918,
+      1.14900354805
+    ],
+    "label": "EVREUX",
+    "nom_long": "EVREUX"
+  },
+  {
+    "geo_point_2d": [
+      48.6344790206,
+      2.45228989528
+    ],
+    "label": "EVRY",
+    "nom_long": "EVRY"
+  },
+  {
+    "geo_point_2d": [
+      48.626022428,
+      2.42873898192
+    ],
+    "label": "EVRY COURCOURONNES",
+    "nom_long": "EVRY-COURCOURONNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8429386959,
+      2.26003290221
+    ],
+    "label": "Exelmans",
+    "nom_long": "EXELMANS"
+  },
+  {
+    "geo_point_2d": [
+      48.8975167168,
+      2.32372791301
+    ],
+    "label": "Epinettes - Pouchet",
+    "nom_long": "Epinettes - Pouchet"
+  },
+  {
+    "geo_point_2d": [
+      48.8501778619,
+      2.38409221007
+    ],
+    "label": "Faidherbe-Chaligny",
+    "nom_long": "FAIDHERBE-CHALIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8444701413,
+      2.31785278304
+    ],
+    "label": "Falguiere",
+    "nom_long": "FALGUIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8086539649,
+      2.99310989342
+    ],
+    "label": "FAREMOUTIERS-POMMEUSE",
+    "nom_long": "FAREMOUTIERS-POMMEUSE"
+  },
+  {
+    "geo_point_2d": [
+      48.8966643963,
+      2.24007925205
+    ],
+    "label": "Faubourg de l'Arche",
+    "nom_long": "FAUBOURG DE L ARCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8427467798,
+      2.29191241332
+    ],
+    "label": "Felix Faure",
+    "nom_long": "FELIX FAURE"
+  },
+  {
+    "geo_point_2d": [
+      48.0965027788,
+      2.77230261766
+    ],
+    "label": "FERRIERES FONTENAY",
+    "nom_long": "FERRIERES FONTENAY"
+  },
+  {
+    "geo_point_2d": [
+      49.1795049508,
+      3.12061291667
+    ],
+    "label": "LA FERTE-MILON",
+    "nom_long": "FERTE-MILON"
+  },
+  {
+    "geo_point_2d": [
+      48.863257945,
+      2.36666109472
+    ],
+    "label": "Filles du Calvaire",
+    "nom_long": "FILLES DU CALVAIRE"
+  },
+  {
+    "geo_point_2d": [
+      48.4872228755,
+      2.75115365838
+    ],
+    "label": "FONTAINE-LE-PORT",
+    "nom_long": "FONTAINE-LE-PORT"
+  },
+  {
+    "geo_point_2d": [
+      48.7433734057,
+      2.29639316293
+    ],
+    "label": "FONTAINE MICHALON",
+    "nom_long": "FONTAINE-MICHALON"
+  },
+  {
+    "geo_point_2d": [
+      48.4163770339,
+      2.72666153308
+    ],
+    "label": "FONTAINEBLEAU-AVON",
+    "nom_long": "FONTAINEBLEAU-AVON"
+  },
+  {
+    "geo_point_2d": [
+      48.78761468,
+      2.29249297647
+    ],
+    "label": "FONTENAY-AUX-ROSES",
+    "nom_long": "FONTENAY-AUX-ROSES"
+  },
+  {
+    "geo_point_2d": [
+      48.8072466121,
+      2.04051920334
+    ],
+    "label": "FONTENAY-LE-FLEURY",
+    "nom_long": "FONTENAY-LE-FLEURY"
+  },
+  {
+    "geo_point_2d": [
+      48.8437202616,
+      2.46370803804
+    ],
+    "label": "FONTENAY-SOUS-BOIS",
+    "nom_long": "FONTENAY-SOUS-BOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9149497573,
+      2.40440908878
+    ],
+    "label": "Fort d'Aubervilliers",
+    "nom_long": "FORT D'AUBERVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.9937134804,
+      2.23427639536
+    ],
+    "label": "FRANCONVILLE LE PLESSIS-BOUCHARD",
+    "nom_long": "FRANCONVILLE-LE-PLESSIS-BOUCHARD"
+  },
+  {
+    "geo_point_2d": [
+      48.8690265273,
+      2.30993538871
+    ],
+    "label": "Franklin-D.Roosevelt",
+    "nom_long": "FRANKLIN-D.ROOSEVELT"
+  },
+  {
+    "geo_point_2d": [
+      48.926640202,
+      2.51910376383
+    ],
+    "label": "Freinville-Sevran",
+    "nom_long": "FREINVILLE-SEVRAN"
+  },
+  {
+    "geo_point_2d": [
+      49.0454302542,
+      2.19708767832
+    ],
+    "label": "FREPILLON",
+    "nom_long": "FREPILLON"
+  },
+  {
+    "geo_point_2d": [
+      48.906567146,
+      2.3659203194
+    ],
+    "label": "Front Populaire",
+    "nom_long": "FRONT POPULAIRE"
+  },
+  {
+    "geo_point_2d": [
+      48.8846809737,
+      2.34266003734
+    ],
+    "label": "Funiculaire Montmartre Station Basse",
+    "nom_long": "FUNICULAIRE MONTMARTRE STATION BASSE"
+  },
+  {
+    "geo_point_2d": [
+      48.8856611127,
+      2.34254965326
+    ],
+    "label": "Funiculaire Montmartre Station Haute",
+    "nom_long": "FUNICULAIRE MONTMARTRE STATION HAUTE"
+  },
+  {
+    "geo_point_2d": [
+      48.9163823099,
+      2.2946851117
+    ],
+    "label": "Gabriel Peri",
+    "nom_long": "GABRIEL PERI-ASNIERES-GENNEVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.883734281,
+      2.52543425077
+    ],
+    "label": "GAGNY",
+    "nom_long": "GAGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8386316471,
+      2.32249174845
+    ],
+    "label": "Gaite",
+    "nom_long": "GAITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8653353173,
+      2.41669727286
+    ],
+    "label": "Gallieni",
+    "nom_long": "GALLIENI (PARC DE BAGNOLET)"
+  },
+  {
+    "geo_point_2d": [
+      48.8649166851,
+      2.39898444025
+    ],
+    "label": "Gambetta",
+    "nom_long": "GAMBETTA"
+  },
+  {
+    "geo_point_2d": [
+      48.8104024635,
+      1.76505675794
+    ],
+    "label": "GARANCIERES LA QUEUE",
+    "nom_long": "GARANCIERES-LA QUEUE"
+  },
+  {
+    "geo_point_2d": [
+      48.8382825478,
+      2.18711071379
+    ],
+    "label": "GARCHES MARNES-LA-COQUETTE",
+    "nom_long": "GARCHES-MARNES-LA-COQUETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8773756199,
+      2.35945661694
+    ],
+    "label": "GARE DE L'EST",
+    "nom_long": "GARE DE L'EST"
+  },
+  {
+    "geo_point_2d": [
+      48.8441393499,
+      2.37325997807
+    ],
+    "label": "GARE DE LYON",
+    "nom_long": "GARE DE LYON"
+  },
+  {
+    "geo_point_2d": [
+      48.9549290045,
+      2.39095508616
+    ],
+    "label": "Gare de Stains La Cerisaie",
+    "nom_long": "GARE DE STAINS LA CERISAIE"
+  },
+  {
+    "geo_point_2d": [
+      48.8809220076,
+      2.35632854366
+    ],
+    "label": "GARE DU NORD",
+    "nom_long": "GARE DU NORD"
+  },
+  {
+    "geo_point_2d": [
+      48.9072725871,
+      2.51650989339
+    ],
+    "label": "Gargan",
+    "nom_long": "GARGAN"
+  },
+  {
+    "geo_point_2d": [
+      48.9829797632,
+      1.80890782598
+    ],
+    "label": "GARGENVILLE",
+    "nom_long": "GARGENVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9768685885,
+      2.39076393271
+    ],
+    "label": "GARGES SARCELLES",
+    "nom_long": "GARGES-SARCELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.9060940502,
+      2.33183083796
+    ],
+    "label": "Garibaldi",
+    "nom_long": "GARIBALDI"
+  },
+  {
+    "geo_point_2d": [
+      48.9140932644,
+      2.43127800347
+    ],
+    "label": "Gaston Roulaud",
+    "nom_long": "GASTON ROULAUD"
+  },
+  {
+    "geo_point_2d": [
+      48.6259908189,
+      1.77169568576
+    ],
+    "label": "GAZERAN",
+    "nom_long": "GAZERAN"
+  },
+  {
+    "geo_point_2d": [
+      48.9333260591,
+      2.30773181899
+    ],
+    "label": "GENNEVILLIERS",
+    "nom_long": "GENNEVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.815229932,
+      2.34089113384
+    ],
+    "label": "GENTILLY",
+    "nom_long": "GENTILLY"
+  },
+  {
+    "geo_point_2d": [
+      48.8720238095,
+      2.30056045125
+    ],
+    "label": "George V",
+    "nom_long": "GEORGE V"
+  },
+  {
+    "geo_point_2d": [
+      48.829826379,
+      2.29566198282
+    ],
+    "label": "Georges Brassens",
+    "nom_long": "GEORGES BRASSENS"
+  },
+  {
+    "geo_point_2d": [
+      48.7835009757,
+      2.23098355894
+    ],
+    "label": "Georges Millandy",
+    "nom_long": "GEORGES MILLANDY"
+  },
+  {
+    "geo_point_2d": [
+      48.7849021663,
+      2.23713270497
+    ],
+    "label": "Georges Pompidou",
+    "nom_long": "GEORGES POMPIDOU"
+  },
+  {
+    "geo_point_2d": [
+      48.6981969763,
+      2.13656671434
+    ],
+    "label": "GIF-SUR-YVETTE",
+    "nom_long": "GIF-SUR-YVETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.9554374261,
+      2.30787256835
+    ],
+    "label": "Gilbert Bonnemaison",
+    "nom_long": "GILBERT BONNEMAISON"
+  },
+  {
+    "geo_point_2d": [
+      48.9150967438,
+      1.50534780686
+    ],
+    "label": "GILLES-GUAINVILLE",
+    "nom_long": "GILLES-GUAINVILLE"
+  },
+  {
+    "geo_point_2d": [
+      49.2852635241,
+      1.78506622348
+    ],
+    "label": "GISORS",
+    "nom_long": "GISORS"
+  },
+  {
+    "geo_point_2d": [
+      48.831129548,
+      2.34351165775
+    ],
+    "label": "Glaciere",
+    "nom_long": "GLACIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8699575127,
+      2.37109483973
+    ],
+    "label": "Goncourt",
+    "nom_long": "GONCOURT (HOPITAL SAINT-LOUIS)"
+  },
+  {
+    "geo_point_2d": [
+      49.0231619963,
+      2.46216896206
+    ],
+    "label": "GOUSSAINVILLE",
+    "nom_long": "GOUSSAINVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.6484891135,
+      2.43533052881
+    ],
+    "label": "GRAND BOURG",
+    "nom_long": "GRAND-BOURG"
+  },
+  {
+    "geo_point_2d": [
+      48.8714977394,
+      2.34315477308
+    ],
+    "label": "Grands Boulevards",
+    "nom_long": "GRANDS BOULEVARDS (RUE MONTMARTRE)"
+  },
+  {
+    "geo_point_2d": [
+      48.6857136282,
+      2.31762640359
+    ],
+    "label": "GRAVIGNY BALIZY",
+    "nom_long": "GRAVIGNY-BALIZY"
+  },
+  {
+    "geo_point_2d": [
+      48.7464523207,
+      2.72722937143
+    ],
+    "label": "GRETZ-ARMAINVILLIERS",
+    "nom_long": "GRETZ-ARMAINVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.6539697584,
+      2.39617681109
+    ],
+    "label": "GRIGNY CENTRE",
+    "nom_long": "GRIGNY-CENTRE"
+  },
+  {
+    "geo_point_2d": [
+      48.9960988426,
+      2.25965561906
+    ],
+    "label": "GROS NOYER SAINT-PRIX",
+    "nom_long": "GROS-NOYER-SAINT-PRIX"
+  },
+  {
+    "geo_point_2d": [
+      48.9843159639,
+      2.35340724858
+    ],
+    "label": "GROSLAY",
+    "nom_long": "GROSLAY"
+  },
+  {
+    "geo_point_2d": [
+      48.8107753209,
+      2.95373038446
+    ],
+    "label": "GUERARD LA CELLE-SUR-MORIN",
+    "nom_long": "GUERARD-LA-CELLE-SUR-MORIN"
+  },
+  {
+    "geo_point_2d": [
+      48.3745250134,
+      2.05991234764
+    ],
+    "label": "GUILLERVAL",
+    "nom_long": "GUILLERVAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8928288534,
+      2.3274284585
+    ],
+    "label": "Guy Môquet",
+    "nom_long": "GUY MOQUET"
+  },
+  {
+    "geo_point_2d": [
+      48.9482081285,
+      2.35746152626
+    ],
+    "label": "Guynemer",
+    "nom_long": "GUYNEMER"
+  },
+  {
+    "geo_point_2d": [
+      48.8738067339,
+      2.32699985888
+    ],
+    "label": "Havre-Caumartin",
+    "nom_long": "HAVRE-CAUMARTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7399874304,
+      2.3594678211
+    ],
+    "label": "Helene Boucher",
+    "nom_long": "HELENE BOUCHER"
+  },
+  {
+    "geo_point_2d": [
+      48.8347500104,
+      2.27124150094
+    ],
+    "label": "Henri Farmann",
+    "nom_long": "HENRI FARMANN"
+  },
+  {
+    "geo_point_2d": [
+      48.9902899964,
+      2.16190660559
+    ],
+    "label": "HERBLAY",
+    "nom_long": "HERBLAY"
+  },
+  {
+    "geo_point_2d": [
+      48.4428820642,
+      2.76092673374
+    ],
+    "label": "HERICY",
+    "nom_long": "HERICY"
+  },
+  {
+    "geo_point_2d": [
+      48.8912285941,
+      2.40235214662
+    ],
+    "label": "Hoche",
+    "nom_long": "HOCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.9158378929,
+      2.42500989427
+    ],
+    "label": "Hôpital Avicenne",
+    "nom_long": "HOPITAL AVICENNE"
+  },
+  {
+    "geo_point_2d": [
+      48.7867161822,
+      2.25450215204
+    ],
+    "label": "Hôpital Beclere",
+    "nom_long": "HOPITAL BECLERE"
+  },
+  {
+    "geo_point_2d": [
+      48.9335864037,
+      2.37108317162
+    ],
+    "label": "Hôpital Delafontaine",
+    "nom_long": "HOPITAL DELAFONTAINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8794703691,
+      2.40122176128
+    ],
+    "label": "Hôpital Robert Debre",
+    "nom_long": "HOPITAL ROBERT DEBRE"
+  },
+  {
+    "geo_point_2d": [
+      48.8575515533,
+      2.35129220933
+    ],
+    "label": "Hôtel de Ville",
+    "nom_long": "HOTEL DE VILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9065365591,
+      2.44399233455
+    ],
+    "label": "Hôtel de Ville - Maison de la Culture",
+    "nom_long": "HOTEL DE VILLE - MAISON DE LA CULTURE"
+  },
+  {
+    "geo_point_2d": [
+      48.9274028908,
+      2.39247111933
+    ],
+    "label": "Hôtel de Ville de la Courneuve",
+    "nom_long": "HOTEL DE VILLE DE LA COURNEUVE"
+  },
+  {
+    "geo_point_2d": [
+      48.7960253678,
+      1.60270169299
+    ],
+    "label": "HOUDAN",
+    "nom_long": "HOUDAN"
+  },
+  {
+    "geo_point_2d": [
+      48.9203793748,
+      2.18535337629
+    ],
+    "label": "HOUILLES CARRIERES-SUR-SEINE",
+    "nom_long": "HOUILLES-CARRIERES-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8962264947,
+      2.31880232726
+    ],
+    "label": "Honore de Balzac",
+    "nom_long": "Honore de Balzac"
+  },
+  {
+    "geo_point_2d": [
+      48.8647940649,
+      2.29416201403
+    ],
+    "label": "Iena",
+    "nom_long": "IENA"
+  },
+  {
+    "geo_point_2d": [
+      48.740181522,
+      2.23096112505
+    ],
+    "label": "IGNY",
+    "nom_long": "IGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.7814043209,
+      2.20912922729
+    ],
+    "label": "Inovel Parc Nord",
+    "nom_long": "INOVEL PARC NORD"
+  },
+  {
+    "geo_point_2d": [
+      48.8629018442,
+      2.31390890638
+    ],
+    "label": "INVALIDES",
+    "nom_long": "INVALIDES"
+  },
+  {
+    "geo_point_2d": [
+      48.9984153932,
+      3.00795305575
+    ],
+    "label": "ISLES-ARMENTIERES-CONGIS",
+    "nom_long": "ISLES-ARMENTIERES-CONGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9792922476,
+      1.78397340775
+    ],
+    "label": "ISSOU-PORCHEVILLE",
+    "nom_long": "ISSOU-PORCHEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8196744882,
+      2.25875976703
+    ],
+    "label": "ISSY",
+    "nom_long": "ISSY"
+  },
+  {
+    "geo_point_2d": [
+      48.8301196393,
+      2.26368964874
+    ],
+    "label": "ISSY VAL DE SEINE",
+    "nom_long": "ISSY-VAL DE SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8139890511,
+      2.39168697167
+    ],
+    "label": "IVRY-SUR-SEINE",
+    "nom_long": "IVRY-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9108025897,
+      2.23398860143
+    ],
+    "label": "Jacqueline Auriol",
+    "nom_long": "JACQUELINE AURIOL"
+  },
+  {
+    "geo_point_2d": [
+      48.8708099836,
+      2.36102746278
+    ],
+    "label": "Jacques Bonsergent",
+    "nom_long": "JACQUES BONSERGENT"
+  },
+  {
+    "geo_point_2d": [
+      48.9708834042,
+      2.36600388911
+    ],
+    "label": "Jacques Prevert",
+    "nom_long": "JACQUES PREVERT"
+  },
+  {
+    "geo_point_2d": [
+      48.8247670255,
+      2.26053991367
+    ],
+    "label": "Jacques-Henri Lartigue",
+    "nom_long": "JACQUES-HENRI LARTIGUE"
+  },
+  {
+    "geo_point_2d": [
+      48.8525040906,
+      2.26817674944
+    ],
+    "label": "Jasmin",
+    "nom_long": "JASMIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8827381328,
+      2.37012231228
+    ],
+    "label": "Jaures",
+    "nom_long": "JAURES"
+  },
+  {
+    "geo_point_2d": [
+      48.8461921405,
+      2.27676096738
+    ],
+    "label": "JAVEL",
+    "nom_long": "JAVEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8247110179,
+      2.31882969127
+    ],
+    "label": "Jean Moulin",
+    "nom_long": "JEAN MOULIN"
+  },
+  {
+    "geo_point_2d": [
+      48.9078125468,
+      2.45435282652
+    ],
+    "label": "Jean Rostand",
+    "nom_long": "JEAN ROSTAND"
+  },
+  {
+    "geo_point_2d": [
+      48.9527263299,
+      2.34346127953
+    ],
+    "label": "Jean Vilar",
+    "nom_long": "JEAN VILAR"
+  },
+  {
+    "geo_point_2d": [
+      47.9734303157,
+      3.39286472634
+    ],
+    "label": "JOIGNY",
+    "nom_long": "JOIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8210388178,
+      2.4638567967
+    ],
+    "label": "JOINVILLE-LE-PONT",
+    "nom_long": "JOINVILLE-LE-PONT"
+  },
+  {
+    "geo_point_2d": [
+      48.955576348,
+      2.35832285615
+    ],
+    "label": "Joncherolles",
+    "nom_long": "JONCHEROLLES"
+  },
+  {
+    "geo_point_2d": [
+      48.875111816,
+      2.38941502932
+    ],
+    "label": "Jourdain",
+    "nom_long": "JOURDAIN"
+  },
+  {
+    "geo_point_2d": [
+      48.5104473928,
+      1.55777636925
+    ],
+    "label": "JOUY",
+    "nom_long": "JOUY"
+  },
+  {
+    "geo_point_2d": [
+      48.7647760129,
+      2.16394708452
+    ],
+    "label": "JOUY-EN-JOSAS",
+    "nom_long": "JOUY-EN-JOSAS"
+  },
+  {
+    "geo_point_2d": [
+      48.8924395905,
+      2.34465700413
+    ],
+    "label": "Jules Joffrin",
+    "nom_long": "JULES JOFFRIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8461511231,
+      2.3549179837
+    ],
+    "label": "Jussieu",
+    "nom_long": "JUSSIEU"
+  },
+  {
+    "geo_point_2d": [
+      48.6894902048,
+      2.3830198083
+    ],
+    "label": "JUVISY",
+    "nom_long": "JUVISY"
+  },
+  {
+    "geo_point_2d": [
+      48.9922412813,
+      1.84513444487
+    ],
+    "label": "JUZIERS",
+    "nom_long": "JUZIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8716497691,
+      2.29352429034
+    ],
+    "label": "Kleber",
+    "nom_long": "KLEBER"
+  },
+  {
+    "geo_point_2d": [
+      48.9357480421,
+      2.33910838701
+    ],
+    "label": "L'ile-Saint-Denis",
+    "nom_long": "L ILE-SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9219261433,
+      2.51644353517
+    ],
+    "label": "L'Abbaye",
+    "nom_long": "L'ABBAYE"
+  },
+  {
+    "geo_point_2d": [
+      48.8680644232,
+      2.07671910268
+    ],
+    "label": "L'ETANG-LA-VILLE",
+    "nom_long": "L'ETANG-LA-VILLE"
+  },
+  {
+    "geo_point_2d": [
+      49.114783971,
+      2.21001986928
+    ],
+    "label": "L'ISLE-ADAM-PARMAIN",
+    "nom_long": "L'ISLE-ADAM-PARMAIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7819866725,
+      2.18049375093
+    ],
+    "label": "L'Onde",
+    "nom_long": "L'ONDE"
+  },
+  {
+    "geo_point_2d": [
+      48.9663265448,
+      2.31658207116
+    ],
+    "label": "LA BARRE ORMESSON",
+    "nom_long": "LA BARRE-ORMESSON"
+  },
+  {
+    "geo_point_2d": [
+      48.7567394335,
+      2.36836469863
+    ],
+    "label": "La Belle Epine",
+    "nom_long": "LA BELLE EPINE"
+  },
+  {
+    "geo_point_2d": [
+      49.1267809411,
+      2.50614369063
+    ],
+    "label": "LA BORNE BLANCHE",
+    "nom_long": "LA BORNE BLANCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8427199561,
+      2.13812505739
+    ],
+    "label": "LA CELLE-SAINT-CLOUD",
+    "nom_long": "LA CELLE-SAINT-CLOUD"
+  },
+  {
+    "geo_point_2d": [
+      48.8843987952,
+      2.36049131853
+    ],
+    "label": "La Chapelle",
+    "nom_long": "LA CHAPELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.9207859691,
+      2.4105986151
+    ],
+    "label": "La Courneuve 8 mai 1945",
+    "nom_long": "LA COURNEUVE 8 MAI 1945"
+  },
+  {
+    "geo_point_2d": [
+      48.9243538787,
+      2.38638828562
+    ],
+    "label": "LA COURNEUVE AUBERVILLIERS",
+    "nom_long": "LA COURNEUVE-AUBERVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.7616936904,
+      2.30422734755
+    ],
+    "label": "LA CROIX DE BERNY FRESNES",
+    "nom_long": "LA CROIX-DE-BERNY-FRESNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8921870764,
+      2.2370180564
+    ],
+    "label": "LA DEFENSE GRANDE ARCHE",
+    "nom_long": "LA DEFENSE-GRANDE ARCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.9096663654,
+      2.43748780358
+    ],
+    "label": "La Ferme",
+    "nom_long": "LA FERME"
+  },
+  {
+    "geo_point_2d": [
+      48.4849573763,
+      2.35185842143
+    ],
+    "label": "LA FERTE-ALAIS",
+    "nom_long": "LA FERTE-ALAIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9508199876,
+      3.12490902211
+    ],
+    "label": "LA FERTE-SOUS-JOUARRE",
+    "nom_long": "LA FERTE-SOUS-JOUARRE"
+  },
+  {
+    "geo_point_2d": [
+      48.8871839469,
+      2.32577967481
+    ],
+    "label": "La Fourche",
+    "nom_long": "LA FOURCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.9802635207,
+      2.18001238078
+    ],
+    "label": "LA FRETTE MONTIGNY",
+    "nom_long": "LA FRETTE-MONTIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.909632934,
+      2.23968411711
+    ],
+    "label": "LA GARENNE-COLOMBES",
+    "nom_long": "LA GARENNE-COLOMBES"
+  },
+  {
+    "geo_point_2d": [
+      48.3787957617,
+      2.89720178188
+    ],
+    "label": "LA GRANDE PAROISSE",
+    "nom_long": "LA GRANDE PAROISSE"
+  },
+  {
+    "geo_point_2d": [
+      48.6952641221,
+      2.15164203998
+    ],
+    "label": "LA HACQUINIERE",
+    "nom_long": "LA HACQUINIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8490645635,
+      2.29791659184
+    ],
+    "label": "La Motte Picquet Grenelle",
+    "nom_long": "LA MOTTE-PICQUET-GRENELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8580460554,
+      2.27415462837
+    ],
+    "label": "La Muette",
+    "nom_long": "LA MUETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.5914608202,
+      2.26693797126
+    ],
+    "label": "LA NORVILLE SAINT-GERMAIN-LES-ARPAJON",
+    "nom_long": "LA NORVILLE-SAINT-GERMAIN-LES-ARPAJON"
+  },
+  {
+    "geo_point_2d": [
+      48.9349758267,
+      2.32679331227
+    ],
+    "label": "La Noue",
+    "nom_long": "LA NOUE"
+  },
+  {
+    "geo_point_2d": [
+      48.9181138031,
+      2.36266559747
+    ],
+    "label": "LA PLAINE-STADE DE FRANCE",
+    "nom_long": "LA PLAINE-STADE DE FRANCE"
+  },
+  {
+    "geo_point_2d": [
+      48.8930946286,
+      2.48791098763
+    ],
+    "label": "La Remise à Jorelle",
+    "nom_long": "LA REMISE A JORELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8577254129,
+      2.31056596095
+    ],
+    "label": "La Tour Maubourg",
+    "nom_long": "LA TOUR MAUBOURG"
+  },
+  {
+    "geo_point_2d": [
+      48.7953838374,
+      2.51342330089
+    ],
+    "label": "LA VARENNE-CHENNEVIERES",
+    "nom_long": "LA VARENNE-CHENNEVIERES"
+  },
+  {
+    "geo_point_2d": [
+      48.7553892687,
+      1.9438351997
+    ],
+    "label": "LA VERRIERE",
+    "nom_long": "LA VERRIERE"
+  },
+  {
+    "geo_point_2d": [
+      49.202693603,
+      1.92054770607
+    ],
+    "label": "LA VILLETERTRE",
+    "nom_long": "LA VILLETERTRE"
+  },
+  {
+    "geo_point_2d": [
+      48.4824105013,
+      1.52235765163
+    ],
+    "label": "LA VILLETTE-SAINT-PREST",
+    "nom_long": "LA VILLETTE-SAINT-PREST"
+  },
+  {
+    "geo_point_2d": [
+      48.9558768749,
+      2.31152630869
+    ],
+    "label": "Lacepede",
+    "nom_long": "LACEPEDE"
+  },
+  {
+    "geo_point_2d": [
+      48.8821891376,
+      2.70601418112
+    ],
+    "label": "LAGNY-THORIGNY",
+    "nom_long": "LAGNY-THORIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8896740757,
+      2.33876065323
+    ],
+    "label": "Lamarck-Caulaincourt",
+    "nom_long": "LAMARCK-CAULAINCOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.7831075504,
+      2.36715783332
+    ],
+    "label": "Lamartine",
+    "nom_long": "LAMARTINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8082965895,
+      2.33435431099
+    ],
+    "label": "LAPLACE",
+    "nom_long": "LAPLACE"
+  },
+  {
+    "geo_point_2d": [
+      48.5204035911,
+      2.25473970107
+    ],
+    "label": "LARDY",
+    "nom_long": "LARDY"
+  },
+  {
+    "geo_point_2d": [
+      47.961118247,
+      3.51433646502
+    ],
+    "label": "LAROCHE MIGENNES",
+    "nom_long": "LAROCHE-MIGENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.885216183,
+      2.37966308156
+    ],
+    "label": "Laumiere",
+    "nom_long": "LAUMIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.9307395703,
+      2.4257914242
+    ],
+    "label": "LE BOURGET",
+    "nom_long": "LE BOURGET"
+  },
+  {
+    "geo_point_2d": [
+      48.623332241,
+      2.45140908881
+    ],
+    "label": "LE BRAS DE FER",
+    "nom_long": "LE BRAS-DE-FER"
+  },
+  {
+    "geo_point_2d": [
+      48.8771578388,
+      2.55288164979
+    ],
+    "label": "LE CHENAY GAGNY",
+    "nom_long": "LE CHENAY-GAGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.5661178207,
+      2.49271300288
+    ],
+    "label": "LE COUDRAY-MONTCEAUX",
+    "nom_long": "LE COUDRAY-MONTCEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.7054039248,
+      2.19273488481
+    ],
+    "label": "LE GUICHET",
+    "nom_long": "LE GUICHET"
+  },
+  {
+    "geo_point_2d": [
+      48.8101299573,
+      2.36226338713
+    ],
+    "label": "Le Kremlin-Bicêtre",
+    "nom_long": "LE KREMLIN-BICETRE"
+  },
+  {
+    "geo_point_2d": [
+      48.9318139969,
+      2.28865600596
+    ],
+    "label": "Le Luth",
+    "nom_long": "LE LUTH"
+  },
+  {
+    "geo_point_2d": [
+      48.5387752593,
+      2.62552215098
+    ],
+    "label": "LE MEE-SUR-SEINE",
+    "nom_long": "LE MEE"
+  },
+  {
+    "geo_point_2d": [
+      48.8053776631,
+      2.48634975285
+    ],
+    "label": "LE PARC DE SAINT-MAUR",
+    "nom_long": "LE PARC-DE-SAINT-MAUR"
+  },
+  {
+    "geo_point_2d": [
+      48.8748743434,
+      2.34019988439
+    ],
+    "label": "Le Peletier",
+    "nom_long": "LE PELETIER"
+  },
+  {
+    "geo_point_2d": [
+      48.6930965903,
+      1.85659206531
+    ],
+    "label": "LE PERRAY",
+    "nom_long": "LE PERRAY"
+  },
+  {
+    "geo_point_2d": [
+      49.0961208107,
+      2.74468620744
+    ],
+    "label": "LE PLESSIS BELLEVILLE",
+    "nom_long": "LE PLESSIS-BELLEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.5738077936,
+      2.4794691696
+    ],
+    "label": "LE PLESSIS-CHENET",
+    "nom_long": "LE PLESSIS-CHENET"
+  },
+  {
+    "geo_point_2d": [
+      48.8890765947,
+      2.51256682146
+    ],
+    "label": "LE RAINCY VILLEMOMBLE MONTFERMEIL",
+    "nom_long": "LE RAINCY-VILLEMOMBLE-MONTFERMEIL"
+  },
+  {
+    "geo_point_2d": [
+      48.9310542278,
+      2.26060231561
+    ],
+    "label": "LE STADE",
+    "nom_long": "LE STADE"
+  },
+  {
+    "geo_point_2d": [
+      48.8564199914,
+      2.21657223779
+    ],
+    "label": "LE VAL D'OR",
+    "nom_long": "LE VAL-D'OR"
+  },
+  {
+    "geo_point_2d": [
+      48.7889148994,
+      2.43207011656
+    ],
+    "label": "LE VERT-DE-MAISONS",
+    "nom_long": "LE VERT-DE-MAISONS"
+  },
+  {
+    "geo_point_2d": [
+      48.8900862355,
+      2.13460087387
+    ],
+    "label": "LE VESINET-CENTRE",
+    "nom_long": "LE VESINET-CENTRE"
+  },
+  {
+    "geo_point_2d": [
+      48.897973449,
+      2.12211744606
+    ],
+    "label": "LE VESINET-LE PECQ",
+    "nom_long": "LE VESINET-LE PECQ"
+  },
+  {
+    "geo_point_2d": [
+      48.9333553822,
+      2.29460298939
+    ],
+    "label": "Le Village",
+    "nom_long": "LE VILLAGE"
+  },
+  {
+    "geo_point_2d": [
+      48.8512711264,
+      2.3761187747
+    ],
+    "label": "Ledru-Rollin",
+    "nom_long": "LEDRU-ROLLIN"
+  },
+  {
+    "geo_point_2d": [
+      48.9231037797,
+      2.28627957753
+    ],
+    "label": "Les Agnettes",
+    "nom_long": "LES AGNETTES-ASNIERES-GENNEVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.7825054355,
+      2.4095416551
+    ],
+    "label": "LES ARDOINES",
+    "nom_long": "LES ARDOINES"
+  },
+  {
+    "geo_point_2d": [
+      48.7396810434,
+      2.28766749681
+    ],
+    "label": "LES BACONNETS",
+    "nom_long": "LES BACONNETS"
+  },
+  {
+    "geo_point_2d": [
+      48.9517087836,
+      2.32021652167
+    ],
+    "label": "Les Beatus",
+    "nom_long": "LES BEATUS"
+  },
+  {
+    "geo_point_2d": [
+      48.8248485695,
+      2.51185555481
+    ],
+    "label": "LES BOULLEREAUX CHAMPIGNY",
+    "nom_long": "LES BOULLEREAUX-CHAMPIGNY"
+  },
+  {
+    "geo_point_2d": [
+      48.9926138816,
+      1.95547924753
+    ],
+    "label": "LES CLAIRIERES DE VERNEUIL",
+    "nom_long": "LES CLAIRIERES-DE-VERNEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8925047614,
+      2.49938845729
+    ],
+    "label": "Les Coquetiers",
+    "nom_long": "LES COQUETIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8574714089,
+      2.22060356003
+    ],
+    "label": "Les Coteaux",
+    "nom_long": "LES COTEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.9307570033,
+      2.28417444828
+    ],
+    "label": "Asnieres Gennevilliers Les Courtilles",
+    "nom_long": "LES COURTILLES-ASNIERES-GENNEVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.9027680256,
+      2.23954203632
+    ],
+    "label": "Les Fauvelles",
+    "nom_long": "LES FAUVELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.9766656914,
+      2.37741967331
+    ],
+    "label": "Les Flanades",
+    "nom_long": "LES FLANADES"
+  },
+  {
+    "geo_point_2d": [
+      48.8358634878,
+      2.35258892287
+    ],
+    "label": "Les Gobelins",
+    "nom_long": "LES GOBELINS"
+  },
+  {
+    "geo_point_2d": [
+      48.9208728035,
+      2.31383538247
+    ],
+    "label": "LES GRESILLONS",
+    "nom_long": "LES GRESILLONS"
+  },
+  {
+    "geo_point_2d": [
+      48.8623162796,
+      2.34567382821
+    ],
+    "label": "Les Halles",
+    "nom_long": "LES HALLES"
+  },
+  {
+    "geo_point_2d": [
+      48.9785246243,
+      2.38504919201
+    ],
+    "label": "Les Locheres",
+    "nom_long": "LES LOCHERES"
+  },
+  {
+    "geo_point_2d": [
+      48.8498504878,
+      2.22123268327
+    ],
+    "label": "Les Milons",
+    "nom_long": "LES MILONS"
+  },
+  {
+    "geo_point_2d": [
+      48.9499377357,
+      2.32883217135
+    ],
+    "label": "Les Mobiles",
+    "nom_long": "LES MOBILES"
+  },
+  {
+    "geo_point_2d": [
+      48.8215175225,
+      2.25133615621
+    ],
+    "label": "Les Moulineaux",
+    "nom_long": "LES MOULINEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.9925919556,
+      1.91353050671
+    ],
+    "label": "LES MUREAUX",
+    "nom_long": "LES MUREAUX"
+  },
+  {
+    "geo_point_2d": [
+      49.0331827681,
+      2.47803336649
+    ],
+    "label": "LES NOUES",
+    "nom_long": "LES NOUES"
+  },
+  {
+    "geo_point_2d": [
+      48.9024441906,
+      2.51169930327
+    ],
+    "label": "Les Pavillons-sous-Bois",
+    "nom_long": "LES PAVILLONS-SOUS-BOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8811915206,
+      2.27168672105
+    ],
+    "label": "Les Sablons",
+    "nom_long": "LES SABLONS (JARDIN D'ACCLIMATATION)"
+  },
+  {
+    "geo_point_2d": [
+      48.7450721714,
+      2.41752097785
+    ],
+    "label": "LES SAULES",
+    "nom_long": "LES SAULES"
+  },
+  {
+    "geo_point_2d": [
+      48.9136368639,
+      2.25732601422
+    ],
+    "label": "LES VALLEES",
+    "nom_long": "LES VALLEES"
+  },
+  {
+    "geo_point_2d": [
+      48.8231518567,
+      2.5798372539
+    ],
+    "label": "LES YVRIS NOISY-LE-GRAND",
+    "nom_long": "LES YVRIS-NOISY-LE-GRAND"
+  },
+  {
+    "geo_point_2d": [
+      48.7219159611,
+      1.89000456506
+    ],
+    "label": "LES-ESSARTS-LE-ROI",
+    "nom_long": "LES-ESSARTS-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      49.2208070506,
+      1.90529906189
+    ],
+    "label": "LIANCOURT SAINT-PIERRE",
+    "nom_long": "LIANCOURT-SAINT-PIERRE"
+  },
+  {
+    "geo_point_2d": [
+      48.9069318321,
+      2.43862449586
+    ],
+    "label": "Liberation",
+    "nom_long": "LIBERATION"
+  },
+  {
+    "geo_point_2d": [
+      48.8260549992,
+      2.40674222317
+    ],
+    "label": "Liberte",
+    "nom_long": "LIBERTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8796347607,
+      2.32702220089
+    ],
+    "label": "Liege",
+    "nom_long": "LIEGE"
+  },
+  {
+    "geo_point_2d": [
+      48.6283755517,
+      2.56958354824
+    ],
+    "label": "LIEUSAINT-MOISSY",
+    "nom_long": "LIEUSAINT-MOISSY"
+  },
+  {
+    "geo_point_2d": [
+      48.9841727553,
+      1.74778618291
+    ],
+    "label": "LIMAY",
+    "nom_long": "LIMAY"
+  },
+  {
+    "geo_point_2d": [
+      48.5102651753,
+      2.67897398269
+    ],
+    "label": "LIVRY-SUR-SEINE",
+    "nom_long": "LIVRY-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      49.0217572695,
+      3.03175844584
+    ],
+    "label": "LIZY-SUR-OURCQ",
+    "nom_long": "LIZY-SUR-OURCQ"
+  },
+  {
+    "geo_point_2d": [
+      48.8392192991,
+      2.63321091751
+    ],
+    "label": "LOGNES",
+    "nom_long": "LOGNES"
+  },
+  {
+    "geo_point_2d": [
+      48.7022393878,
+      2.29455774648
+    ],
+    "label": "LONGJUMEAU",
+    "nom_long": "LONGJUMEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.513754591,
+      3.25003498258
+    ],
+    "label": "LONGUEVILLE",
+    "nom_long": "LONGUEVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.881584251,
+      2.3659210371
+    ],
+    "label": "Louis Blanc",
+    "nom_long": "LOUIS BLANC"
+  },
+  {
+    "geo_point_2d": [
+      48.8887060198,
+      2.28808363305
+    ],
+    "label": "Louise Michel",
+    "nom_long": "LOUISE MICHEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8389609394,
+      2.28270002724
+    ],
+    "label": "Lourmel",
+    "nom_long": "LOURMEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8612145286,
+      2.12319109596
+    ],
+    "label": "LOUVECIENNES",
+    "nom_long": "LOUVECIENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.780087152,
+      2.19650581249
+    ],
+    "label": "Louvois",
+    "nom_long": "LOUVOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8608062913,
+      2.34110859163
+    ],
+    "label": "Louvre-Rivoli",
+    "nom_long": "LOUVRE-RIVOLI"
+  },
+  {
+    "geo_point_2d": [
+      49.0493255982,
+      2.50175806177
+    ],
+    "label": "LOUVRES",
+    "nom_long": "LOUVRES"
+  },
+  {
+    "geo_point_2d": [
+      48.7059689857,
+      2.21226237529
+    ],
+    "label": "LOZERE",
+    "nom_long": "LOZERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8457430696,
+      2.3399279984
+    ],
+    "label": "LUXEMBOURG",
+    "nom_long": "LUXEMBOURG"
+  },
+  {
+    "geo_point_2d": [
+      49.1171321315,
+      2.42010703417
+    ],
+    "label": "LUZARCHES",
+    "nom_long": "LUZARCHES"
+  },
+  {
+    "geo_point_2d": [
+      48.9160965041,
+      2.51506144619
+    ],
+    "label": "Lycee Henri Sellier",
+    "nom_long": "LYCEE HENRI SELLIER"
+  },
+  {
+    "geo_point_2d": [
+      48.853016767,
+      2.33550205038
+    ],
+    "label": "Mabillon",
+    "nom_long": "MABILLON"
+  },
+  {
+    "geo_point_2d": [
+      48.8700997328,
+      2.32516410954
+    ],
+    "label": "Madeleine",
+    "nom_long": "MADELEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8809135256,
+      2.35883323564
+    ],
+    "label": "MAGENTA",
+    "nom_long": "MAGENTA"
+  },
+  {
+    "geo_point_2d": [
+      48.7836872152,
+      2.24697764916
+    ],
+    "label": "Mail de la Plaine",
+    "nom_long": "MAIL DE LA PLAINE"
+  },
+  {
+    "geo_point_2d": [
+      48.5852787101,
+      1.5924579153
+    ],
+    "label": "MAINTENON",
+    "nom_long": "MAINTENON"
+  },
+  {
+    "geo_point_2d": [
+      48.8241050307,
+      2.27304152378
+    ],
+    "label": "Mairie d'Issy",
+    "nom_long": "MAIRIE D'ISSY"
+  },
+  {
+    "geo_point_2d": [
+      48.8110991977,
+      2.38355147965
+    ],
+    "label": "Mairie d'Ivry",
+    "nom_long": "MAIRIE D'IVRY"
+  },
+  {
+    "geo_point_2d": [
+      48.9033300946,
+      2.30592414987
+    ],
+    "label": "Mairie de Clichy",
+    "nom_long": "MAIRIE DE CLICHY"
+  },
+  {
+    "geo_point_2d": [
+      48.8619369132,
+      2.4413109399
+    ],
+    "label": "Mairie de Montreuil",
+    "nom_long": "MAIRIE DE MONTREUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8186764099,
+      2.3197403133
+    ],
+    "label": "Mairie de Montrouge",
+    "nom_long": "MAIRIE DE MONTROUGE"
+  },
+  {
+    "geo_point_2d": [
+      48.9635179464,
+      2.36025075865
+    ],
+    "label": "Mairie de Pierrefitte",
+    "nom_long": "MAIRIE DE PIERREFITTE"
+  },
+  {
+    "geo_point_2d": [
+      48.9119648979,
+      2.33392489048
+    ],
+    "label": "Mairie de Saint-Ouen",
+    "nom_long": "MAIRIE DE SAINT-OUEN"
+  },
+  {
+    "geo_point_2d": [
+      48.7804547115,
+      2.19140991927
+    ],
+    "label": "Mairie de Velizy",
+    "nom_long": "MAIRIE DE VELIZY"
+  },
+  {
+    "geo_point_2d": [
+      48.9356057093,
+      2.33433291316
+    ],
+    "label": "Mairie de Villeneuve-la-Garenne",
+    "nom_long": "MAIRIE DE VILLENEUVE-LA-GARENNE"
+  },
+  {
+    "geo_point_2d": [
+      48.879761254,
+      2.41647964367
+    ],
+    "label": "Mairie des Lilas",
+    "nom_long": "MAIRIE DES LILAS"
+  },
+  {
+    "geo_point_2d": [
+      48.8224378319,
+      2.35847388389
+    ],
+    "label": "Maison Blanche",
+    "nom_long": "MAISON BLANCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8020493803,
+      2.42648240848
+    ],
+    "label": "MAISONS-ALFORT ALFORTVILLE",
+    "nom_long": "MAISONS-ALFORT-ALFORTVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8026376907,
+      2.44692748424
+    ],
+    "label": "Maisons-Alfort-Les Juilliottes",
+    "nom_long": "MAISONS-ALFORT-LES JUILLIOTTES"
+  },
+  {
+    "geo_point_2d": [
+      48.8091443609,
+      2.43450989593
+    ],
+    "label": "Maisons-Alfort-Stade",
+    "nom_long": "MAISONS-ALFORT-STADE"
+  },
+  {
+    "geo_point_2d": [
+      48.9457959345,
+      2.1445587568
+    ],
+    "label": "MAISONS-LAFFITTE",
+    "nom_long": "MAISONS-LAFFITTE"
+  },
+  {
+    "geo_point_2d": [
+      48.3936415468,
+      2.39341072138
+    ],
+    "label": "MAISSE",
+    "nom_long": "MAISSE"
+  },
+  {
+    "geo_point_2d": [
+      48.8225837087,
+      2.29846419467
+    ],
+    "label": "Malakoff-Plateau de Vanves",
+    "nom_long": "MALAKOFF-PLATEAU DE VANVES"
+  },
+  {
+    "geo_point_2d": [
+      48.8153075321,
+      2.29707779696
+    ],
+    "label": "Malakoff-Rue Etienne Dolet",
+    "nom_long": "MALAKOFF-RUE ETIENNE DOLET"
+  },
+  {
+    "geo_point_2d": [
+      48.8828919175,
+      2.30905226455
+    ],
+    "label": "Malesherbes",
+    "nom_long": "MALESHERBES"
+  },
+  {
+    "geo_point_2d": [
+      48.2935917687,
+      2.40113389443
+    ],
+    "label": "MALESHERBES",
+    "nom_long": "MALESHERBES"
+  },
+  {
+    "geo_point_2d": [
+      48.9895025071,
+      1.70301613419
+    ],
+    "label": "MANTES LA JOLIE",
+    "nom_long": "MANTES-LA-JOLIE"
+  },
+  {
+    "geo_point_2d": [
+      48.9836545075,
+      1.71521098645
+    ],
+    "label": "MANTES STATION",
+    "nom_long": "MANTES-STATION"
+  },
+  {
+    "geo_point_2d": [
+      48.8527251193,
+      2.40608916324
+    ],
+    "label": "Maraichers",
+    "nom_long": "MARAICHERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8914809106,
+      2.34972889726
+    ],
+    "label": "Marcadet-Poissonniers",
+    "nom_long": "MARCADET-POISSONNIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.83370885,
+      2.24384059509
+    ],
+    "label": "Marcel Sembat",
+    "nom_long": "MARCEL SEMBAT"
+  },
+  {
+    "geo_point_2d": [
+      48.9386164837,
+      2.3561784586
+    ],
+    "label": "Marche de Saint-Denis",
+    "nom_long": "MARCHE DE SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.7684217766,
+      1.51333305235
+    ],
+    "label": "MARCHEZAIS BROUE",
+    "nom_long": "MARCHEZAIS BROUE"
+  },
+  {
+    "geo_point_2d": [
+      48.8809920799,
+      2.07917759066
+    ],
+    "label": "MAREIL-MARLY",
+    "nom_long": "MAREIL-MARLY"
+  },
+  {
+    "geo_point_2d": [
+      48.8932385975,
+      1.87173847431
+    ],
+    "label": "MAREIL-SUR-MAULDRE",
+    "nom_long": "MAREIL-SUR-MAULDRE"
+  },
+  {
+    "geo_point_2d": [
+      49.1354741446,
+      3.07562656432
+    ],
+    "label": "MAREUIL-SUR-OURCQ",
+    "nom_long": "MAREUIL-SUR-OURCQ"
+  },
+  {
+    "geo_point_2d": [
+      48.8587040102,
+      2.40968568697
+    ],
+    "label": "Marie de Miribel",
+    "nom_long": "MARIE DE MIRIBEL"
+  },
+  {
+    "geo_point_2d": [
+      48.7349392965,
+      2.86895583008
+    ],
+    "label": "MARLES EN BRIE",
+    "nom_long": "MARLES-EN-BRIE"
+  },
+  {
+    "geo_point_2d": [
+      48.8715031037,
+      2.09654825276
+    ],
+    "label": "MARLY-LE-ROI",
+    "nom_long": "MARLY-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      48.5655938619,
+      2.29092446986
+    ],
+    "label": "MAROLLES-EN-HUREPOIX",
+    "nom_long": "MAROLLES-EN-HUREPOIX"
+  },
+  {
+    "geo_point_2d": [
+      48.8904854556,
+      2.35999576638
+    ],
+    "label": "Marx Dormoy",
+    "nom_long": "MARX DORMOY"
+  },
+  {
+    "geo_point_2d": [
+      48.8243283105,
+      2.37758367265
+    ],
+    "label": "Maryse Bastie",
+    "nom_long": "MARYSE BASTIE"
+  },
+  {
+    "geo_point_2d": [
+      48.7246912437,
+      2.25827746233
+    ],
+    "label": "MASSY PALAISEAU",
+    "nom_long": "MASSY-PALAISEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.7347165868,
+      2.2734834644
+    ],
+    "label": "MASSY VERRIERES",
+    "nom_long": "MASSY-VERRIERES"
+  },
+  {
+    "geo_point_2d": [
+      48.8501273229,
+      2.34805429322
+    ],
+    "label": "Maubert Mutualite",
+    "nom_long": "MAUBERT-MUTUALITE"
+  },
+  {
+    "geo_point_2d": [
+      48.9093053742,
+      1.85722754126
+    ],
+    "label": "MAULE",
+    "nom_long": "MAULE"
+  },
+  {
+    "geo_point_2d": [
+      48.9870565461,
+      2.05978782668
+    ],
+    "label": "MAURECOURT",
+    "nom_long": "MAURECOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.9191790277,
+      2.41383718232
+    ],
+    "label": "Maurice Lachâtre",
+    "nom_long": "MAURICE LACHATRE"
+  },
+  {
+    "geo_point_2d": [
+      48.9572688642,
+      2.87344818875
+    ],
+    "label": "MEAUX",
+    "nom_long": "MEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.5272433215,
+      2.65499028214
+    ],
+    "label": "MELUN",
+    "nom_long": "MELUN"
+  },
+  {
+    "geo_point_2d": [
+      48.8668000351,
+      2.38338325046
+    ],
+    "label": "Menilmontant",
+    "nom_long": "MENILMONTANT"
+  },
+  {
+    "geo_point_2d": [
+      48.570596856,
+      2.43209852691
+    ],
+    "label": "MENNECY",
+    "nom_long": "MENNECY"
+  },
+  {
+    "geo_point_2d": [
+      49.0776990464,
+      2.20544672821
+    ],
+    "label": "MERIEL",
+    "nom_long": "MERIEL"
+  },
+  {
+    "geo_point_2d": [
+      49.0580478163,
+      2.19124476186
+    ],
+    "label": "MERY VAL D'OISE",
+    "nom_long": "MERY-VAL D'OISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8148843142,
+      2.24091929487
+    ],
+    "label": "MEUDON",
+    "nom_long": "MEUDON"
+  },
+  {
+    "geo_point_2d": [
+      48.7835393328,
+      2.22528029528
+    ],
+    "label": "Meudon-la-Forêt",
+    "nom_long": "MEUDON-LA-FORET"
+  },
+  {
+    "geo_point_2d": [
+      48.8191743291,
+      2.23859833779
+    ],
+    "label": "Meudon-Sur-Seine",
+    "nom_long": "MEUDON-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.807492624,
+      2.24088306664
+    ],
+    "label": "MEUDON VAL FLEURY",
+    "nom_long": "MEUDON-VAL-FLEURY"
+  },
+  {
+    "geo_point_2d": [
+      49.0057625368,
+      1.90178197858
+    ],
+    "label": "MEULAN-HARDRICOURT",
+    "nom_long": "MEULAN-HARDRICOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.837117007,
+      2.40233316592
+    ],
+    "label": "Michel Bizot",
+    "nom_long": "MICHEL BIZOT"
+  },
+  {
+    "geo_point_2d": [
+      48.8479430972,
+      2.26413042674
+    ],
+    "label": "Michel-Ange-Auteuil",
+    "nom_long": "MICHEL-ANGE-AUTEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8452411948,
+      2.26189364176
+    ],
+    "label": "Michel-Ange-Molitor",
+    "nom_long": "MICHEL-ANGE-MOLITOR"
+  },
+  {
+    "geo_point_2d": [
+      48.8471310082,
+      2.27276375332
+    ],
+    "label": "Mirabeau",
+    "nom_long": "MIRABEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8736852106,
+      2.31446798957
+    ],
+    "label": "Miromesnil",
+    "nom_long": "MIROMESNIL"
+  },
+  {
+    "geo_point_2d": [
+      48.975858754,
+      2.64240630231
+    ],
+    "label": "MITRY-CLAYE",
+    "nom_long": "MITRY-CLAYE"
+  },
+  {
+    "geo_point_2d": [
+      48.8804494561,
+      2.30945116799
+    ],
+    "label": "Monceau",
+    "nom_long": "MONCEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.3484160133,
+      2.0322397734
+    ],
+    "label": "MONNERVILLE",
+    "nom_long": "MONNERVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.0070317015,
+      2.74303831268
+    ],
+    "label": "MONTARGIS",
+    "nom_long": "MONTARGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8398432323,
+      2.40886752214
+    ],
+    "label": "Montempoivre",
+    "nom_long": "MONTEMPOIVRE"
+  },
+  {
+    "geo_point_2d": [
+      48.3795261033,
+      2.9425234127
+    ],
+    "label": "MONTEREAU",
+    "nom_long": "MONTEREAU"
+  },
+  {
+    "geo_point_2d": [
+      48.80260198,
+      1.81646679422
+    ],
+    "label": "MONTFORT L'AMAURY MERE",
+    "nom_long": "MONTFORT-L'AMAURY-MERE"
+  },
+  {
+    "geo_point_2d": [
+      48.8444086721,
+      2.39007511282
+    ],
+    "label": "Montgallet",
+    "nom_long": "MONTGALLET"
+  },
+  {
+    "geo_point_2d": [
+      48.7082378304,
+      2.46228224195
+    ],
+    "label": "MONTGERON-CROSNE",
+    "nom_long": "MONTGERON-CROSNE"
+  },
+  {
+    "geo_point_2d": [
+      49.0804937079,
+      2.00371537163
+    ],
+    "label": "MONTGEROULT COURCELLES",
+    "nom_long": "MONTGEROULT-COURCELLES"
+  },
+  {
+    "geo_point_2d": [
+      49.0074232989,
+      2.19761980711
+    ],
+    "label": "MONTIGNY-BEAUCHAMP",
+    "nom_long": "MONTIGNY-BEAUCHAMP"
+  },
+  {
+    "geo_point_2d": [
+      48.3364817806,
+      2.73800162393
+    ],
+    "label": "MONTIGNY-SUR-LOING",
+    "nom_long": "MONTIGNY-SUR-LOING"
+  },
+  {
+    "geo_point_2d": [
+      48.8411869211,
+      2.32050922753
+    ],
+    "label": "MONTPARNASSE",
+    "nom_long": "MONTPARNASSE"
+  },
+  {
+    "geo_point_2d": [
+      48.806377449,
+      2.15150011465
+    ],
+    "label": "MONTREUIL",
+    "nom_long": "MONTREUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8908567954,
+      2.82640549867
+    ],
+    "label": "MONTRY CONDE",
+    "nom_long": "MONTRY-CONDE"
+  },
+  {
+    "geo_point_2d": [
+      49.0662886977,
+      2.32292045719
+    ],
+    "label": "MONTSOULT MAFFLIERS",
+    "nom_long": "MONTSOULT-MAFFLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8215089174,
+      2.33333983286
+    ],
+    "label": "Montsouris",
+    "nom_long": "MONTSOURIS"
+  },
+  {
+    "geo_point_2d": [
+      48.3785349151,
+      2.79888307957
+    ],
+    "label": "MORET-VENEUX-LES-SABLONS",
+    "nom_long": "MORET-VENEUX-LES-SABLONS"
+  },
+  {
+    "geo_point_2d": [
+      48.6140152427,
+      2.88825289271
+    ],
+    "label": "MORMANT",
+    "nom_long": "MORMANT"
+  },
+  {
+    "geo_point_2d": [
+      48.7894966769,
+      2.90738727173
+    ],
+    "label": "MORTCERF",
+    "nom_long": "MORTCERF"
+  },
+  {
+    "geo_point_2d": [
+      48.7720742166,
+      2.36781500163
+    ],
+    "label": "Moulin Vert",
+    "nom_long": "MOULIN VERT"
+  },
+  {
+    "geo_point_2d": [
+      48.587153909,
+      2.47349036497
+    ],
+    "label": "MOULIN-GALANT",
+    "nom_long": "MOULIN-GALANT"
+  },
+  {
+    "geo_point_2d": [
+      48.8137984812,
+      3.04293826741
+    ],
+    "label": "MOUROUX",
+    "nom_long": "MOUROUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8311126604,
+      2.32970501262
+    ],
+    "label": "Mouton-Duvernet",
+    "nom_long": "MOUTON-DUVERNET"
+  },
+  {
+    "geo_point_2d": [
+      48.8607082325,
+      2.3256202919
+    ],
+    "label": "MUSEE D'ORSAY",
+    "nom_long": "MUSEE D'ORSAY"
+  },
+  {
+    "geo_point_2d": [
+      48.8290105028,
+      2.22531285328
+    ],
+    "label": "Musee de Sevres",
+    "nom_long": "MUSEE DE SEVRES"
+  },
+  {
+    "geo_point_2d": [
+      48.5621248368,
+      3.01176932363
+    ],
+    "label": "NANGIS",
+    "nom_long": "NANGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8957453121,
+      2.22321296703
+    ],
+    "label": "NANTERRE PREFECTURE",
+    "nom_long": "NANTERRE-PREFECTURE"
+  },
+  {
+    "geo_point_2d": [
+      48.9016550655,
+      2.21515587303
+    ],
+    "label": "NANTERRE-UNIVERSITE",
+    "nom_long": "NANTERRE-UNIVERSITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8951258913,
+      2.19536398691
+    ],
+    "label": "NANTERRE VILLE",
+    "nom_long": "NANTERRE-VILLE"
+  },
+  {
+    "geo_point_2d": [
+      49.1428841983,
+      2.79445455011
+    ],
+    "label": "NANTEUIL LE HAUDOUIN",
+    "nom_long": "NANTEUIL-LE-HAUDOUIN"
+  },
+  {
+    "geo_point_2d": [
+      48.9740265805,
+      3.21930281283
+    ],
+    "label": "NANTEUIL SAÂCY",
+    "nom_long": "NANTEUIL-SAACY"
+  },
+  {
+    "geo_point_2d": [
+      48.8482371104,
+      2.39582358883
+    ],
+    "label": "NATION",
+    "nom_long": "NATION"
+  },
+  {
+    "geo_point_2d": [
+      48.8332167197,
+      2.36285639952
+    ],
+    "label": "Nationale",
+    "nom_long": "NATIONALE"
+  },
+  {
+    "geo_point_2d": [
+      48.2677581063,
+      2.68564709266
+    ],
+    "label": "NEMOURS SAINT-PIERRE",
+    "nom_long": "NEMOURS-SAINT-PIERRE"
+  },
+  {
+    "geo_point_2d": [
+      48.853485713,
+      2.51382529103
+    ],
+    "label": "NEUILLY PLAISANCE",
+    "nom_long": "NEUILLY-PLAISANCE"
+  },
+  {
+    "geo_point_2d": [
+      49.0141336895,
+      2.07830659133
+    ],
+    "label": "NEUVILLE UNIVERSITE",
+    "nom_long": "NEUVILLE UNIVERSITE"
+  },
+  {
+    "geo_point_2d": [
+      48.9387192355,
+      1.84051703249
+    ],
+    "label": "NEZEL AULNAY",
+    "nom_long": "NEZEL-AULNAY"
+  },
+  {
+    "geo_point_2d": [
+      48.9692787821,
+      3.32188681725
+    ],
+    "label": "NOGENT L'ARTAUD CHARLY",
+    "nom_long": "NOGENT-L'ARTAUD-CHARLY"
+  },
+  {
+    "geo_point_2d": [
+      48.8393419419,
+      2.49418805532
+    ],
+    "label": "NOGENT LE PERREUX",
+    "nom_long": "NOGENT-LE-PERREUX"
+  },
+  {
+    "geo_point_2d": [
+      48.834288898,
+      2.47168124122
+    ],
+    "label": "NOGENT-SUR-MARNE",
+    "nom_long": "NOGENT-SUR-MARNE"
+  },
+  {
+    "geo_point_2d": [
+      49.1325777024,
+      2.28051536982
+    ],
+    "label": "NOINTEL MOURS",
+    "nom_long": "NOINTEL-MOURS"
+  },
+  {
+    "geo_point_2d": [
+      48.8434916487,
+      2.61595248305
+    ],
+    "label": "NOISIEL",
+    "nom_long": "NOISIEL"
+  },
+  {
+    "geo_point_2d": [
+      48.8428848408,
+      2.58008591742
+    ],
+    "label": "NOISY CHAMPS",
+    "nom_long": "NOISY-CHAMPS"
+  },
+  {
+    "geo_point_2d": [
+      48.8408434319,
+      2.5477751893
+    ],
+    "label": "NOISY-LE-GRAND MONT D'EST",
+    "nom_long": "NOISY-LE-GRAND-MONT D'EST"
+  },
+  {
+    "geo_point_2d": [
+      48.8413596382,
+      2.06132681294
+    ],
+    "label": "NOISY-LE-ROI",
+    "nom_long": "NOISY-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      48.8966044374,
+      2.46111931078
+    ],
+    "label": "NOISY-LE-SEC",
+    "nom_long": "NOISY-LE-SEC"
+  },
+  {
+    "geo_point_2d": [
+      48.8760262116,
+      2.33788648907
+    ],
+    "label": "Notre-Dame-de-Lorette",
+    "nom_long": "NOTRE-DAME-DE-LORETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8449426352,
+      2.3287780255
+    ],
+    "label": "Notre-Dame-des-Champs",
+    "nom_long": "NOTRE-DAME-DES-CHAMPS"
+  },
+  {
+    "geo_point_2d": [
+      48.8647276207,
+      2.36849638711
+    ],
+    "label": "Oberkampf",
+    "nom_long": "OBERKAMPF"
+  },
+  {
+    "geo_point_2d": [
+      48.8521672611,
+      2.33964633593
+    ],
+    "label": "Odeon",
+    "nom_long": "ODEON"
+  },
+  {
+    "geo_point_2d": [
+      48.827270836,
+      2.36803264776
+    ],
+    "label": "Olympiades",
+    "nom_long": "OLYMPIADES"
+  },
+  {
+    "geo_point_2d": [
+      48.8706776818,
+      2.33235463926
+    ],
+    "label": "Opera",
+    "nom_long": "OPERA"
+  },
+  {
+    "geo_point_2d": [
+      48.636351368,
+      2.40779628345
+    ],
+    "label": "ORANGIS BOIS DE L'EPINE",
+    "nom_long": "ORANGIS-BOIS DE L'EPINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8265784281,
+      1.70321842548
+    ],
+    "label": "ORGERUS BEHOUST",
+    "nom_long": "ORGERUS-BEHOUST"
+  },
+  {
+    "geo_point_2d": [
+      48.7418787066,
+      2.40290860736
+    ],
+    "label": "ORLY VILLE",
+    "nom_long": "ORLY VILLE"
+  },
+  {
+    "geo_point_2d": [
+      49.2008770791,
+      2.83810847804
+    ],
+    "label": "ORMOY VILLERS",
+    "nom_long": "ORMOY-VILLERS"
+  },
+  {
+    "geo_point_2d": [
+      49.1382863753,
+      2.49017898542
+    ],
+    "label": "ORRY-LA-VILLE COYE-LA-FORÊT",
+    "nom_long": "ORRY-LA-VILLE-COYE"
+  },
+  {
+    "geo_point_2d": [
+      48.6975056708,
+      2.18105443904
+    ],
+    "label": "ORSAY VILLE",
+    "nom_long": "ORSAY-VILLE"
+  },
+  {
+    "geo_point_2d": [
+      49.0629696795,
+      2.05790299051
+    ],
+    "label": "OSNY",
+    "nom_long": "OSNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8871348691,
+      2.38696001714
+    ],
+    "label": "Ourcq",
+    "nom_long": "OURCQ"
+  },
+  {
+    "geo_point_2d": [
+      48.7707789162,
+      2.6902527822
+    ],
+    "label": "OZOIR-LA-FERRIERE",
+    "nom_long": "OZOIR-LA-FERRIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.956671846,
+      2.34310923573
+    ],
+    "label": "Pablo Neruda",
+    "nom_long": "PABLO NERUDA"
+  },
+  {
+    "geo_point_2d": [
+      48.8625955368,
+      2.33668417
+    ],
+    "label": "Palais Royal-Musee du Louvre",
+    "nom_long": "PALAIS ROYAL-MUSEE DU LOUVRE"
+  },
+  {
+    "geo_point_2d": [
+      48.7169462903,
+      2.2456725159
+    ],
+    "label": "PALAISEAU",
+    "nom_long": "PALAISEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.7081405864,
+      2.23731436596
+    ],
+    "label": "PALAISEAU VILLEBON",
+    "nom_long": "PALAISEAU-VILLEBON"
+  },
+  {
+    "geo_point_2d": [
+      48.8981123054,
+      2.40036170181
+    ],
+    "label": "PANTIN",
+    "nom_long": "PANTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7998873832,
+      2.28195132017
+    ],
+    "label": "Parc Andre Malraux",
+    "nom_long": "PARC ANDRE MALRAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8431243999,
+      2.22185149475
+    ],
+    "label": "Parc de Saint-Cloud",
+    "nom_long": "PARC DE SAINT-CLOUD"
+  },
+  {
+    "geo_point_2d": [
+      48.9339320289,
+      2.3131326405
+    ],
+    "label": "Parc des Chanteraines",
+    "nom_long": "PARC DES CHANTERAINES"
+  },
+  {
+    "geo_point_2d": [
+      48.9734249081,
+      2.51436028553
+    ],
+    "label": "PARC DES EXPOSITIONS",
+    "nom_long": "PARC DES EXPOSITIONS"
+  },
+  {
+    "geo_point_2d": [
+      48.9175149076,
+      2.22481218888
+    ],
+    "label": "Parc Pierre Lagravere",
+    "nom_long": "PARC PIERRE LAGRAVERE"
+  },
+  {
+    "geo_point_2d": [
+      49.008978461,
+      2.54483189792
+    ],
+    "label": "Parc PR",
+    "nom_long": "PARC PR"
+  },
+  {
+    "geo_point_2d": [
+      48.770721989,
+      2.31020545193
+    ],
+    "label": "PARC DE SCEAUX",
+    "nom_long": "PARC-DE-SCEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8390812802,
+      2.38302808115
+    ],
+    "label": "PARIS-BERCY",
+    "nom_long": "PARIS-BERCY"
+  },
+  {
+    "geo_point_2d": [
+      48.8652537861,
+      2.37458197
+    ],
+    "label": "Parmentier",
+    "nom_long": "PARMENTIER"
+  },
+  {
+    "geo_point_2d": [
+      48.857448691,
+      2.28581244413
+    ],
+    "label": "Passy",
+    "nom_long": "PASSY"
+  },
+  {
+    "geo_point_2d": [
+      48.8429206191,
+      2.31260704965
+    ],
+    "label": "Pasteur",
+    "nom_long": "PASTEUR"
+  },
+  {
+    "geo_point_2d": [
+      48.9396887087,
+      2.34520750593
+    ],
+    "label": "Paul Eluard",
+    "nom_long": "PAUL ELUARD"
+  },
+  {
+    "geo_point_2d": [
+      48.9792761263,
+      2.38020425433
+    ],
+    "label": "Paul Valery",
+    "nom_long": "PAUL VALERY"
+  },
+  {
+    "geo_point_2d": [
+      48.7807309692,
+      2.23983201762
+    ],
+    "label": "Pave Blanc",
+    "nom_long": "PAVE BLANC"
+  },
+  {
+    "geo_point_2d": [
+      48.8684401633,
+      2.40156171274
+    ],
+    "label": "Pelleport",
+    "nom_long": "PELLEPORT"
+  },
+  {
+    "geo_point_2d": [
+      48.862949833,
+      2.387434951
+    ],
+    "label": "Pere Lachaise",
+    "nom_long": "PERE LACHAISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8850284222,
+      2.29736230072
+    ],
+    "label": "PEREIRE-LEVALLOIS",
+    "nom_long": "PEREIRE-LEVALLOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8339363926,
+      2.31807828413
+    ],
+    "label": "Pernety",
+    "nom_long": "PERNETY"
+  },
+  {
+    "geo_point_2d": [
+      49.1477195074,
+      2.27782319472
+    ],
+    "label": "PERSAN-BEAUMONT",
+    "nom_long": "PERSAN-BEAUMONT"
+  },
+  {
+    "geo_point_2d": [
+      48.9004173041,
+      2.46546048136
+    ],
+    "label": "Petit Noisy",
+    "nom_long": "PETIT NOISY"
+  },
+  {
+    "geo_point_2d": [
+      48.9526378826,
+      2.35797833108
+    ],
+    "label": "Petit Pierrefitte",
+    "nom_long": "PETIT PIERREFITTE"
+  },
+  {
+    "geo_point_2d": [
+      48.7704252066,
+      2.14683164469
+    ],
+    "label": "PETIT-JOUY-LES-LOGES",
+    "nom_long": "PETIT-JOUY-LES-LOGES"
+  },
+  {
+    "geo_point_2d": [
+      48.6763813235,
+      2.3332494626
+    ],
+    "label": "PETIT VAUX",
+    "nom_long": "PETIT-VAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8584665494,
+      2.38972985235
+    ],
+    "label": "Philippe Auguste",
+    "nom_long": "PHILIPPE AUGUSTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8450615799,
+      2.40128901983
+    ],
+    "label": "Picpus",
+    "nom_long": "PICPUS"
+  },
+  {
+    "geo_point_2d": [
+      48.815930763,
+      2.37726720015
+    ],
+    "label": "Pierre et Marie Curie",
+    "nom_long": "PIERRE CURIE"
+  },
+  {
+    "geo_point_2d": [
+      48.9320518227,
+      2.35270198439
+    ],
+    "label": "Pierre de Geyter",
+    "nom_long": "PIERRE DE GEYTER"
+  },
+  {
+    "geo_point_2d": [
+      48.9637554269,
+      2.37210313434
+    ],
+    "label": "PIERREFITTE STAINS",
+    "nom_long": "PIERREFITTE-STAINS"
+  },
+  {
+    "geo_point_2d": [
+      49.0191367416,
+      2.15466347741
+    ],
+    "label": "PIERRELAYE",
+    "nom_long": "PIERRELAYE"
+  },
+  {
+    "geo_point_2d": [
+      48.8824426909,
+      2.3370851365
+    ],
+    "label": "Pigalle",
+    "nom_long": "PIGALLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8309953013,
+      2.35583489797
+    ],
+    "label": "Place d'Italie",
+    "nom_long": "PLACE D'ITALIE"
+  },
+  {
+    "geo_point_2d": [
+      48.8834300138,
+      2.32722833572
+    ],
+    "label": "Place de Clichy",
+    "nom_long": "PLACE DE CLICHY"
+  },
+  {
+    "geo_point_2d": [
+      48.7528113597,
+      2.36195215258
+    ],
+    "label": "Place de la logistique",
+    "nom_long": "PLACE DE LA LOGISTIQUE"
+  },
+  {
+    "geo_point_2d": [
+      48.8768063892,
+      2.39305609332
+    ],
+    "label": "Place des Fêtes",
+    "nom_long": "PLACE DES FETES"
+  },
+  {
+    "geo_point_2d": [
+      48.8428668307,
+      2.35222472818
+    ],
+    "label": "Place Monge",
+    "nom_long": "PLACE MONGE (JARDIN DES PLANTES)"
+  },
+  {
+    "geo_point_2d": [
+      48.8318256496,
+      2.31412232347
+    ],
+    "label": "Plaisance",
+    "nom_long": "PLAISANCE"
+  },
+  {
+    "geo_point_2d": [
+      48.8319161843,
+      1.94440175262
+    ],
+    "label": "PLAISIR-GRIGNON",
+    "nom_long": "PLAISIR-GRIGNON"
+  },
+  {
+    "geo_point_2d": [
+      48.8309595287,
+      1.96002656297
+    ],
+    "label": "PLAISIR-LES-CLAYES",
+    "nom_long": "PLAISIR-LES-CLAYES"
+  },
+  {
+    "geo_point_2d": [
+      48.8772363191,
+      2.34929390111
+    ],
+    "label": "Poissonniere",
+    "nom_long": "POISSONNIERE"
+  },
+  {
+    "geo_point_2d": [
+      48.9332654061,
+      2.04107228968
+    ],
+    "label": "POISSY",
+    "nom_long": "POISSY"
+  },
+  {
+    "geo_point_2d": [
+      48.9232682542,
+      2.21758979935
+    ],
+    "label": "Pont de Bezons",
+    "nom_long": "PONT DE BEZONS"
+  },
+  {
+    "geo_point_2d": [
+      48.9047032038,
+      2.46997154361
+    ],
+    "label": "Pont de Bondy",
+    "nom_long": "PONT DE BONDY"
+  },
+  {
+    "geo_point_2d": [
+      48.8626624517,
+      2.30098996393
+    ],
+    "label": "PONT DE L'ALMA",
+    "nom_long": "PONT DE L'ALMA"
+  },
+  {
+    "geo_point_2d": [
+      48.8978210671,
+      2.27980958669
+    ],
+    "label": "Pont de Levallois-Becon",
+    "nom_long": "PONT DE LEVALLOIS-BECON"
+  },
+  {
+    "geo_point_2d": [
+      48.8847082013,
+      2.26051507789
+    ],
+    "label": "Pont de Neuilly",
+    "nom_long": "PONT DE NEUILLY (AVENUE DE MADRID)"
+  },
+  {
+    "geo_point_2d": [
+      48.7483496833,
+      2.37311194069
+    ],
+    "label": "PONT DE RUNGIS",
+    "nom_long": "PONT DE RUNGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8296748438,
+      2.23079959132
+    ],
+    "label": "Pont de Sevres",
+    "nom_long": "PONT DE SEVRES"
+  },
+  {
+    "geo_point_2d": [
+      48.8390897554,
+      2.27045824379
+    ],
+    "label": "PONT DU GARIGLIANO",
+    "nom_long": "PONT DU GARIGLIANO - HOPITAL EUROPEEN GEORGES POMPIDOU"
+  },
+  {
+    "geo_point_2d": [
+      48.8882201628,
+      2.31373245152
+    ],
+    "label": "PONT CARDINET",
+    "nom_long": "PONT-CARDINET"
+  },
+  {
+    "geo_point_2d": [
+      48.8535754734,
+      2.35716256888
+    ],
+    "label": "Pont-Marie",
+    "nom_long": "PONT-MARIE (CITE DES ARTS)"
+  },
+  {
+    "geo_point_2d": [
+      48.8585538273,
+      2.34223275799
+    ],
+    "label": "Pont-Neuf",
+    "nom_long": "PONT-NEUF (LA MONNAIE)"
+  },
+  {
+    "geo_point_2d": [
+      49.0605916812,
+      2.13087413428
+    ],
+    "label": "PONT PETIT",
+    "nom_long": "PONT-PETIT"
+  },
+  {
+    "geo_point_2d": [
+      48.2863911796,
+      3.20189382787
+    ],
+    "label": "PONT-SUR-YONNE",
+    "nom_long": "PONT-SUR-YONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.5351397661,
+      2.54434895173
+    ],
+    "label": "PONTHIERRY-PRINGY",
+    "nom_long": "PONTHIERRY-PRINGY"
+  },
+  {
+    "geo_point_2d": [
+      49.0466457626,
+      2.09519506723
+    ],
+    "label": "PONTOISE",
+    "nom_long": "PONTOISE"
+  },
+  {
+    "geo_point_2d": [
+      48.7965281811,
+      2.15237865481
+    ],
+    "label": "PORCHEFONTAINE",
+    "nom_long": "PORCHEFONTAINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8400337892,
+      2.33709643086
+    ],
+    "label": "PORT ROYAL",
+    "nom_long": "PORT ROYAL"
+  },
+  {
+    "geo_point_2d": [
+      48.8986011722,
+      2.36903694932
+    ],
+    "label": "Porte d'Aubervilliers",
+    "nom_long": "PORTE D AUBERVILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8479715406,
+      2.25774468038
+    ],
+    "label": "Porte d'Auteuil",
+    "nom_long": "PORTE D'AUTEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8316965931,
+      2.28147044408
+    ],
+    "label": "Porte d'Issy",
+    "nom_long": "PORTE D'ISSY"
+  },
+  {
+    "geo_point_2d": [
+      48.8190515147,
+      2.36012974202
+    ],
+    "label": "Porte d'Italie",
+    "nom_long": "PORTE D'ITALIE"
+  },
+  {
+    "geo_point_2d": [
+      48.8213557838,
+      2.36929058735
+    ],
+    "label": "Porte d'Ivry",
+    "nom_long": "PORTE D'IVRY"
+  },
+  {
+    "geo_point_2d": [
+      48.8231516331,
+      2.32550957782
+    ],
+    "label": "Porte d'Orleans",
+    "nom_long": "PORTE D'ORLEANS"
+  },
+  {
+    "geo_point_2d": [
+      48.8714665781,
+      2.27708301705
+    ],
+    "label": "Porte Dauphine",
+    "nom_long": "PORTE DAUPHINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8645851911,
+      2.40875994842
+    ],
+    "label": "Porte de Bagnolet",
+    "nom_long": "PORTE DE BAGNOLET"
+  },
+  {
+    "geo_point_2d": [
+      48.8286719395,
+      2.30085182613
+    ],
+    "label": "Brancion",
+    "nom_long": "PORTE DE BRANCION"
+  },
+  {
+    "geo_point_2d": [
+      48.8857931052,
+      2.2925823141
+    ],
+    "label": "Porte de Champerret",
+    "nom_long": "PORTE DE CHAMPERRET"
+  },
+  {
+    "geo_point_2d": [
+      48.8323049605,
+      2.39918151028
+    ],
+    "label": "Porte de Charenton",
+    "nom_long": "PORTE DE CHARENTON"
+  },
+  {
+    "geo_point_2d": [
+      48.8197612667,
+      2.36401545947
+    ],
+    "label": "Porte de Choisy",
+    "nom_long": "PORTE DE CHOISY"
+  },
+  {
+    "geo_point_2d": [
+      48.8941683862,
+      2.31559921918
+    ],
+    "label": "PORTE DE CLICHY",
+    "nom_long": "PORTE DE CLICHY"
+  },
+  {
+    "geo_point_2d": [
+      48.8977647714,
+      2.34486089248
+    ],
+    "label": "Porte de Clignancourt",
+    "nom_long": "PORTE DE CLIGNANCOURT"
+  },
+  {
+    "geo_point_2d": [
+      48.7145127253,
+      2.37174714346
+    ],
+    "label": "Porte de l'Essonne",
+    "nom_long": "PORTE DE L'ESSONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.8983929533,
+      2.35939390112
+    ],
+    "label": "Porte de la Chapelle",
+    "nom_long": "PORTE DE LA CHAPELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.8973898916,
+      2.38550838767
+    ],
+    "label": "Porte de la Villette",
+    "nom_long": "PORTE DE LA VILLETTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8535439161,
+      2.41062642574
+    ],
+    "label": "Porte de Montreuil",
+    "nom_long": "PORTE DE MONTREUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8894726577,
+      2.39579532816
+    ],
+    "label": "Porte de Pantin",
+    "nom_long": "PORTE DE PANTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7526743518,
+      2.35536098908
+    ],
+    "label": "Porte de Rungis",
+    "nom_long": "PORTE DE RUNGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8379612135,
+      2.25712222985
+    ],
+    "label": "Porte de Saint-Cloud",
+    "nom_long": "PORTE DE SAINT-CLOUD"
+  },
+  {
+    "geo_point_2d": [
+      48.8973747955,
+      2.32894281278
+    ],
+    "label": "Porte de Saint-Ouen",
+    "nom_long": "PORTE DE SAINT-OUEN"
+  },
+  {
+    "geo_point_2d": [
+      48.7595735353,
+      2.36639800004
+    ],
+    "label": "Porte de Thiais",
+    "nom_long": "PORTE DE THIAIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8277046117,
+      2.30534093081
+    ],
+    "label": "Porte de Vanves",
+    "nom_long": "PORTE DE VANVES"
+  },
+  {
+    "geo_point_2d": [
+      48.8326011924,
+      2.28825267741
+    ],
+    "label": "Porte de Versailles",
+    "nom_long": "PORTE DE VERSAILLES"
+  },
+  {
+    "geo_point_2d": [
+      48.8471584794,
+      2.41014036797
+    ],
+    "label": "Porte de Vincennes",
+    "nom_long": "PORTE DE VINCENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8772136604,
+      2.40660986512
+    ],
+    "label": "Porte des Lilas",
+    "nom_long": "PORTE DES LILAS"
+  },
+  {
+    "geo_point_2d": [
+      48.8347644599,
+      2.40534934295
+    ],
+    "label": "Porte Doree",
+    "nom_long": "PORTE DOREE"
+  },
+  {
+    "geo_point_2d": [
+      48.8773496006,
+      2.28379555701
+    ],
+    "label": "PORTE MAILLOT",
+    "nom_long": "PORTE MAILLOT"
+  },
+  {
+    "geo_point_2d": [
+      48.8208733552,
+      2.35093287806
+    ],
+    "label": "Poterne des Peupliers",
+    "nom_long": "POTERNE DES PEUPLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.8799957944,
+      2.39894666246
+    ],
+    "label": "Pre Saint-Gervais",
+    "nom_long": "PRE SAINT-GERVAIS"
+  },
+  {
+    "geo_point_2d": [
+      49.2032657335,
+      2.37660117732
+    ],
+    "label": "PRECY-SUR-OISE",
+    "nom_long": "PRECY-SUR-OISE"
+  },
+  {
+    "geo_point_2d": [
+      49.1140619506,
+      2.28791534354
+    ],
+    "label": "PRESLES COURCELLES",
+    "nom_long": "PRESLES-COURCELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.5555915569,
+      3.3028712226
+    ],
+    "label": "PROVINS",
+    "nom_long": "PROVINS"
+  },
+  {
+    "geo_point_2d": [
+      48.8833623419,
+      2.23378168065
+    ],
+    "label": "PUTEAUX",
+    "nom_long": "PUTEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8657611028,
+      2.33442748591
+    ],
+    "label": "Pyramides",
+    "nom_long": "PYRAMIDES"
+  },
+  {
+    "geo_point_2d": [
+      48.8738818542,
+      2.3853162151
+    ],
+    "label": "Pyrenees",
+    "nom_long": "PYRENEES"
+  },
+  {
+    "geo_point_2d": [
+      48.8896574347,
+      2.30310461766
+    ],
+    "label": "Pte d'Asnieres Marguerite Long",
+    "nom_long": "Porte d'Asnieres Marguerite Long"
+  },
+  {
+    "geo_point_2d": [
+      48.8370451202,
+      2.37282572454
+    ],
+    "label": "Quai de la Gare",
+    "nom_long": "QUAI DE LA GARE"
+  },
+  {
+    "geo_point_2d": [
+      48.8465154069,
+      2.36587346665
+    ],
+    "label": "Quai de la Rapee",
+    "nom_long": "QUAI DE LA RAPEE"
+  },
+  {
+    "geo_point_2d": [
+      48.8695852435,
+      2.33621884752
+    ],
+    "label": "Quatre Septembre",
+    "nom_long": "QUATRE SEPTEMBRE"
+  },
+  {
+    "geo_point_2d": [
+      48.6442219526,
+      1.83293547037
+    ],
+    "label": "RAMBOUILLET",
+    "nom_long": "RAMBOUILLET"
+  },
+  {
+    "geo_point_2d": [
+      48.8612049903,
+      2.35349574013
+    ],
+    "label": "Rambuteau",
+    "nom_long": "RAMBUTEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8554850495,
+      2.27010913895
+    ],
+    "label": "Ranelagh",
+    "nom_long": "RANELAGH"
+  },
+  {
+    "geo_point_2d": [
+      48.8389642807,
+      2.33075419209
+    ],
+    "label": "Raspail",
+    "nom_long": "RASPAIL"
+  },
+  {
+    "geo_point_2d": [
+      48.866235133,
+      2.3525493044
+    ],
+    "label": "Reaumur-Sebastopol",
+    "nom_long": "REAUMUR-SEBASTOPOL"
+  },
+  {
+    "geo_point_2d": [
+      48.8484578485,
+      2.32778212715
+    ],
+    "label": "Rennes",
+    "nom_long": "RENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8675034238,
+      2.36382614398
+    ],
+    "label": "Republique",
+    "nom_long": "REPUBLIQUE"
+  },
+  {
+    "geo_point_2d": [
+      48.8473545169,
+      2.38680844578
+    ],
+    "label": "Reuilly-Diderot",
+    "nom_long": "REUILLY-DIDEROT"
+  },
+  {
+    "geo_point_2d": [
+      48.8598736217,
+      2.37191397876
+    ],
+    "label": "Richard Lenoir",
+    "nom_long": "RICHARD LENOIR"
+  },
+  {
+    "geo_point_2d": [
+      48.8720134638,
+      2.34005178574
+    ],
+    "label": "Richelieu-Drouot",
+    "nom_long": "RICHELIEU-DROUOT"
+  },
+  {
+    "geo_point_2d": [
+      48.8882676206,
+      2.37420401608
+    ],
+    "label": "Riquet",
+    "nom_long": "RIQUET"
+  },
+  {
+    "geo_point_2d": [
+      48.6589754229,
+      2.4152068427
+    ],
+    "label": "RIS-ORANGIS",
+    "nom_long": "RIS-ORANGIS"
+  },
+  {
+    "geo_point_2d": [
+      48.7465685866,
+      2.35287534134
+    ],
+    "label": "Robert Schuman",
+    "nom_long": "ROBERT SCHUMAN"
+  },
+  {
+    "geo_point_2d": [
+      48.7851214133,
+      2.17879859027
+    ],
+    "label": "Robert Wagner",
+    "nom_long": "ROBERT WAGNER"
+  },
+  {
+    "geo_point_2d": [
+      48.8557264286,
+      2.42298321615
+    ],
+    "label": "Robespierre",
+    "nom_long": "ROBESPIERRE"
+  },
+  {
+    "geo_point_2d": [
+      48.7802372971,
+      2.28143059544
+    ],
+    "label": "ROBINSON",
+    "nom_long": "ROBINSON"
+  },
+  {
+    "geo_point_2d": [
+      48.9448189327,
+      2.35700635511
+    ],
+    "label": "Roger Semat",
+    "nom_long": "ROGER SEMAT"
+  },
+  {
+    "geo_point_2d": [
+      48.7956548205,
+      2.65038766981
+    ],
+    "label": "ROISSY-EN-BRIE",
+    "nom_long": "ROISSY-EN-BRIE"
+  },
+  {
+    "geo_point_2d": [
+      48.8822269008,
+      2.32127492677
+    ],
+    "label": "Rome",
+    "nom_long": "ROME"
+  },
+  {
+    "geo_point_2d": [
+      48.8966738112,
+      2.37412297553
+    ],
+    "label": "ROSA PARKS",
+    "nom_long": "ROSA PARKS"
+  },
+  {
+    "geo_point_2d": [
+      48.9531682468,
+      2.31540361211
+    ],
+    "label": "Rose Bertin",
+    "nom_long": "ROSE BERTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8823040066,
+      2.48142125733
+    ],
+    "label": "ROSNY BOIS PERRIER",
+    "nom_long": "ROSNY-BOIS-PERRIER"
+  },
+  {
+    "geo_point_2d": [
+      48.8699124183,
+      2.48576114198
+    ],
+    "label": "ROSNY-SOUS-BOIS",
+    "nom_long": "ROSNY-SOUS-BOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9973920018,
+      1.63016762727
+    ],
+    "label": "ROSNY-SUR-SEINE",
+    "nom_long": "ROSNY-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.930934183,
+      2.51504966242
+    ],
+    "label": "Rougemont-Chanteloup",
+    "nom_long": "ROUGEMONT-CHANTELOUP"
+  },
+  {
+    "geo_point_2d": [
+      48.8639744458,
+      2.27811256254
+    ],
+    "label": "Rue de la Pompe",
+    "nom_long": "RUE DE LA POMPE (AVENUE GEORGES MANDEL)"
+  },
+  {
+    "geo_point_2d": [
+      48.8523154274,
+      2.38937812792
+    ],
+    "label": "Rue des Boulets",
+    "nom_long": "RUE DES BOULETS"
+  },
+  {
+    "geo_point_2d": [
+      48.8555509402,
+      2.32571242217
+    ],
+    "label": "Rue du Bac",
+    "nom_long": "RUE DU BAC"
+  },
+  {
+    "geo_point_2d": [
+      48.8875736186,
+      2.17257944908
+    ],
+    "label": "RUEIL-MALMAISON",
+    "nom_long": "RUEIL-MALMAISON"
+  },
+  {
+    "geo_point_2d": [
+      48.7405841228,
+      2.35330704843
+    ],
+    "label": "RUNGIS LA FRATERNELLE",
+    "nom_long": "RUNGIS-LA FRATERNELLE"
+  },
+  {
+    "geo_point_2d": [
+      48.7501740371,
+      2.35436727915
+    ],
+    "label": "Saarinen",
+    "nom_long": "SAARINEN"
+  },
+  {
+    "geo_point_2d": [
+      48.8610192599,
+      2.37473343128
+    ],
+    "label": "Saint-Ambroise",
+    "nom_long": "SAINT-AMBROISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8745583847,
+      2.3213619281
+    ],
+    "label": "Saint-Augustin",
+    "nom_long": "SAINT-AUGUSTIN"
+  },
+  {
+    "geo_point_2d": [
+      48.5510919756,
+      2.1257072677
+    ],
+    "label": "SAINT-CHERON",
+    "nom_long": "SAINT-CHERON"
+  },
+  {
+    "geo_point_2d": [
+      48.8461029486,
+      2.21762108089
+    ],
+    "label": "SAINT-CLOUD",
+    "nom_long": "SAINT-CLOUD"
+  },
+  {
+    "geo_point_2d": [
+      48.7987076352,
+      2.07184700048
+    ],
+    "label": "SAINT-CYR",
+    "nom_long": "SAINT-CYR"
+  },
+  {
+    "geo_point_2d": [
+      48.9360306059,
+      2.34527468468
+    ],
+    "label": "SAINT-DENIS",
+    "nom_long": "SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9299358906,
+      2.35603579553
+    ],
+    "label": "Saint-Denis-Porte de Paris",
+    "nom_long": "SAINT-DENIS-PORTE DE PARIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9458456578,
+      2.36454176212
+    ],
+    "label": "Saint-Denis-Universite",
+    "nom_long": "SAINT-DENIS-UNIVERSITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8721014421,
+      2.40451494238
+    ],
+    "label": "Saint-Fargeau",
+    "nom_long": "SAINT-FARGEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.5644858719,
+      2.5426518227
+    ],
+    "label": "SAINT-FARGEAU",
+    "nom_long": "SAINT-FARGEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8514417092,
+      2.31440812145
+    ],
+    "label": "Saint-François-Xavier",
+    "nom_long": "SAINT-FRANCOIS-XAVIER"
+  },
+  {
+    "geo_point_2d": [
+      48.8784252594,
+      2.33759508007
+    ],
+    "label": "Saint-Georges",
+    "nom_long": "SAINT-GEORGES"
+  },
+  {
+    "geo_point_2d": [
+      48.8946076266,
+      2.06993796549
+    ],
+    "label": "SAINT-GERMAIN BEL AIR FOURQUEUX",
+    "nom_long": "SAINT-GERMAIN-BEL-AIR-FOURQUEUX"
+  },
+  {
+    "geo_point_2d": [
+      48.853718934,
+      2.33377613822
+    ],
+    "label": "Saint-Germain-des-Pres",
+    "nom_long": "SAINT-GERMAIN-DES-PRES"
+  },
+  {
+    "geo_point_2d": [
+      48.8980764111,
+      2.0948366283
+    ],
+    "label": "SAINT-GERMAIN-EN-LAYE",
+    "nom_long": "SAINT-GERMAIN-EN-LAYE"
+  },
+  {
+    "geo_point_2d": [
+      48.9032046155,
+      2.07297145657
+    ],
+    "label": "SAINT-GERMAIN GRANDE CEINTURE",
+    "nom_long": "SAINT-GERMAIN-GRANDE-CEINTURE"
+  },
+  {
+    "geo_point_2d": [
+      48.9635896849,
+      2.28593071957
+    ],
+    "label": "SAINT-GRATIEN",
+    "nom_long": "SAINT-GRATIEN"
+  },
+  {
+    "geo_point_2d": [
+      48.8329008157,
+      2.33713519471
+    ],
+    "label": "Saint-Jacques",
+    "nom_long": "SAINT-JACQUES"
+  },
+  {
+    "geo_point_2d": [
+      48.0266866323,
+      3.30256453785
+    ],
+    "label": "SAINT-JULIEN-DU-SAULT",
+    "nom_long": "SAINT-JULIEN-DU-SAULT"
+  },
+  {
+    "geo_point_2d": [
+      48.8759331524,
+      2.32572796139
+    ],
+    "label": "SAINT-LAZARE",
+    "nom_long": "SAINT-LAZARE"
+  },
+  {
+    "geo_point_2d": [
+      49.2138563248,
+      2.41736939105
+    ],
+    "label": "SAINT-LEU D’ESSERENT",
+    "nom_long": "SAINT-LEU D’ESSERENT"
+  },
+  {
+    "geo_point_2d": [
+      49.0155849728,
+      2.24247911127
+    ],
+    "label": "SAINT-LEU-LA-FORÊT",
+    "nom_long": "SAINT-LEU-LA-FORET"
+  },
+  {
+    "geo_point_2d": [
+      48.3823580058,
+      2.81595676708
+    ],
+    "label": "SAINT-MAMMES",
+    "nom_long": "SAINT-MAMMES"
+  },
+  {
+    "geo_point_2d": [
+      48.8463569889,
+      2.41947990037
+    ],
+    "label": "Saint-Mande",
+    "nom_long": "SAINT-MANDE"
+  },
+  {
+    "geo_point_2d": [
+      48.8384272961,
+      2.36096716635
+    ],
+    "label": "Saint-Marcel",
+    "nom_long": "SAINT-MARCEL"
+  },
+  {
+    "geo_point_2d": [
+      48.4273625842,
+      2.1452465929
+    ],
+    "label": "SAINT-MARTIN-D'ETAMPES",
+    "nom_long": "SAINT-MARTIN-D'ETAMPES"
+  },
+  {
+    "geo_point_2d": [
+      48.8640865748,
+      2.38079798618
+    ],
+    "label": "Rue Saint-Maur",
+    "nom_long": "SAINT-MAUR"
+  },
+  {
+    "geo_point_2d": [
+      48.8062000248,
+      2.4727204038
+    ],
+    "label": "SAINT-MAUR CRETEIL",
+    "nom_long": "SAINT-MAUR-CRETEIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8532518986,
+      2.34466048015
+    ],
+    "label": "SAINT-MICHEL",
+    "nom_long": "SAINT-MICHEL"
+  },
+  {
+    "geo_point_2d": [
+      48.6358758658,
+      2.30683316396
+    ],
+    "label": "SAINT-MICHEL-SUR-ORGE",
+    "nom_long": "SAINT-MICHEL-SUR-ORGE"
+  },
+  {
+    "geo_point_2d": [
+      48.8677920986,
+      2.05076784532
+    ],
+    "label": "SAINT-NOM-LA-BRETECHE FORÊT DE MARLY",
+    "nom_long": "SAINT-NOM-LA-BRETECHE-FORET-DE-MARLY"
+  },
+  {
+    "geo_point_2d": [
+      48.9056549558,
+      2.32240040314
+    ],
+    "label": "SAINT-OUEN",
+    "nom_long": "SAINT-OUEN"
+  },
+  {
+    "geo_point_2d": [
+      49.0453116484,
+      2.10511071028
+    ],
+    "label": "SAINT-OUEN-L'AUMÔNE",
+    "nom_long": "SAINT-OUEN-L'AUMONE"
+  },
+  {
+    "geo_point_2d": [
+      49.0339876363,
+      2.12826387256
+    ],
+    "label": "SAINT-OUEN-L'AUMÔNE LIESSE",
+    "nom_long": "SAINT-OUEN-L'AUMONE-LIESSE"
+  },
+  {
+    "geo_point_2d": [
+      49.0399813093,
+      2.10385269645
+    ],
+    "label": "SAINT-OUEN-L'AUMÔNE QUARTIER DE L'EGLISE",
+    "nom_long": "SAINT-OUEN-L'AUMONE-QUARTIER DE L'EGLISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8552362528,
+      2.36095648866
+    ],
+    "label": "Saint-Paul",
+    "nom_long": "SAINT-PAUL (LE MARAIS)"
+  },
+  {
+    "geo_point_2d": [
+      48.8724223837,
+      2.31003834462
+    ],
+    "label": "Saint-Philippe du Roule",
+    "nom_long": "SAINT-PHILIPPE-DU-ROULE"
+  },
+  {
+    "geo_point_2d": [
+      48.5421836112,
+      1.58998527987
+    ],
+    "label": "SAINT-PIAT",
+    "nom_long": "SAINT-PIAT"
+  },
+  {
+    "geo_point_2d": [
+      48.846878238,
+      2.32679278504
+    ],
+    "label": "Saint-Placide",
+    "nom_long": "SAINT-PLACIDE"
+  },
+  {
+    "geo_point_2d": [
+      48.7873902392,
+      2.04462198988
+    ],
+    "label": "SAINT-QUENTIN-EN-YVELINES",
+    "nom_long": "SAINT-QUENTIN-EN-YVELINES"
+  },
+  {
+    "geo_point_2d": [
+      48.702751043,
+      2.07124284766
+    ],
+    "label": "SAINT-REMY-LES-CHEVREUSE",
+    "nom_long": "SAINT-REMY-LES-CHEVREUSE"
+  },
+  {
+    "geo_point_2d": [
+      48.8611688655,
+      2.36721086641
+    ],
+    "label": "Saint-Sebastien Froissart",
+    "nom_long": "SAINT-SEBASTIEN FROISSART"
+  },
+  {
+    "geo_point_2d": [
+      48.8516722456,
+      2.33125629137
+    ],
+    "label": "Saint-Sulpice",
+    "nom_long": "SAINT-SULPICE"
+  },
+  {
+    "geo_point_2d": [
+      48.5291489677,
+      3.25536815138
+    ],
+    "label": "SAINTE-COLOMBE SEPTVEILLES",
+    "nom_long": "SAINTE-COLOMBE-SEPTVEILLES"
+  },
+  {
+    "geo_point_2d": [
+      48.6528113996,
+      2.31273624701
+    ],
+    "label": "SAINTE-GENEVIEVE-DES-BOIS",
+    "nom_long": "SAINTE-GENEVIEVE-DES-BOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9705199221,
+      2.26392495979
+    ],
+    "label": "SANNOIS",
+    "nom_long": "SANNOIS"
+  },
+  {
+    "geo_point_2d": [
+      49.1234518541,
+      1.94933268165
+    ],
+    "label": "SANTEUIL LE PERCHAY",
+    "nom_long": "SANTEUIL-LE-PERCHAY"
+  },
+  {
+    "geo_point_2d": [
+      48.9960068278,
+      2.36868456283
+    ],
+    "label": "SARCELLES SAINT-BRICE",
+    "nom_long": "SARCELLES-SAINT-BRICE"
+  },
+  {
+    "geo_point_2d": [
+      48.9377360634,
+      2.1570864951
+    ],
+    "label": "SARTROUVILLE",
+    "nom_long": "SARTROUVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.5955638398,
+      2.58394770969
+    ],
+    "label": "SAVIGNY-LE-TEMPLE-NANDY",
+    "nom_long": "SAVIGNY-LE-TEMPLE-NANDY"
+  },
+  {
+    "geo_point_2d": [
+      48.676446657,
+      2.35248140105
+    ],
+    "label": "SAVIGNY-SUR-ORGE",
+    "nom_long": "SAVIGNY-SUR-ORGE"
+  },
+  {
+    "geo_point_2d": [
+      48.7813567213,
+      2.29764767643
+    ],
+    "label": "SCEAUX",
+    "nom_long": "SCEAUX"
+  },
+  {
+    "geo_point_2d": [
+      48.8470661332,
+      2.30740224062
+    ],
+    "label": "Segur",
+    "nom_long": "SEGUR"
+  },
+  {
+    "geo_point_2d": [
+      48.1984174943,
+      3.26732002874
+    ],
+    "label": "SENS",
+    "nom_long": "SENS"
+  },
+  {
+    "geo_point_2d": [
+      48.867309475,
+      2.34751621328
+    ],
+    "label": "Sentier",
+    "nom_long": "SENTIER"
+  },
+  {
+    "geo_point_2d": [
+      48.5358065092,
+      2.06938152489
+    ],
+    "label": "SERMAISE",
+    "nom_long": "SERMAISE"
+  },
+  {
+    "geo_point_2d": [
+      49.1190226463,
+      2.39972485389
+    ],
+    "label": "SEUGY",
+    "nom_long": "SEUGY"
+  },
+  {
+    "geo_point_2d": [
+      48.8675213572,
+      2.40897893974
+    ],
+    "label": "Severine",
+    "nom_long": "SEVERINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9476075586,
+      2.52471638939
+    ],
+    "label": "SEVRAN BEAUDOTTES",
+    "nom_long": "SEVRAN-BEAUDOTTES"
+  },
+  {
+    "geo_point_2d": [
+      48.9362801847,
+      2.53471497339
+    ],
+    "label": "SEVRAN LIVRY",
+    "nom_long": "SEVRAN-LIVRY"
+  },
+  {
+    "geo_point_2d": [
+      48.8212170379,
+      2.21485979135
+    ],
+    "label": "SEVRES RIVE GAUCHE",
+    "nom_long": "SEVRES RIVE GAUCHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8513788297,
+      2.32693524475
+    ],
+    "label": "Sevres-Babylone",
+    "nom_long": "SEVRES-BABYLONE"
+  },
+  {
+    "geo_point_2d": [
+      48.8456269668,
+      2.30953149282
+    ],
+    "label": "Sevres-Lecourbe",
+    "nom_long": "SEVRES-LECOURBE"
+  },
+  {
+    "geo_point_2d": [
+      48.8272387727,
+      2.20072125663
+    ],
+    "label": "SEVRES VILLE-D'AVRAY",
+    "nom_long": "SEVRES-VILLE-D'AVRAY"
+  },
+  {
+    "geo_point_2d": [
+      48.893941388,
+      2.34776550172
+    ],
+    "label": "Simplon",
+    "nom_long": "SIMPLON"
+  },
+  {
+    "geo_point_2d": [
+      48.9299710262,
+      2.38475886144
+    ],
+    "label": "Six routes",
+    "nom_long": "SIX ROUTES"
+  },
+  {
+    "geo_point_2d": [
+      48.7903330019,
+      2.26338916602
+    ],
+    "label": "Soleil Levant",
+    "nom_long": "SOLEIL LEVANT"
+  },
+  {
+    "geo_point_2d": [
+      48.8585111299,
+      2.32315485584
+    ],
+    "label": "Solferino",
+    "nom_long": "SOLFERINO"
+  },
+  {
+    "geo_point_2d": [
+      48.1809368558,
+      2.73624984291
+    ],
+    "label": "SOUPPES",
+    "nom_long": "SOUPPES"
+  },
+  {
+    "geo_point_2d": [
+      48.8195005099,
+      2.34580357984
+    ],
+    "label": "Stade Charlety",
+    "nom_long": "STADE CHARLETY (PORTE DE GENTILLY)"
+  },
+  {
+    "geo_point_2d": [
+      48.917567173,
+      2.35038953793
+    ],
+    "label": "STADE DE FRANCE-SAINT-DENIS",
+    "nom_long": "STADE DE FRANCE-SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9243751434,
+      2.40207341436
+    ],
+    "label": "Stade Geo Andre",
+    "nom_long": "STADE GEO ANDRE"
+  },
+  {
+    "geo_point_2d": [
+      48.8839952205,
+      2.36891270331
+    ],
+    "label": "Stalingrad",
+    "nom_long": "STALINGRAD"
+  },
+  {
+    "geo_point_2d": [
+      49.01004496,
+      2.57064006889
+    ],
+    "label": "Parc PX",
+    "nom_long": "STATION PX"
+  },
+  {
+    "geo_point_2d": [
+      48.8692940077,
+      2.35428087908
+    ],
+    "label": "Strasbourg-Saint-Denis",
+    "nom_long": "STRASBOURG-SAINT-DENIS"
+  },
+  {
+    "geo_point_2d": [
+      48.7717079088,
+      2.5074826457
+    ],
+    "label": "SUCY BONNEUIL",
+    "nom_long": "SUCY-BONNEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8512376071,
+      2.36198522639
+    ],
+    "label": "Sully-Morland",
+    "nom_long": "SULLY-MORLAND"
+  },
+  {
+    "geo_point_2d": [
+      48.8682387849,
+      2.22141060398
+    ],
+    "label": "Suresnes Longchamp",
+    "nom_long": "SURESNES-LONGCHAMP"
+  },
+  {
+    "geo_point_2d": [
+      48.8717141866,
+      2.22102954777
+    ],
+    "label": "SURESNES MONT VALERIEN",
+    "nom_long": "SURESNES-MONT VALERIEN"
+  },
+  {
+    "geo_point_2d": [
+      49.0995869383,
+      2.525531714
+    ],
+    "label": "SURVILLIERS FOSSES",
+    "nom_long": "SURVILLIERS-FOSSES"
+  },
+  {
+    "geo_point_2d": [
+      48.8333653438,
+      2.27671209053
+    ],
+    "label": "Suzanne Lenglen",
+    "nom_long": "SUZANNE LENGLEN"
+  },
+  {
+    "geo_point_2d": [
+      48.9591210983,
+      2.35874250448
+    ],
+    "label": "Suzanne Valadon",
+    "nom_long": "SUZANNE VALADON"
+  },
+  {
+    "geo_point_2d": [
+      48.8294290162,
+      1.6690101627
+    ],
+    "label": "TACOIGNIERES RICHEBOURG",
+    "nom_long": "TACOIGNIERES-RICHEBOURG"
+  },
+  {
+    "geo_point_2d": [
+      49.024778547,
+      2.22272732219
+    ],
+    "label": "TAVERNY",
+    "nom_long": "TAVERNY"
+  },
+  {
+    "geo_point_2d": [
+      48.8754744576,
+      2.39886759934
+    ],
+    "label": "Telegraphe",
+    "nom_long": "TELEGRAPHE"
+  },
+  {
+    "geo_point_2d": [
+      48.8666826802,
+      2.36154153207
+    ],
+    "label": "Temple",
+    "nom_long": "TEMPLE"
+  },
+  {
+    "geo_point_2d": [
+      49.0134027057,
+      2.54195169681
+    ],
+    "label": "Terminal 1",
+    "nom_long": "TERMINAL 1"
+  },
+  {
+    "geo_point_2d": [
+      48.8779727014,
+      2.29831037512
+    ],
+    "label": "Ternes",
+    "nom_long": "TERNES"
+  },
+  {
+    "geo_point_2d": [
+      48.9375098964,
+      2.35040001854
+    ],
+    "label": "Theâtre Gerard Philipe",
+    "nom_long": "THEATRE GERARD PHILIPE"
+  },
+  {
+    "geo_point_2d": [
+      49.008114015,
+      2.68025245462
+    ],
+    "label": "THIEUX NANTOUILLET",
+    "nom_long": "THIEUX-NANTOUILLET"
+  },
+  {
+    "geo_point_2d": [
+      48.3943084388,
+      2.76402818744
+    ],
+    "label": "THOMERY",
+    "nom_long": "THOMERY"
+  },
+  {
+    "geo_point_2d": [
+      49.0067002768,
+      1.91923711175
+    ],
+    "label": "THUN LE PARADIS",
+    "nom_long": "THUN-LE-PARADIS"
+  },
+  {
+    "geo_point_2d": [
+      48.9332722746,
+      2.30182635534
+    ],
+    "label": "Timbaud",
+    "nom_long": "TIMBAUD"
+  },
+  {
+    "geo_point_2d": [
+      48.8264260109,
+      2.35724565076
+    ],
+    "label": "Tolbiac",
+    "nom_long": "TOLBIAC"
+  },
+  {
+    "geo_point_2d": [
+      48.8396455173,
+      2.65513008664
+    ],
+    "label": "TORCY",
+    "nom_long": "TORCY"
+  },
+  {
+    "geo_point_2d": [
+      48.7394872073,
+      2.75882454867
+    ],
+    "label": "TOURNAN",
+    "nom_long": "TOURNAN"
+  },
+  {
+    "geo_point_2d": [
+      48.7748028107,
+      2.00656687176
+    ],
+    "label": "TRAPPES",
+    "nom_long": "TRAPPES"
+  },
+  {
+    "geo_point_2d": [
+      49.2825897349,
+      1.81808238251
+    ],
+    "label": "TRIE CHÂTEAU",
+    "nom_long": "TRIE-CHATEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.981071911,
+      2.00593089169
+    ],
+    "label": "TRIEL-SUR-SEINE",
+    "nom_long": "TRIEL-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9602264907,
+      2.95006038275
+    ],
+    "label": "TRILPORT",
+    "nom_long": "TRILPORT"
+  },
+  {
+    "geo_point_2d": [
+      48.8763179623,
+      2.3325430273
+    ],
+    "label": "Trinite d'Estienne d'Orves",
+    "nom_long": "TRINITE-D'ESTIENNE D'ORVES"
+  },
+  {
+    "geo_point_2d": [
+      48.8630737822,
+      2.2871668755
+    ],
+    "label": "Trocadero",
+    "nom_long": "TROCADERO"
+  },
+  {
+    "geo_point_2d": [
+      48.8643437787,
+      2.33012987711
+    ],
+    "label": "Tuileries",
+    "nom_long": "TUILERIES"
+  },
+  {
+    "geo_point_2d": [
+      49.0996501217,
+      1.97053572369
+    ],
+    "label": "US",
+    "nom_long": "US"
+  },
+  {
+    "geo_point_2d": [
+      48.8752082655,
+      2.63759072126
+    ],
+    "label": "VAIRES-TORCY",
+    "nom_long": "VAIRES-TORCY"
+  },
+  {
+    "geo_point_2d": [
+      48.9503043535,
+      2.23111003501
+    ],
+    "label": "VAL D'ARGENTEUIL",
+    "nom_long": "VAL D'ARGENTEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8553948099,
+      2.77343391924
+    ],
+    "label": "VAL-D'EUROPE",
+    "nom_long": "VAL-D'EUROPE"
+  },
+  {
+    "geo_point_2d": [
+      48.8543530972,
+      2.48913730642
+    ],
+    "label": "VAL DE FONTENAY",
+    "nom_long": "VAL-DE-FONTENAY"
+  },
+  {
+    "geo_point_2d": [
+      49.0910734513,
+      2.20182348425
+    ],
+    "label": "VALMONDOIS",
+    "nom_long": "VALMONDOIS"
+  },
+  {
+    "geo_point_2d": [
+      48.8488163725,
+      2.32125786291
+    ],
+    "label": "Vaneau",
+    "nom_long": "VANEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8183876405,
+      2.29206181727
+    ],
+    "label": "VANVES-MALAKOFF",
+    "nom_long": "VANVES-MALAKOFF"
+  },
+  {
+    "geo_point_2d": [
+      48.8568713792,
+      2.31505663732
+    ],
+    "label": "Varenne",
+    "nom_long": "VARENNE"
+  },
+  {
+    "geo_point_2d": [
+      48.8071698468,
+      2.29409124432
+    ],
+    "label": "Vauban",
+    "nom_long": "VAUBAN"
+  },
+  {
+    "geo_point_2d": [
+      48.7591889859,
+      2.19213580582
+    ],
+    "label": "VAUBOYEN",
+    "nom_long": "VAUBOYEN"
+  },
+  {
+    "geo_point_2d": [
+      49.0217739562,
+      2.22937648839
+    ],
+    "label": "VAUCELLES",
+    "nom_long": "VAUCELLES"
+  },
+  {
+    "geo_point_2d": [
+      48.8366433163,
+      2.15269740303
+    ],
+    "label": "VAUCRESSON",
+    "nom_long": "VAUCRESSON"
+  },
+  {
+    "geo_point_2d": [
+      48.8395165854,
+      2.30110751488
+    ],
+    "label": "Vaugirard",
+    "nom_long": "VAUGIRARD (ADOLPHE CHERIOU)"
+  },
+  {
+    "geo_point_2d": [
+      49.0071272463,
+      1.96355177166
+    ],
+    "label": "VAUX-SUR-SEINE",
+    "nom_long": "VAUX-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8422184136,
+      2.32900892624
+    ],
+    "label": "Vavin",
+    "nom_long": "VAVIN"
+  },
+  {
+    "geo_point_2d": [
+      48.7849697633,
+      2.22000951686
+    ],
+    "label": "Velizy 2",
+    "nom_long": "VELIZY 2"
+  },
+  {
+    "geo_point_2d": [
+      48.644373624,
+      2.82516993433
+    ],
+    "label": "VERNEUIL-L'ETANG",
+    "nom_long": "VERNEUIL-L'ETANG"
+  },
+  {
+    "geo_point_2d": [
+      49.0910096787,
+      1.47870360947
+    ],
+    "label": "VERNON",
+    "nom_long": "VERNON"
+  },
+  {
+    "geo_point_2d": [
+      48.3867709865,
+      2.84203739017
+    ],
+    "label": "VERNOU-SUR-SEINE",
+    "nom_long": "VERNOU-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9814459694,
+      1.98314335209
+    ],
+    "label": "VERNOUILLET-VERNEUIL",
+    "nom_long": "VERNOUILLET-VERNEUIL"
+  },
+  {
+    "geo_point_2d": [
+      48.8002155781,
+      2.12904386737
+    ],
+    "label": "VERSAILLES CHATEAU",
+    "nom_long": "VERSAILLES CHATEAU"
+  },
+  {
+    "geo_point_2d": [
+      48.809482263,
+      2.13508745661
+    ],
+    "label": "VERSAILLES RIVE DROITE",
+    "nom_long": "VERSAILLES RIVE DROITE"
+  },
+  {
+    "geo_point_2d": [
+      48.7952802463,
+      2.13605048966
+    ],
+    "label": "VERSAILLES-CHANTIERS",
+    "nom_long": "VERSAILLES-CHANTIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.9441810651,
+      2.56644801561
+    ],
+    "label": "VERT GALANT",
+    "nom_long": "VERT-GALANT"
+  },
+  {
+    "geo_point_2d": [
+      49.1166278816,
+      2.36825354625
+    ],
+    "label": "VIARMES",
+    "nom_long": "VIARMES"
+  },
+  {
+    "geo_point_2d": [
+      48.9140476807,
+      2.22957161329
+    ],
+    "label": "Victor Basch",
+    "nom_long": "VICTOR BASCH"
+  },
+  {
+    "geo_point_2d": [
+      48.8697985565,
+      2.28533509469
+    ],
+    "label": "Victor Hugo",
+    "nom_long": "VICTOR HUGO"
+  },
+  {
+    "geo_point_2d": [
+      48.7083664326,
+      2.4143588798
+    ],
+    "label": "VIGNEUX-SUR-SEINE",
+    "nom_long": "VIGNEUX-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.5926277422,
+      2.46180638748
+    ],
+    "label": "VILLABE",
+    "nom_long": "VILLABE"
+  },
+  {
+    "geo_point_2d": [
+      49.0794702322,
+      2.35083083084
+    ],
+    "label": "VILLAINES",
+    "nom_long": "VILLAINES"
+  },
+  {
+    "geo_point_2d": [
+      48.8046881209,
+      2.3639531966
+    ],
+    "label": "Villejuif-Leo Lagrange",
+    "nom_long": "VILLEJUIF-LEO LAGRANGE"
+  },
+  {
+    "geo_point_2d": [
+      48.7875627921,
+      2.36780410698
+    ],
+    "label": "Villejuif-Louis Aragon",
+    "nom_long": "VILLEJUIF-LOUIS ARAGON"
+  },
+  {
+    "geo_point_2d": [
+      48.7964830846,
+      2.36826954005
+    ],
+    "label": "Villejuif-Paul Vaillant-Couturier",
+    "nom_long": "VILLEJUIF-PAUL VAILLANT-COUTURIER"
+  },
+  {
+    "geo_point_2d": [
+      48.3426136802,
+      3.07174645374
+    ],
+    "label": "VILLENEUVE-LA-GUYARD",
+    "nom_long": "VILLENEUVE-LA-GUYARD"
+  },
+  {
+    "geo_point_2d": [
+      48.7398306985,
+      2.42639982184
+    ],
+    "label": "VILLENEUVE-LE-ROI",
+    "nom_long": "VILLENEUVE-LE-ROI"
+  },
+  {
+    "geo_point_2d": [
+      48.7301168278,
+      2.44613582961
+    ],
+    "label": "VILLENEUVE-SAINT-GEORGES",
+    "nom_long": "VILLENEUVE-SAINT-GEORGES"
+  },
+  {
+    "geo_point_2d": [
+      48.0851844953,
+      3.28625649812
+    ],
+    "label": "VILLENEUVE-SUR-YONNE",
+    "nom_long": "VILLENEUVE-SUR-YONNE"
+  },
+  {
+    "geo_point_2d": [
+      48.7452308149,
+      2.43834424057
+    ],
+    "label": "VILLENEUVE TRIAGE",
+    "nom_long": "VILLENEUVE-TRIAGE"
+  },
+  {
+    "geo_point_2d": [
+      48.9394868108,
+      1.99960360966
+    ],
+    "label": "VILLENNES-SUR-SEINE",
+    "nom_long": "VILLENNES-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.9531483885,
+      2.60313531057
+    ],
+    "label": "VILLEPARISIS-MITRY-LE-NEUF",
+    "nom_long": "VILLEPARISIS-MITRY-LE-NEUF"
+  },
+  {
+    "geo_point_2d": [
+      48.9627095151,
+      2.51264462644
+    ],
+    "label": "VILLEPINTE",
+    "nom_long": "VILLEPINTE"
+  },
+  {
+    "geo_point_2d": [
+      48.8236532714,
+      1.99286453238
+    ],
+    "label": "VILLEPREUX-LES-CLAYES",
+    "nom_long": "VILLEPREUX-LES-CLAYES"
+  },
+  {
+    "geo_point_2d": [
+      48.9596759565,
+      2.34273416795
+    ],
+    "label": "Villetaneuse-Universite",
+    "nom_long": "VILLETANEUSE-UNIVERSITE"
+  },
+  {
+    "geo_point_2d": [
+      48.8811500285,
+      2.31517662622
+    ],
+    "label": "Villiers",
+    "nom_long": "VILLIERS"
+  },
+  {
+    "geo_point_2d": [
+      48.9937771478,
+      2.41618749165
+    ],
+    "label": "VILLIERS-LE-BEL GONESSE ARNOUVILLE",
+    "nom_long": "VILLIERS-LE-BEL-GONESSE-ARNOUVILLE"
+  },
+  {
+    "geo_point_2d": [
+      48.86329024,
+      2.88320172581
+    ],
+    "label": "VILLIERS-MONTBARBIN",
+    "nom_long": "VILLIERS-MONTBARBIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8153286196,
+      1.87750420433
+    ],
+    "label": "VILLIERS NEAUPHLE PONTCHARTRAIN",
+    "nom_long": "VILLIERS-NEAUPHLE PONTCHARTRAIN"
+  },
+  {
+    "geo_point_2d": [
+      48.8232666341,
+      2.54267979265
+    ],
+    "label": "VILLIERS-SUR-MARNE LE PLESSIS-TREVISE",
+    "nom_long": "VILLIERS-SUR-MARNE-PLESSIS-TREVISE"
+  },
+  {
+    "geo_point_2d": [
+      48.8473083586,
+      2.43329972174
+    ],
+    "label": "VINCENNES",
+    "nom_long": "VINCENNES"
+  },
+  {
+    "geo_point_2d": [
+      48.8054930338,
+      2.16852039696
+    ],
+    "label": "Viroflay Rive Droite",
+    "nom_long": "VIROFLAY RD"
+  },
+  {
+    "geo_point_2d": [
+      48.8007184639,
+      2.17138981412
+    ],
+    "label": "Viroflay Rive Gauche",
+    "nom_long": "VIROFLAY RG"
+  },
+  {
+    "geo_point_2d": [
+      48.676092434,
+      2.38678379703
+    ],
+    "label": "VIRY-CHÂTILLON",
+    "nom_long": "VIRY-CHATILLON"
+  },
+  {
+    "geo_point_2d": [
+      48.8002094001,
+      2.40271281716
+    ],
+    "label": "VITRY-SUR-SEINE",
+    "nom_long": "VITRY-SUR-SEINE"
+  },
+  {
+    "geo_point_2d": [
+      48.8415055224,
+      2.30794867934
+    ],
+    "label": "Volontaires",
+    "nom_long": "VOLONTAIRES"
+  },
+  {
+    "geo_point_2d": [
+      48.8574537227,
+      2.38071878586
+    ],
+    "label": "Voltaire",
+    "nom_long": "VOLTAIRE (LEON BLUM)"
+  },
+  {
+    "geo_point_2d": [
+      48.5151514533,
+      2.5993042727
+    ],
+    "label": "VOSVES",
+    "nom_long": "VOSVES"
+  },
+  {
+    "geo_point_2d": [
+      48.2746323892,
+      1.62149862568
+    ],
+    "label": "VOVES",
+    "nom_long": "VOVES"
+  },
+  {
+    "geo_point_2d": [
+      48.4309707214,
+      2.7531775675
+    ],
+    "label": "VULAINES-SUR-SEINE SAMOREAU",
+    "nom_long": "VULAINES-SUR-SEINE-SAMOREAU"
+  },
+  {
+    "geo_point_2d": [
+      48.8838092012,
+      2.30467444053
+    ],
+    "label": "Wagram",
+    "nom_long": "WAGRAM"
+  },
+  {
+    "geo_point_2d": [
+      48.7066109469,
+      2.4842451493
+    ],
+    "label": "YERRES",
+    "nom_long": "YERRES"
+  }
+]
