@@ -383,7 +383,7 @@ function styleDeplacementCar(feature) {
 }
 
 var transportCarLayer = L.geoJson(deplacement, {style: styleDeplacementCar}).bindPopup(function (layer) {
-    return "Commune: "+ layer.feature.properties.name + "public transport users: "+ layer.feature.properties.transport_en_commun + "public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
+    return "Commune: "+ layer.feature.properties.name + "<br>public transport users: "+ layer.feature.properties.transport_en_commun + "<br>public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
 }).addTo(map);
 
 /* ----------------END-----------Deplacement Voiture-------------------------------- */
