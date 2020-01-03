@@ -454,9 +454,9 @@ opacity: 1;
   display: text;
 }
 a:link {
-  color: white;
+  color: rgb(129, 255, 240);
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:visited {
