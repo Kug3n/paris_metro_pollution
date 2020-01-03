@@ -19,8 +19,6 @@
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
 
-  <!-- <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script> -->
-  <!-- <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script> -->
   <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
   <script type="text/javascript" src="js/leaflet.ajax.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
@@ -60,25 +58,8 @@
         Unable to play audio.
   </audio>
 
-  <!-- <div id="title">PARIS : <br> CONVERGENCE POLLUTION//DEPLACEMENT</div> -->
   <div id="title">PARIS : <br> CONFLUENCE <br>OF TRANSIT & POLLUTION</div>
 
-  <!-- <div id="button">3</div> -->
-
-  <!-- <div id="toggleCaption" class="volet animation">
-    LÉGENDE
-     <div id="divacacher1" style="display: none;">Test Romain</div>
-     <div id="divacacher2" style="display: none;">Test Romain 2</div>
-  </div> -->
-
-  <!-- <div id="bt1" class="bt1">P</div>
-
-
-  <div id="bt2" class="bt1">Rail</div>
-
-  <div id="bt3" class="bt1">V</div>
-
-  <div id="bt4" class="bt1">TC</div> -->
 
   <div class="flag" id="fr"><img alt="FR" id="img_fr" src="assets/fr.svg" /></div>
   <div class="flag" id="uk"><img alt="UK" id="img_uk" src="assets/uk.svg" /></div>
@@ -147,33 +128,9 @@
 
 
 
-                <!-- <div class="button_general">
-
-                    <div id="button_bus" class="button_key">ON</div>
-
-                    <div class="image_public_transport">
-                      <img id="icon_public_transport" alt="BUS" onerror="this.src='assets/directions_bus_24px.png';" src="assets/directions_bus_24px.svg" />
-                    </div>
-
-                    <div class="text">BUS</div>
-
-                </div> -->
-
-
               </div>
 </div>
 
-<!--
-<button type="button" name="public_transport" id="button_pollution" class="button_key">
-  <img alt="BUS" onerror="this.src='assets/directions_bus_24px.png';" src="assets/directions_bus_24px.svg" />
-
-https://api.jquery.com/show/
-
-
-  BUS</button>
-<button type="button" name="public_transport" id="button_rail" class="button_key">Rail</button>
-<button type="button" name="public_transport" id="button_car" class="button_key">Car and motorbike</button>
-<button type="button" name="public_transport" id="button_public_transport" class="button_key">Public transport</button> -->
 
 
   <div id="map"></div>
@@ -201,12 +158,10 @@ https://api.jquery.com/show/
   <script type="text/javascript">
 
   // charger le fond de carte -- début
-  // var map = L.map('map').setView([42.376773,-71.111670], 13);
  var map = L.map('map',{
    zoomControl:false
  }).setView([48.856608,2.344132], 9.1);
- // https://api.mapbox.com/styles/v1/dreue/ck35yszof32cb1cp5ygskcbnn.html?fresh=true&title=copy&access_token=pk.eyJ1IjoiZHJldWUiLCJhIjoiY2sydzJtNnB3MDE5bzNkcHFuMXUwbThtbSJ9.BvERGlgyLejzdugqNO3W7w#11.3/48.853965/2.373735/0
-  L.tileLayer( 'https://api.mapbox.com/styles/v1/dreue/ck35yszof32cb1cp5ygskcbnn/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZHJldWUiLCJhIjoiY2sydzJtNnB3MDE5bzNkcHFuMXUwbThtbSJ9.BvERGlgyLejzdugqNO3W7w', {
+   L.tileLayer( 'https://api.mapbox.com/styles/v1/dreue/ck35yszof32cb1cp5ygskcbnn/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZHJldWUiLCJhIjoiY2sydzJtNnB3MDE5bzNkcHFuMXUwbThtbSJ9.BvERGlgyLejzdugqNO3W7w', {
       tileSize: 512,
       zoomOffset: -1,
       attribution: '© <a href="https://apps.mapbox.com/feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -309,36 +264,6 @@ var pollution = L.geoJson(qualiteAir, {style: styleQualiteAir}).bindPopup(functi
 
 /* ----------------START-----------Deplacement Voiture-------------------------------- */
 
-
-// function setDeplacementColor(deplacementMeasured){
-//   var fillColor,
-//             car = deplacementMeasured
-//   if      ( car > 0.99 ) fillColor = "rgba(255, 107, 0, 1.000)";
-//   else if ( car > 0.95 ) fillColor = "rgba(255, 107, 0, 0.960)";
-//   else if ( car > 0.90 ) fillColor = "rgba(255, 107, 0, 0.910)";
-//   else if ( car > 0.85 ) fillColor = "rgba(255, 107, 0, 0.865)";
-//   else if ( car > 0.80 ) fillColor = "rgba(255, 107, 0, 0.820)";
-//   else if ( car > 0.75 ) fillColor = "rgba(255, 107, 0, 0.775)";
-//   else if ( car > 0.70 ) fillColor = "rgba(255, 107, 0, 0.730)";
-//   else if ( car > 0.65 ) fillColor = "rgba(255, 107, 0, 0.685)";
-//   else if ( car > 0.60 ) fillColor = "rgba(255, 107, 0, 0.640)";
-//   else if ( car > 0.57 ) fillColor = "rgba(255, 107, 0, 0.595)";
-//   else if ( car > 0.55 ) fillColor = "rgba(255, 107, 0, 0.550)";
-//   else if ( car > 0.50 ) fillColor = "rgba(255, 107, 0, 0.505)";
-//   else if ( car > 0.45 ) fillColor = "rgba(255, 107, 0, 0.460)";
-//   else if ( car > 0.40 ) fillColor = "rgba(255, 107, 0, 0.415)";
-//   else if ( car > 0.37 ) fillColor = "rgba(255, 107, 0, 0.370)";
-//   else if ( car > 0.35 ) fillColor = "rgba(255, 107, 0, 0.325)";
-//   else if ( car > 0.30 ) fillColor = "rgba(255, 107, 0, 0.280)";
-//   else if ( car > 0.25 ) fillColor = "rgba(255, 107, 0, 0.235)";
-//   else if ( car > 0.20 ) fillColor = "rgba(255, 107, 0, 0.190)";
-//   else if ( car > 0.15 ) fillColor = "rgba(255, 107, 0, 0.145)";
-//   else if ( car > 0.10 ) fillColor = "rgba(255, 107, 0, 0.100)";
-//   else if ( car > 0.05 ) fillColor = "rgba(255, 107, 0, 0.055)";
-//   else                   fillColor = "rgba(255, 107, 0, 0.100)";
-//   return fillColor;
-// }
-
 function setDeplacementOpacity(deplacementMeasured){
 var opacity,
           car = deplacementMeasured
@@ -372,18 +297,14 @@ return opacity;
 function styleDeplacementCar(feature) {
     return {
         weight: 4,
-        // opacity: 1,
-        // color: setDeplacementColor(feature.properties.ratio_voiture),
         opacity: setDeplacementOpacity(feature.properties.transport_2_ou_4_roues),
         color: setCarColour,
         fillColor: "rgba(0, 0, 0, 0)"
-        // dashArray: '3',
-        // fillOpacity: 0.7
     };
 }
 
 var transportCarLayer = L.geoJson(deplacement, {style: styleDeplacementCar}).bindPopup(function (layer) {
-    return "Commune: "+ layer.feature.properties.name + "<br>public transport users: "+ layer.feature.properties.transport_en_commun + "<br>public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
+    return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised veicle users: "+ layer.feature.properties.transport_2_ou_4_roues;
 }).addTo(map);
 
 /* ----------------END-----------Deplacement Voiture-------------------------------- */
@@ -411,124 +332,6 @@ var railNetworkLayer = L.geoJson(traceReseauFerre, {style: styleReseauFerre}).ad
 
 /* ----------------START-----------Deplacement Transport en Commun-------------------------------- */
 
-
-// function setDeplacementPublicTransportColor(deplacementMeasured){
-//   var fillColor,
-//       pm10 = deplacementMeasured;
-//   // if ( pm10 > 34 ) fillColor = "#000000";
-//   // else if ( pm10 > 33 ) fillColor = "#000000";
-//   // else if ( pm10 > 32 ) fillColor = "#800026";
-//   // else if ( pm10 > 31 ) fillColor = "#800026";
-//   // else if ( pm10 > 30 ) fillColor = "#800026";
-//   // else if ( pm10 > 29 ) fillColor = "#800026";
-//   // else if ( pm10 > 28 ) fillColor = "#800026";
-//   // else if ( pm10 > 27 ) fillColor = "#800026";
-//   // else if ( pm10 > 26 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 25 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 24 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 23 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 22 ) fillColor = "#e31a1c";
-//   if ( pm10 > 0.99 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.95 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.9 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.85 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.8 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.75 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.7 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.65 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.6 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.575 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.55 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.5 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.45 ) fillColor = "#fed976";
-//   else if ( pm10 > 0.4) fillColor = "#fed976";
-//   else if ( pm10 > 0.375 ) fillColor = "#fed976";
-//   else if ( pm10 > 0.35 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.3 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.25 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.2 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.15 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.1 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.05 ) fillColor = "#ffffcc";
-//   else fillColor = "#0e0e0e";
-//   return fillColor;
-// }
-//
-// function styleDeplacementPublicTransport(feature) {
-//     return {
-//         weight: 8,
-//         opacity: 1,
-//         color: setDeplacementPublicTransportColor(feature.properties.ratio_public_transport),
-//         // dashArray: '3',
-//         // fillOpacity: 0.7
-//     };
-// }
-//
-//
-// var transportPublicTransportLayer = L.geoJson(deplacement, {style: styleDeplacementPublicTransport}).addTo(map);
-
-/* ----------------END-----------Deplacement Transport en Commun-------------------------------- */
-
-
-// function setDeplacementPublicTransportColor(deplacementMeasured){
-//   var fillColor,
-//       pm10 = deplacementMeasured;
-//   // if ( pm10 > 34 ) fillColor = "#000000";
-//   // else if ( pm10 > 33 ) fillColor = "#000000";
-//   // else if ( pm10 > 32 ) fillColor = "#800026";
-//   // else if ( pm10 > 31 ) fillColor = "#800026";
-//   // else if ( pm10 > 30 ) fillColor = "#800026";
-//   // else if ( pm10 > 29 ) fillColor = "#800026";
-//   // else if ( pm10 > 28 ) fillColor = "#800026";
-//   // else if ( pm10 > 27 ) fillColor = "#800026";
-//   // else if ( pm10 > 26 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 25 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 24 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 23 ) fillColor = "#bd0026";
-//   // else if ( pm10 > 22 ) fillColor = "#e31a1c";
-//   if ( pm10 > 0.99 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.95 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.9 ) fillColor = "#e31a1c";
-//   else if ( pm10 > 0.85 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.8 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.75 ) fillColor = "#fc4e2a";
-//   else if ( pm10 > 0.7 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.65 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.6 ) fillColor = "#fd8d3c";
-//   else if ( pm10 > 0.575 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.55 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.5 ) fillColor = "#feb24c";
-//   else if ( pm10 > 0.45 ) fillColor = "#fed976";
-//   else if ( pm10 > 0.4) fillColor = "#fed976";
-//   else if ( pm10 > 0.375 ) fillColor = "#fed976";
-//   else if ( pm10 > 0.35 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.3 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.25 ) fillColor = "#ffeda0";
-//   else if ( pm10 > 0.2 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.15 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.1 ) fillColor = "#ffffcc";
-//   else if ( pm10 > 0.05 ) fillColor = "#ffffcc";
-//   else fillColor = "#0e0e0e";
-//   return fillColor;
-// }
-//
-//
-// var stripes2 = new L.StripePattern(
-//   {color:"blue",
-//   weight:3,
-//   angle: -52,
-//   opacity:1.0
-// });
-//     stripes2.addTo(map);
-//
-// var transportPublicTransportLayer = L.geoJson(deplacement, {
-//         style: {
-//             fillPattern: stripes2,
-//             //color: "red"
-//              fillOpacity: 1.0,
-//             opacity:0
-//         }
-//     }).addTo(map);
 
     function setDeplacementPublicTransportPattern(deplacementMeasured){
       var deplacementCount = deplacementMeasured;
@@ -579,7 +382,7 @@ function stylePublicTransport(feature) {
     var transportPublicTransportLayer = L.geoJson(deplacement, {
             style:stylePublicTransport,
         }).bindPopup(function (layer) {
-            return "Commune: "+ layer.feature.properties.name + "public transport users: "+ layer.feature.properties.transport_en_commun + "public transport users: "+ layer.feature.properties.transport_2_ou_4_roues;
+            return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised veicle users: "+ layer.feature.properties.transport_2_ou_4_roues;
         }).addTo(map);
 
 
@@ -716,14 +519,12 @@ $("#key_4").click(function(event) {
         // Add data
         map.removeLayer(transportPublicTransportLayer);
         // Style change on button
-        // $("#button_bus").text("OFF");
         $(this).removeClass('one_key');
         $(this).addClass('one_key_off');
     } else {
         // Remove data
         map.addLayer(transportPublicTransportLayer);
         // Style change on button
-        // $("#button_bus").text("ON");
         $(this).removeClass('one_key_off');
         $(this).addClass('one_key');
    }
@@ -785,22 +586,8 @@ $("#uk").click(function() {
 
 
 
-
-
-
-
 /* ------------------------------------------------------------- */
 
-  $("#button").click(function() {
-  $('.animation').toggleClass('volet_ouvert');
-
-});
-
-
-$("#toggleCaption").click(function() {
-$('.animation').toggleClass('volet_ouvert');
-
-});
 
 $("#key_button").click(function() {
   if ($('#key_panel').is(":visible")) {
