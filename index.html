@@ -304,7 +304,7 @@ function styleDeplacementCar(feature) {
 }
 
 var transportCarLayer = L.geoJson(deplacement, {style: styleDeplacementCar}).bindPopup(function (layer) {
-    return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised veicle users: "+ layer.feature.properties.transport_2_ou_4_roues;
+    return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised vehicles users: "+ layer.feature.properties.transport_2_ou_4_roues;
 }).addTo(map);
 
 /* ----------------END-----------Deplacement Voiture-------------------------------- */
@@ -382,8 +382,12 @@ function stylePublicTransport(feature) {
     var transportPublicTransportLayer = L.geoJson(deplacement, {
             style:stylePublicTransport,
         }).bindPopup(function (layer) {
-            return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised veicle users: "+ layer.feature.properties.transport_2_ou_4_roues;
-        }).addTo(map);
+            return "Commune: "+ layer.feature.properties.name + "<br>n° of public transport users: "+ layer.feature.properties.transport_en_commun + "<br>n° of motorised vehicles users: "+ layer.feature.properties.transport_2_ou_4_roues;
+        });
+
+    
+                $("#key_4").removeClass('one_key');
+                $("#key_4").addClass('one_key_off');
 
 
 /* ----------------START-------------integration point metro PULSATION -------------------------------- */
