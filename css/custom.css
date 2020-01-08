@@ -362,7 +362,7 @@ color: white !important;
 
 .leaflet-popup-content-wrapper {
 border-width: 1px !important;
-border-radius: 2px !important;
+border-radius: 5px !important;
 border-style: solid !important;
 background-color: black !important;
 border-color: white !important;
